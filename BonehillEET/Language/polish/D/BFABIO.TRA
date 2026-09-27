@@ -1,0 +1,42 @@
+@1 = ~Jesteœ dusz¹ towarzystwa, nieprawda¿?~ [FABIONZ]
+@2 = ~Baranie jeden, nie mo¿esz pozwoliæ, by Imoen zginê³a!~ [FABIONI]
+@3 = ~£a³, drow! I do tego gor¹ca laseczka!~ [FABIONV]
+@4 = ~Wiesz co? Pomyœla³em sobie, ¿e dziewczyny takie jak ty naprawdê mnie poci¹gaj¹.~ [FABIONSH]
+@5 = ~Hej, <CHARNAME>. Jest taka piosenka podobna do tego.~
+@6 = ~Zapewne znasz tê piosenkê.~
+@7 = ~Có¿, tak. W przeciwieñstwie do tamtego ch³opca ja nie wciskam ci siê w paradê.~
+@8 = ~Coœ w tym stylu, tak. Niech pomyœlê. *prze³yka œlinê*
+
+Tam ta ra ram, nie pojmowa³em
+na usch³ej d³oni t³ustego potu
+spod cienia szafotu
+zabra³em (rzecz pewn¹, rzecz pewn¹),
+a¿ w palcach zagra³o. Wyci¹gam siê, ziewaj¹c
+To D³oñ Chwa³y.~
+@9 = ~Nie pamiêtam œrodkowej czêœci. Piosenka mówi o sposobie tworzenia magicznego przedmiotu, przedmiotu zwanego D³oni¹ chwa³y. Ale to wszystko, co pamiêtam. Powinniœmy popytaæ o to Pelltara.~
+// Shall remain identical to @865 in baf.tra and @91 in BHFABIO.tra, otherwise there will be a journal issue
+@10 = ~Fabio twierdzi, ¿e skrawek papieru ma zwi¹zek z magicznym przedmiotem zwanym D³oni¹ Chwa³y. Zastanawiam siê, co to jest i dlaczego z³odzieje myœl¹, ¿e j¹ mam? Bêdziemy musieli porozmawiaæ o tym z Pelltarem, jak tylko wrócimy do Brodu Resten.~
+@11 = ~Te kwadraty na mapie s¹ w tym samym miejscu co niektóre budynki w mieœcie. Ale nie s¹ to wszystkie z nich. Tylko czêœæ z nich jest zaznaczona. Wydaje siê to dziwne.~
+@12 = ~Mapa? Tak, to mo¿liwe, czy¿ nie? S¹ na niej trzy wiêksze kwadraty po³o¿one niedaleko linii, któr¹ chyba jest rzeka. Ale dlaczego s¹ zaznaczone tylko dwa?~
+@13 = ~Có¿, mo¿e dlatego, ¿e tylko dwa s¹ magazynami, z których skradziono te przedmioty?~
+@14 = ~Byæ mo¿e. Chyba powinniœmy porozmawiaæ z Welcarem i zobaczyæ, czy siê z tob¹ zgadza.~
+@15 = ~Chwila, moment! Opuszczacie to wspania³e miasteczko? Przykro mi, ale bêdê musia³ tutaj zostaæ. Baronowa mo¿e i za mn¹ nie przepada, jednak jej córka zdecydowanie tak. Muszê tylko nad ni¹ trochê popracowaæ. Po tym wszystkim, czego w³aœnie dokonaliœmy, w oczach baronowej powinienem byæ bohaterem! Mo¿e pewnego dnia spotkamy siê na wybrze¿u. ¯egnaj.~
+@16 = ~Znów nas opuszczasz? W porz¹dku. Mam nadziejê, ¿e wszystko ci siê u³o¿y.~
+@17 = ~Balmorrow, jesteœ najgorszym bardem, jakiego sfery wypierdzia³y na ten padó³.~
+@18 = ~Bêdê czu³ siê znacznie lepiej, gdy nie bêdê musia³ patrzeæ na tê twoj¹ „sztukê”, jak oœmielasz siê to nazywaæ.~
+@19 = ~Musimy zamieniæ kilka s³ów. Z dala od innych. To jest <CHARNAME>. Mój przyjaciel.~
+@20 = ~Witaj, Balmorrowie. Ca³kiem niez³y teatrzyk sobie urz¹dzi³eœ.~
+@21 = ~Witaj.~
+@22 = ~*wskazuje na lutniê* Albo oni.~
+@23 = ~Och, niez³a panna z niej wyros³a.~
+@24 = ~<CHARNAME>, nie ma takiej mo¿liwoœci, aby Balmorrow by³ zamieszany w dzia³ania gildii zabójców. Podró¿owa³em z nim przez lata. Znam go bardzo dobrze. Mo¿e powinniœmy siê rozejrzeæ po zamku w poszukiwaniu œladów?~
+@25 = ~Hej, Willard, powinieneœ siê tutaj czuæ jak w domu.~ [FABIONM1]
+@26 = ~Boo chcia³by siê dowiedzieæ, kim jest ten „Willard”. Nie widzê tutaj nikogo prócz nas.~
+@27 = ~To ciebie nazwa³em Willardem. By³o to imiê bohatera pewnego filmu. Kocha³ szczury i ¿y³ wœród nich.~
+@28 = ~Ach! Rozumiem. Boo nie lubi, jak ktoœ nazywa go szczurem, muzykalny cz³owieku. Alee... Co to jest film?~
+@29 = ~*przewraca oczami we wszystkie strony* Film jest czymœ w rodzaju sztuki teatralnej. Tylko zamiast ogl¹daæ j¹ na ¿ywo, nagrywaj¹ j¹, abyœ móg³ sobie obejrzeæ póŸniej. Zanim zapytasz, pomyœl sobie o jakiejœ ksi¹¿ce. Ca³a opowieœæ jest w niej zapisana, wiêc mo¿esz j¹ czytaæ wtedy, kiedy masz czas, albo te¿ mo¿esz przeczytaæ j¹ kilka razy.~
+@30 = ~Aha... dlaczego nie powiedzia³eœ tego od razu. Boo uwielbia ksi¹¿ki, robi sobie z nich takie ma³e ³ó¿eczka. Ja lubiê takie z du¿ymi obrazkami.~
+@31 = ~Z jakiegoœ powodu wiedzia³em, ¿e to powiesz.~
+@32 = ~Och, i podejrzewam, ¿e pan „wszechwiedz¹cy” zna pewn¹ piosenkê, któr¹ ktoœ tutaj nabazgra³?~
+@33 = ~Tak, teraz to ma sens. To jest lista czynnoœci. Za³o¿ê siê, ¿e te oznaczenia s¹ w innych miejscach ni¿ te, do których poszed³ nasz z³odziejaszek. Powinniœmy to teraz sprawdziæ.~
+@34 = ~Och tak, teraz wszystko uk³ada siê w jedn¹ ca³oœæ. To jest coœ w rodzaju listy zadañ. Za³o¿ê siê, ¿e te oznaczenia s¹ w innych miejscach ni¿ te, do których poszed³ nasz z³odziejaszek. Powinniœmy to teraz sprawdziæ.~

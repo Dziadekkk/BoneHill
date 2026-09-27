@@ -1,0 +1,80 @@
+@1 = ~Witam, jestem Yalta. W czym mogê pomóc?~
+@2 = ~Witaj Yalta. Jesteœmy poszukiwaczami przygód. Pomagamy Pelltarowi rozwi¹zaæ problemy Brodu Resten.~
+// Shall remain identical to @859 in baf.tra and @49 in BHYALTA.tra, otherwise there will be a journal issue
+@3 = ~Ataki gnolli
+
+Powiedzia³em Yalcie o ogrzym magu dowodz¹cym gnollami. Na szczêœcie problem zosta³ rozwi¹zany.~ ~Ataki gnolli
+
+Powiedzia³am Yalcie o ogrzym magu dowodz¹cym gnollami. Na szczêœcie problem zosta³ rozwi¹zany.~
+// Shall remain identical to @861 in baf.tra and @50 in BHYALTA.tra, otherwise there will be a journal issue
+@4 = ~Ataki gnolli
+
+Yalta powiedzia³, ¿e gnolle z Trójszczytu wci¹¿ atakuj¹ miasto. Wygl¹daj¹ na lepiej zorganizowane ni¿ dawniej i s¹ niema³ym wyzwaniem dla stra¿ników. Dzieje siê coœ dziwnego i prosi mnie, abym zbada³ tego przyczyny.~ ~Ataki gnolli
+
+Yalta powiedzia³, ¿e gnolle z Trójszczytu wci¹¿ atakuj¹ miasto. Wygl¹daj¹ na lepiej zorganizowane ni¿ dawniej i s¹ niema³ym wyzwaniem dla stra¿ników. Dzieje siê coœ dziwnego i prosi mnie, abym zbada³a tego przyczyny.~
+@5 = ~Gnolle z Trójszczytu by³y pod panowaniem pewnego ogra. Pozbyliœmy siê go i zabiliœmy ka¿dego gnolla, którego napotkaliœmy. Nie powinny niepokoiæ miasta przez jakiœ czas.~
+@6 = ~Wygl¹da na to, ¿e pod stra¿nic¹ znajduje siê stara sieæ jaskiñ i szczury zrobi³y sobie z nich ogromne gniazdo. ZnaleŸliœmy te¿ kilku nieumar³ych i równie¿ ich pokonaliœmy.~
+@7 = ~Och, tak, mamy ich tu pod dostatkiem. Co konkretnie was interesuje? Byæ mo¿e bêdê w stanie pomóc.~
+@8 = ~Wnioskujê, ¿e jesteœ kap³anem?~
+@9 = ~Rozumiem, ¿e bandy gnolli atakowa³y miasto?~
+@10 = ~Czy s³ysza³eœ mo¿e coœ o starej opuszczonej stra¿nicy?~
+@11 = ~Od niedawna jesteœmy tutaj. Wci¹¿ dowiadujemy siê o ró¿nych problemach. Czy jest coœ, co przychodzi ci do g³owy, a czym moglibyœmy siê zaj¹æ?~
+@12 = ~Nie, chyba zajêliœmy siê ju¿ wszystkimi sprawami, o których wspomnia³eœ. Jeœli ju¿ nic dla nas nie masz, sprawdzimy co u Pelltara.~
+@13 = ~Dziêkujê za ofertê. Chyba ju¿ wszystko nam opowiedzia³eœ. Bêdziemy szukaæ tak d³ugo, dopóki nie znajdziemy odpowiedzi.~
+@14 = ~Tak, jestem duchowym doradc¹ pani Baronowej Fairwind.~
+@15 = ~Doradc¹?~
+@16 = ~Nie spotka³eœ jeszcze pani Fairwind? Te¿ jest kap³ank¹.~ ~Nie spotka³aœ jeszcze pani Fairwind? Te¿ jest kap³ank¹.~
+@17 = ~Oczywiœcie jako Baronowa nie zawsze jest w stanie kontynuowaæ nauki duchowe. Jestem jej nauczycielem, jednak ostatnio raczej wys³uchujê jej zmartwieñ.~
+@18 = ~Baronowa ma k³opoty?~
+@19 = ~Nie, nic z tych rzeczy. Wraz z mê¿em czuj¹ siê po prostu odpowiedzialni za lokalne problemy. Nie chc¹, aby ich lud cierpia³.~
+@20 = ~Jaka szkoda, ¿e inni w³adcy nie widz¹ tego tak jak oni.~
+@21 = ~Hmm? Tak, tak, to niestety prawda. Wiêc na czym skoñczy³em?~
+@22 = ~Mia³eœ nam opowiedzieæ o problemach w okolicy?~
+@23 = ~Wspomina³eœ o okolicznych problemach. Myœlê, ¿e ju¿ powiedzia³eœ nam wszystko.~
+@24 = ~*wzdycha* Tak, jest kilka problemów trapi¹cych Bród Resten. Poœród okolicznych wzgórz i dziczy panoszy siê kilka klanów gnolli, orków, goblinów i tym podobnych.~
+@25 = ~Tak. Niedaleko starej, opuszczonej stra¿nicy wielki szczur ugryz³ ma³¹ dziewczynkê. Zazwyczaj nie by³oby to problemem, ale s³ysza³em niejedno za¿alenie z powodu tych szczurów. Wystarczy, ¿e sprawdzisz to i zbadasz, czy nic dziwnego siê nie dzieje. Porozmawiaj z Zahrdahlem. To handlarz przynêt¹ mieszkaj¹cy niedaleko stra¿nicy. Mo¿e on wie coœ wiêcej o szczurach.~
+// Shall remain identical to @860 in baf.tra, otherwise there will be a journal issue
+@26 = ~Yalta poleci³ mi, abym oczyœci³ star¹ opuszczon¹ stra¿nicê ze szczurów. Wydaje siê to proste. Wspomnia³ coœ o handlarzu przynêt¹ mieszkaj¹cym niedaleko stra¿nicy.~ ~Yalta poleci³ mi, abym oczyœci³a star¹ opuszczon¹ stra¿nicê ze szczurów. Wydaje siê to proste. Wspomnia³ coœ o handlarzu przynêt¹ mieszkaj¹cym niedaleko stra¿nicy.~
+@27 = ~Tak, z pewnoœci¹ siê temu przyjrzymy. Dziêki.~
+@28 = ~A co mnie to obchodzi? Nie powinna by³a siê tam krêciæ. Jeœli umrze, to dobrze jej tak.~
+@29 = ~Jakieœ inne k³opoty oprócz szczurów?~
+@30 = ~Zajêliœmy siê ju¿ problemem szczurów.~
+@31 = ~Có¿, s³ysz¹c to, bardzo siê rozczarowa³em. Jeœli takie jest twe podejœcie, mo¿esz od razu udaæ siê do Pelltara i poprosiæ, by ciê odes³a³. Proszê, zostaw mnie.~
+@32 = ~W Resten s¹ i inne k³opoty. Wróæ tu i odwiedŸ mnie, jak bêdziesz mia³ okazjê.~
+@33 = ~Zazwyczaj nie ma z nimi wiêkszych problemów. W³aœciwie tylko podczas mroŸnych zim próbuj¹ atakowaæ miasto. To z powodu zapasów ¿ywnoœci. Zima zwykle zmniejsza ich iloœæ, a wygl¹da na to, ¿e mno¿¹ siê jak króliki.~
+@34 = ~Ostatnie ataki nie przypominaj¹ w niczym tych starych. Nie ma zimy, powinno byæ tam mnóstwo po¿ywienia. Czemu wiêc nas ci¹gle niepokoj¹? Wydajê mi siê, ¿e ktoœ nimi dowodzi i organizuje to wszystko.~
+@35 = ~Sk¹d to przypuszczenie?~
+@36 = ~Tak, tak! Ju¿ udzieli³eœ nam informacji na temat gnolli. Bêdziemy szukaæ dalej.~
+@37 = ~Ataki s¹ zorganizowane. Nacieraj¹ grupami ze wszystkich stron, tak ¿eby nasi stra¿nicy nie byli w stanie utrzymaæ szyku. Dawniej gnolle by siê po prostu rzuci³y na mury. Teraz z pomoc¹ wilków napadaj¹ na podró¿nych i atakuj¹ stra¿ników poza murami miasta. Co wiêcej, nacieraj¹ o ka¿dej porze dnia, a nie, jak kiedyœ, wy³¹cznie w nocy.~
+@38 = ~Z przyjemnoœci¹ zbadamy tê sprawê.~
+@39 = ~Hmm, zajmiemy siê tym póŸniej. Pelltar bardziej nas potrzebuje.~
+@40 = ~Tak, bandy gnolli atakuj¹ miasto od zachodu.~
+@41 = ~Porozmawiaj z Almaxem albo z Billy Bobem. Obaj mieszkaj¹ po drugiej stronie miasta. Mo¿e maj¹ coœ ciekawego do powiedzenia. Z pewnoœci¹ ci pomog¹. Bywaj zdrów, <BROTHERSISTER>.~
+@42 = ~Powa¿nie? To cudownie. Cieszê siê wiêc, ¿e tu jesteœ. Pelltar wykaza³ siê nadludzkim zmys³em, zatrudniaj¹c was.~
+@43 = ~Dziêkujê. Staramy siê, jak mo¿emy.~
+@44 = ~Nieumarli? Tutaj? W mieœcie? O bogowie. To S¥ ciê¿kie czasy. Dziêkujê za wszelak¹ pomoc. Aha, ta ma³a dziewczynka bêdzie zdrowa.~
+@45 = ~Nie ma za co.~
+@46 = ~Pokój z tob¹, <BROTHERSISTER>.~
+@47 = ~Witaj znów, <CHARNAME>. Jak id¹ twoje poszukiwania?~
+@48 = ~Jak dot¹d bardzo dobrze. Im wiêcej szukamy, tym wiêcej znajdujemy problemów.~
+// Shall remain identical to @859 in baf.tra and @3 in BHYALTA.tra, otherwise there will be a journal issue
+@49 = ~Ataki gnolli
+
+Powiedzia³em Yalcie o ogrzym magu dowodz¹cym gnollami. Na szczêœcie problem zosta³ rozwi¹zany.~ ~Ataki gnolli
+
+Powiedzia³am Yalcie o ogrzym magu dowodz¹cym gnollami. Na szczêœcie problem zosta³ rozwi¹zany.~
+// Shall remain identical to @861 in baf.tra and @4 in BHYALTA.tra, otherwise there will be a journal issue
+@50 = ~Ataki gnolli
+
+Yalta powiedzia³, ¿e gnolle z Trójszczytu wci¹¿ atakuj¹ miasto. Wygl¹daj¹ na lepiej zorganizowane ni¿ dawniej i s¹ niema³ym wyzwaniem dla stra¿ników. Dzieje siê coœ dziwnego i prosi mnie, abym zbada³ tego przyczyny.~ ~Ataki gnolli
+
+Yalta powiedzia³, ¿e gnolle z Trójszczytu wci¹¿ atakuj¹ miasto. Wygl¹daj¹ na lepiej zorganizowane ni¿ dawniej i s¹ niema³ym wyzwaniem dla stra¿ników. Dzieje siê coœ dziwnego i prosi mnie, abym zbada³a tego przyczyny.~
+@51 = ~Gnolle na Trójszczycie by³y dowodzone przez ogrzego maga. Zabiliœmy ogra i wyt³ukliœmy ka¿dego gnolla, jakiego uda³o siê nam odnaleŸæ. Przez d³u¿szy czas nie powinny niepokoiæ miasta.~
+@52 = ~Do tej pory œwietnie. Staramy siê, jak tylko potrafimy najlepiej, by rozwi¹zaæ wszystkie problemy, z jakimi siê spotkamy.~
+@53 = ~OdejdŸ, proszê! Nie chcê mieæ z tob¹ nic wspólnego!~
+@54 = ~Naprawdê?! Proszê, opowiedz o tym.~
+@55 = ~Ba, krasnoludy i elfy mog³yby powiedzieæ to samo o was, przeklêci ludzie.~
+@56 = ~Co?! Proszê, zignoruj <CHARNAME>. Z przyjemnoœci¹ oczyœcimy miasto z tych z³ych szczurów. Boo nie znosi szczurów.~
+@57 = ~W-wygl¹da na wymarzon¹ przywódczyniê miasta. Inni w³adcy powinni siê na niej wzorowaæ.~
+@58 = ~Ba! Cholerne œwiêtoszki. Za³o¿ê siê, ¿e nie robi¹ nic prócz siedzenia po nocach i liczenia kasy. Ja bym tak robi³.~
+@59 = ~Zignoruj go. Szkoda, ¿e inni w³adcy nie patrz¹ na to tak jak wasi.~

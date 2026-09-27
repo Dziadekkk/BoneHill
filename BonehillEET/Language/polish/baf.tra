@@ -1,0 +1,239 @@
+//BH0109.baf
+@0 = ~Wygl¹da na to, ¿e te kradzie¿e zaczê³y siê tydzieñ po tym, jak s³awetny ³otr zwany Reynaldem zosta³ powieszony. Kolejnym intryguj¹cym faktem jest, ¿e w Brodzie Resten dzia³a³a gildia z³odziei. Grellus unicestwi³ j¹, gdy zosta³ baronem. Mieœci³a siê w kana³ach pod zachodni¹ czêœci¹ miasta. Czy¿by w³aœnie tam ukrywa³ siê z³odziej?~
+@1 = ~Po up³ywie kilku godzin odkry³eœ trochê interesuj¹cych informacji na temat historii Brodu Resten. Kradzie¿e zaczê³y siê tydzieñ po tym, jak s³awetny ³otr zwany Reynaldem zosta³ powieszony. Kolejnym intryguj¹cym faktem jest, ¿e w Resten dzia³a³a gildia z³odziei. Grellus unicestwi³ j¹, gdy zosta³ baronem. Mieœci³a siê w kana³ach pod zachodni¹ czêœci¹ miasta. Badaj¹c magiczny przedmiot, dowiedzia³eœ siê, ¿e D³oñ Chwa³y zosta³a stworzona z d³oni martwego z³odzieja. Jednak¿e inskrypcje nie wyjaœniaj¹, do czego mo¿na wykorzystaæ tê rêkê.~ ~Po up³ywie kilku godzin odkry³aœ trochê interesuj¹cych informacji na temat historii Brodu Resten. Kradzie¿e zaczê³y siê tydzieñ po tym, jak s³awetny ³otr zwany Reynaldem zosta³ powieszony. Kolejnym intryguj¹cym faktem jest, ¿e w Resten dzia³a³a gildia z³odziei. Grellus unicestwi³ j¹, gdy zosta³ baronem. Mieœci³a siê w kana³ach pod zachodni¹ czêœci¹ miasta. Badaj¹c magiczny przedmiot, dowiedzia³aœ siê, ¿e D³oñ Chwa³y zosta³a stworzona z d³oni martwego z³odzieja. Jednak¿e inskrypcje nie wyjaœniaj¹, do czego mo¿na wykorzystaæ tê rêkê.~
+
+//BH0401T.baf
+@50 = ~Znalaz³eœ w³az pod rumowiskiem. Wygl¹da na bardzo stary i dawno nieu¿ywany.~ ~Znalaz³aœ w³az pod rumowiskiem. Wygl¹da na bardzo stary i dawno nieu¿ywany.~
+
+//BH0402T.baf
+@100 = ~To st¹d musz¹ wychodziæ te wszystkie szczury. Zapach jest paskudny. S³ychaæ je ju¿ z góry.~
+
+//BH0504.baf
+@150 = ~Wygl¹da na to, ¿e te kradzie¿e zaczê³y siê tydzieñ po tym, jak s³awetny ³otr zwany Reynaldem zosta³ powieszony. Kolejnym intryguj¹cym faktem jest, ¿e w Brodzie Resten dzia³a³a gildia z³odziei. Grellus unicestwi³ j¹, gdy zosta³ baronem. Mieœci³a siê w kana³ach pod zachodni¹ czêœci¹ miasta. Czy¿by w³aœnie tam ukrywa³ siê z³odziej?~
+@151 = ~Po up³ywie kilku godzin odkrywasz trochê interesuj¹cych informacji na temat historii Brodu Resten. Kradzie¿e zaczê³y siê tydzieñ po tym, jak s³awetny ³otr zwany Reynaldem zosta³ powieszony. Kolejnym intryguj¹cym faktem jest, ¿e w Resten dzia³a³a gildia z³odziei. Grellus unicestwi³ j¹, gdy zosta³ baronem. Mieœci³a siê w kana³ach pod zachodni¹ czêœci¹ miasta.~
+
+//BH0700.baf
+@200 = ~Wspólnie udaje siê wam rozszyfrowaæ notatkê, która, jak siê okazuje, jest map¹ Brodu Resten.~
+
+//BH1100.baf
+@250 = ~Przywódca bandytów wyzion¹³ ducha.~
+
+//BH1101.baf
+@260 = ~Teraz ju¿ wiesz, gdzie orkowie ukrywali zaginione wozy.~
+
+//BH1301.baf
+@300 = ~Ogrzy mag na czele bandy gnolli... To wyjaœnia dobrze zorganizowane ataki, z którymi zmaga siê Bród Resten.~
+
+//BHALARM.baf
+@350 = ~W chwili gdy przechodzisz przez futrynê, rozlega siê alarm, po czym nagle ustaje.~
+
+//BHALARM2.baf
+@400 = ~Ktoœ ciê zauwa¿y³! S³yszysz, jak wzywa stra¿!~
+
+//BHALMON.baf
+@450 = ~Z³odziej! Jak œmiesz!~
+@451 = ~Twoja kradzie¿ zosta³a zauwa¿ona przez Almona. Wezwano stra¿.~
+
+//BHARNSPL
+@1300 = ~Pomocy! ¯o³nierze, chroñcie mnie!~
+
+//BHBERSER.baf
+@500 = ~£apczywie ¿³opie miksturê.~
+@501 = ~Potrzebujê leczenia!~
+
+//BHCTMS.baf
+@550 = ~Uruchamiasz pu³apkê!~
+
+//BHCUTBA1.baf
+@600 = ~Bogowie, co za dzieñ! Czy kupcy kiedykolwiek przestan¹ siê ze sob¹ u¿eraæ?~
+@601 = ~Có¿ to? Fairwind, czy to ty, kochanie?~
+@602 = ~Ha ha ha ha!~
+
+//BHFAIR.baf
+@650 = ~Z³odziej! Jak œmiesz!~
+@651 = ~Twoja kradzie¿ zosta³a zauwa¿ona przez Lady Fairwind.~
+
+//BHGRAVE.baf
+@700 = ~Ten grób wygl¹da na œwie¿y.~
+@701 = ~Rozkopujesz grób Reynalda. Po wywa¿eniu wieka trumny w œrodku znajdujesz cia³a dwóch mê¿czyzn - cz³owieka bez lewej d³oni oraz gnoma.~
+@702 = ~Poza par¹ rozk³adaj¹cych siê zw³ok wewn¹trz grobu nie ma niczego godnego uwagi.~
+@703 = ~Jesteœ zbyt daleko grobu, by móc cokolwiek z nim zrobiæ.~
+
+//BHHARPER.baf
+@750 = ~Tak sobie myœlê, czy nie potrzebujemy wiêcej œniegu?~
+@751 = ~Chyba nale¿a³oby udobruchaæ wodne bóstwa.~
+@752 = ~Hmm, myœla³em, ¿e zaklêcie usunie plamy.~
+@753 = ~Doskonale, pachnie jak deszcz.~
+@754 = ~Kiedy bêdzie czas na posi³ek? Nie mogê siê ju¿ doczekaæ œniadania.~
+
+//BHINFO01.baf
+@800 = ~W chwili gdy przechodzisz przez futrynê, rozlega siê alarm, po czym nagle ustaje.~
+
+//BHPELL.baf
+// Shall remain identical to @38 in BHFALCO.tra, otherwise there will be a journal issue
+@850 = ~Zahrdahl nie przychodzi do lokalnej gospody, a z powodu swej nogi nie odwiedza równie¿ tawerny. Dlaczego wiêc jest tak zainteresowany moim pobytem tutaj?~
+// Shall remain identical to @2 in BHFARM.tra, otherwise there will be a journal issue
+@851 = ~Hodowca powiedzia³ nam, ¿e notorycznie traci byd³o. Oskar¿a o to gnolle.~
+// Shall remain identical to @5 in BHFARM.tra, otherwise there will be a journal issue
+@852 = ~Pewien rolnik powiedzia³ nam, ¿e widzia³, jak w okolicach jego domu coœ siê porusza³o. Nie wiedzia³ jednak, co to mog³o byæ.~
+// Shall remain identical to @7 in BHFARM.tra, otherwise there will be a journal issue
+@853 = ~Pewien mê¿czyzna twierdzi, i¿ w pobli¿u starej wartowni krêc¹ siê nieumarli. Chyba powinienem siê tym zaj¹æ.~ ~Pewien mê¿czyzna twierdzi, i¿ w pobli¿u starej wartowni krêc¹ siê nieumarli. Chyba powinnam siê tym zaj¹æ.~
+// Shall remain identical to @10 in BHFARM.tra, otherwise there will be a journal issue
+@854 = ~Wpadliœmy na rolnika, który chcia³ opowiedzieæ nam historiê o swoim wuju. Z jego opowieœci wynika, ¿e wuj poszed³ badaæ stare ruiny i pad³ ofiar¹ opêtania przez jakiegoœ z³ego ducha. Uda³o im siê uwolniæ nieszczêœnika dziêki zaklêciu unieruchomienia.~
+// Shall remain identical to @15 in BHFARM.tra, otherwise there will be a journal issue
+@855 = ~Na drogach wokó³ miasta grasuj¹ bandyci. Prawie jak w domu.~
+// Shall remain identical to @14 in BHWELCAR.tra, otherwise there will be a journal issue
+@856 = ~Kradzie¿e w magazynach
+
+Wed³ug Welcara tylko jedna osoba jest zamieszana w te kradzie¿e. Czyli jedna osoba jest odpowiedzialna za to ca³e z³odziejstwo? I zabójstwa? Ale jak?~
+// Shall remain identical to @20 in BHWELCAR.tra, otherwise there will be a journal issue
+@857 = ~Kradzie¿e w magazynach
+
+Wszystkie skradzione rzeczy zosta³y zwrócone Welcarowi. Mo¿e teraz Gelpas pozwoli Pelltarowi nas odes³aæ.~
+// Shall remain identical to @27 in BHWELCAR.tra, otherwise there will be a journal issue
+@858 = ~Welcar powiedzia³, ¿e Bród Resten ma sieæ starych kana³ów. Niegdyœ z³odzieje u¿ywali ich jako kryjówki. Ciekawe czy nadal tak jest.~
+// Shall remain identical to @3 and @49 in BHYALTA.tra, otherwise there will be a journal issue
+@859 = ~Ataki gnolli
+
+Powiedzia³em Yalcie o ogrzym magu dowodz¹cym gnollami. Na szczêœcie problem zosta³ rozwi¹zany.~ ~Ataki gnolli
+
+Powiedzia³am Yalcie o ogrzym magu dowodz¹cym gnollami. Na szczêœcie problem zosta³ rozwi¹zany.~
+// Shall remain identical to @26 in BHYALTA.tra, otherwise there will be a journal issue
+@860 = ~Yalta poleci³ mi, abym oczyœci³ star¹ opuszczon¹ stra¿nicê ze szczurów. Wydaje siê to proste. Wspomnia³ coœ o handlarzu przynêt¹ mieszkaj¹cym niedaleko stra¿nicy.~ ~Yalta poleci³ mi, abym oczyœci³a star¹ opuszczon¹ stra¿nicê ze szczurów. Wydaje siê to proste. Wspomnia³ coœ o handlarzu przynêt¹ mieszkaj¹cym niedaleko stra¿nicy.~
+// Shall remain identical to @4 and @50 in BHYALTA.tra, otherwise there will be a journal issue
+@861 = ~Ataki gnolli
+
+Yalta powiedzia³, ¿e gnolle z Trójszczytu wci¹¿ atakuj¹ miasto. Wygl¹daj¹ na lepiej zorganizowane ni¿ dawniej i s¹ niema³ym wyzwaniem dla stra¿ników. Dzieje siê coœ dziwnego i prosi mnie, abym zbada³ tego przyczyny.~ ~Ataki gnolli
+
+Yalta powiedzia³, ¿e gnolle z Trójszczytu wci¹¿ atakuj¹ miasto. Wygl¹daj¹ na lepiej zorganizowane ni¿ dawniej i s¹ niema³ym wyzwaniem dla stra¿ników. Dzieje siê coœ dziwnego i prosi mnie, abym zbada³a tego przyczyny.~
+// Shall remain identical to @17 in BHZAHR.tra, otherwise there will be a journal issue
+@862 = ~Oczyœciæ opuszczon¹ stra¿nicê
+
+Zahrdahl, miejscowy handlarz wêdkarskimi przynêtami, poprosi³ nas o wybicie kilku szczurów. Wygl¹da na to, ¿e maj¹ gniazdo w opuszczonej stra¿nicy na po³udnie od jego domu.~
+// Shall remain identical to @31 in BHZAHR.tra, otherwise there will be a journal issue
+@863 = ~Oczyœciæ opuszczon¹ stra¿nicê
+
+Powiedzia³em Zahrdahlowi, ¿e szczury nie powinny ju¿ go niepokoiæ. Oczywiœcie z t¹ ca³¹ przynêt¹ w jego domu gryzonie niebawem znów siê pojawi¹.~ ~Oczyœciæ opuszczon¹ stra¿nicê
+
+Powiedzia³am Zahrdahlowi, ¿e szczury nie powinny ju¿ go niepokoiæ. Oczywiœcie, z t¹ ca³¹ przynêt¹ w jego domu gryzonie niebawem znów siê pojawi¹.~
+// Shall remain identical to @31 in BHRAVELA.tra, otherwise there will be a journal issue
+@864 = ~Wygl¹da na to, ¿e ktoœ zabi³ w³aœciciela latarni i umieœci³ jego zw³oki w jednej trumnie z bandyt¹. Domyœlam siê, ¿e to ta sama osoba albo osoby. Czas przeszukaæ latarniê.~
+// Shall remain identical to @91 in BHFABIO.tra and @10 in BFABIO.tra, otherwise there will be a journal issue
+@865 = ~Fabio twierdzi, ¿e skrawek papieru ma zwi¹zek z magicznym przedmiotem zwanym D³oni¹ Chwa³y. Zastanawiam siê, co to jest i dlaczego z³odzieje myœl¹, ¿e j¹ mam? Bêdziemy musieli porozmawiaæ o tym z Pelltarem, jak tylko wrócimy do Brodu Resten.~
+@866 = ~Wygl¹da na to, ¿e te kradzie¿e zaczê³y siê tydzieñ po tym, jak s³awetny ³otr zwany Reynaldem zosta³ powieszony. Kolejnym intryguj¹cym faktem jest, ¿e w Brodzie Resten dzia³a³a gildia z³odziei. Grellus unicestwi³ j¹, gdy zosta³ baronem. Mieœci³a siê w kana³ach pod zachodni¹ czêœci¹ miasta. Czy z³odziej siê tam ukrywa?~
+// Shall remain identical to @119 in BHPELL.tra, otherwise there will be a journal issue
+@867 = ~OdnajdŸ zabójcê barona Grellusa~
+// Shall remain identical to @130 in BHPELL.tra, otherwise there will be a journal issue
+@868 = ~Tak wiêc mo¿na przypuszczaæ, ¿e ktoœ z miasta Garrotten jest zamieszany w zabójstwo barona Grellusa. Mam trzech podejrzanych: Harper - wysoki kap³an, Abraham - w³aœciciel gospody oraz Balmorrow, bard i w³aœciciel teatru. Dlaczego któryœ z nich mia³by zabiæ barona? Czy jeden z nich jest rzeczywiœcie wynajêtym zabójc¹? Jeœli tak, to który? I kto go wynaj¹³?~
+// Shall remain identical to @132 in BHPELL.tra, otherwise there will be a journal issue
+@869 = ~Gildia zabójców
+
+Upewnij siê, czy pog³oski na temat gildii zabójców w mieœcie Garrotten s¹ prawdziwe.~
+// Shall remain identical to @25 in BHQUAL.tra, otherwise there will be a journal issue
+@870 = ~Opat Qualton nie by³ w stanie wskrzesiæ Grellusa. Z jakiejœ przyczyny odnios³em wra¿enie, ¿e nie by³ tym tak zdziwiony, jak twierdzi³.~ ~Opat Qualton nie by³ w stanie wskrzesiæ Grellusa. Z jakiejœ przyczyny odnios³am wra¿enie, ¿e nie by³ tym tak zdziwiony, jak twierdzi³.~
+// Shall remain identical to @44 in BHWILFON.tra, otherwise there will be a journal issue
+@871 = ~Burmistrz Garrotten odbudowuje stary zamek. Wygl¹da na to, ¿e ma wiêcej pieniêdzy, ni¿ te, które otrzymuje z podatków na³o¿onych na mieszkañców. Mo¿e by³a ju¿ bogata, zanim tu przyby³a? Jeœli rzeczywiœcie tak jest, to czemu ksi¹¿ê przydzieli³ jej tylko takie ma³e miasteczko? A co, jeœli coœ knuje i nie chce, aby inni ludzie siê o tym dowiedzieli?~
+// Shall remain identical to @6 in BHWILLIS.tra, otherwise there will be a journal issue
+@872 = ~Wygl¹da na to, ¿e pani burmistrz przeprowadza œledztwo raz jeszcze. Wziê³a Balmorrowa na przes³uchanie. Ciekawe tylko, czemu nie mogli tego dokonaæ tutaj, w teatrze?~
+// Shall remain identical to @24 in BHGLAMI.tra, otherwise there will be a journal issue
+@873 = ~Wygl¹da na to, ¿e pani burmistrz powtarza moje dochodzenie. Wezwa³a do siebie Abrahama, by go przes³uchaæ. Zastanawiam siê, dlaczego nie mog³a tego zrobiæ tutaj, w gospodzie?~
+// Shall remain identical to @25 in BHPRISKA.tra, otherwise there will be a journal issue
+@874 = ~Wed³ug Priski Basmar mo¿e planowaæ mnie zabiæ przy nastêpnym spotkaniu. Bêdê siê musia³ przygotowaæ.~ ~Wed³ug Priska Basmar mo¿e planowaæ mnie zabiæ przy nastêpnym spotkaniu. Bêdê siê musia³a przygotowaæ.~
+// Shall remain identical to @33 in BHMART1.tra, otherwise there will be a journal issue
+@875 = ~Martin, okoliczny druid, poprosi³ mnie, abym zaatakowa³ zamek! Twierdzi, ¿e jego przyjaciele zostan¹ nies³usznie oskar¿eni i zabici. Twierdzi równie¿, ¿e dowody obci¹¿aj¹ce gildiê zabójców istniej¹ i mog¹ byæ gdzieœ na wy¿szych poziomach zamku.~ ~Martin, okoliczny druid, poprosi³ mnie, abym zaatakowa³a zamek! Twierdzi, ¿e jego przyjaciele zostan¹ nies³usznie oskar¿eni i zabici. Twierdzi równie¿, ¿e dowody obci¹¿aj¹ce gildiê zabójców istniej¹ i mog¹ byæ gdzieœ na wy¿szych poziomach zamku.~
+// Shall remain identical to @51 in BHHARMIN.tra, otherwise there will be a journal issue
+@876 = ~Znalaz³em œwiêty symbol Harpera i odkry³em szpiega w koœciele. Niestety uda³o mu siê uciec. Jestem pewny, ¿e jeszcze siê spotkamy.~ ~Znalaz³am œwiêty symbol Harpera i odkry³am szpiega w koœciele. Niestety uda³o mu siê uciec. Jestem pewna, ¿e jeszcze siê spotkamy.~
+// Shall remain identical to @44 in BHHARMIN.tra, otherwise there will be a journal issue
+@877 = ~Harper wydaje siê byæ autentycznym wariatem. Albo jest taki naprawdê, albo bardzo dobrze gra. Otrzyma³em pozwolenie na przeszukanie koœcio³a. Chyba bêdê musia³ porozmawiaæ z Lotharem.~ ~Harper wydaje siê byæ autentycznym wariatem. Albo jest taki naprawdê, albo bardzo dobrze gra. Otrzyma³am pozwolenie na przeszukanie koœcio³a. Chyba bêdê musia³a porozmawiaæ z Lotharem.~
+// Shall remain identical to @28 in BHFALPIR.tra, otherwise there will be a journal issue
+@878 = ~Abraham jest niewinny! Falpir, ch³opiec stajenny, przyzna³ siê do kradzie¿y guzika. Oskar poprosi³ go, ¿eby go ukrad³. Podejrzewa³em, ¿e Oskar jest jednym z cz³onków gildii zabójców i teraz mam na to wiêcej dowodów. Po doœæ ostrej reprymendzie, jakiej udzieli³em Falpirowi, ch³opak ma szanse wyrosn¹æ na dobrego i przyzwoitego cz³owieka.~ ~Abraham jest niewinny! Falpir, ch³opiec stajenny, przyzna³ siê do kradzie¿y guzika. Oskar poprosi³ go, ¿eby go ukrad³. Podejrzewa³am, ¿e Oskar jest jednym z cz³onków gildii zabójców i teraz mam na to wiêcej dowodów. Po doœæ ostrej reprymendzie, jakiej udzieli³am Falpirowi, ch³opak ma szanse wyrosn¹æ na dobrego i przyzwoitego cz³owieka.~
+// Shall remain identical to @21 in BHFALPIR.tra, otherwise there will be a journal issue
+@879 = ~Abraham jest niewinny! Falpir, ch³opiec stajenny, przyzna³ siê do kradzie¿y guzika. Oskar poprosi³ go, ¿eby to uczyni³. Podejrzewa³em, ¿e Oskar jest jednym z cz³onków gildii zabójców i teraz mam na to wiêcej dowodów. Musia³em powiedzieæ dziecku, co stanie siê z Abrahamem. Nie przyj¹³ tego dobrze.~ ~Abraham jest niewinny! Falpir, ch³opiec stajenny, przyzna³ siê do kradzie¿y guzika. Oskar poprosi³ go, ¿eby to uczyni³. Podejrzewa³am, ¿e Oskar jest jednym z cz³onków gildii zabójców i teraz mam na to wiêcej dowodów. Musia³am powiedzieæ dziecku, co stanie siê z Abrahamem. Nie przyj¹³ tego dobrze.~
+// Shall remain identical to @11 in BHCOMM04.tra, otherwise there will be a journal issue
+@880 = ~Nawet tubylcy wiedz¹ o gildii zabójców. To chyba najgorzej chroniona tajemnica, o jakiej s³ysza³em.~ ~Nawet tubylcy wiedz¹ o gildii zabójców. To chyba najgorzej chroniona tajemnica, o jakiej s³ysza³am.~
+// Shall remain identical to @5 in BHCOMM04.tra, otherwise there will be a journal issue
+@881 = ~Pewien mê¿czyzna twierdzi, ¿e w³adcy Lendore nie powstrzymaj¹ orczych najazdów na Garrotten. Czy to dobrze, czy Ÿle?~
+// Shall remain identical to @1 in BHCOMM04.tra, otherwise there will be a journal issue
+@882 = ~Jeden z rybaków powiedzia³ mi, ¿e orkowie naje¿d¿aj¹ na wioskê Garrotten. Wydaj¹ siê mieæ podobne problemy, co Bród Resten.~
+// Shall remain identical to @3 in BHCOMM04.tra, otherwise there will be a journal issue
+@883 = ~Rybak powiedzia³, ¿e coœ „³uskowatego” zaatakowa³o ³ódŸ i zabi³o czêœæ rybaków. Równowaga natury robi swoje?~
+// Shall remain identical to @31 in BHCLERI1.tra, otherwise there will be a journal issue
+@884 = ~Po co ogrodnikowi potrzebny by³by œwiêty symbol kap³ana? Dlaczego zamkn¹³ i zabezpieczy³ drzwi? Do czego s³u¿y³y dwa otwory w œcianie pokoju Harpera? Wydaje mi siê, ¿e znalaz³em szpiega w œwi¹tyni. Niemniej jednak muszê odnaleŸæ Lothara, by tego dowieœæ.~ ~Po co ogrodnikowi potrzebny by³by œwiêty symbol kap³ana? Dlaczego zamkn¹³ i zabezpieczy³ drzwi? Do czego s³u¿y³y dwa otwory w œcianie pokoju Harpera? Wydaje mi siê, ¿e znalaz³am szpiega w œwi¹tyni. Niemniej jednak muszê odnaleŸæ Lothara, by tego dowieœæ.~
+// Shall remain identical to @16 in BHBESS.tra, otherwise there will be a journal issue
+@885 = ~Rozmawia³em z m³od¹ kap³ank¹ Xerbo. Powiedzia³a, ¿e coœ w jeziorze atakuje rybaków. Czy¿by zemsta bóstwa?~ ~Rozmawia³am z m³od¹ kap³ank¹ Xerbo. Powiedzia³a, ¿e coœ w jeziorze atakuje rybaków. Czy¿by zemsta bóstwa?~
+// Shall remain identical to @19 in BHBASIL.tra, otherwise there will be a journal issue
+@886 = ~Wygl¹da na to, ¿e burmistrz powtarza moje œledztwo. Wezwa³a do siebie Harpera na przes³uchanie. Zastanawia mnie, dlaczego nie mog³a porozmawiaæ z nim tutaj, przy œwi¹tyni?~
+// Shall remain identical to @58 in BHBALMOR.tra, otherwise there will be a journal issue
+@887 = ~Balmorrow jest obserwowany przez Holgê. Ona natomiast pracuje dla burmistrz Arrness. Czy¿by burmistrz by³a przywódczyni¹ zabójców?~
+// Shall remain identical to @44 in BHBALMOR.tra, otherwise there will be a journal issue
+@888 = ~Balmorrow w gospodzie wskaza³ Philmara oraz Oskara jako cz³onków gildii zabójców. Muszê siê upewniæ, czy aby na pewno jestem w ich obecnoœci bezpieczny.~ ~Balmorrow w gospodzie wskaza³ Philmara oraz Oskara jako cz³onków gildii zabójców. Muszê siê upewniæ, czy aby na pewno jestem w ich obecnoœci bezpieczna.~
+// Shall remain identical to @30 in BHARRNES.tra, otherwise there will be a journal issue
+@889 = ~Wodne stwory?
+
+Coœ na jeziorze atakuje rybaków. Burmistrz chce, abym dowiedzia³ siê, co to jest, oraz ¿ebym odnalaz³ zwiadowcê badaj¹cego tê sprawê.~ ~Wodne stwory?
+
+Coœ na jeziorze atakuje rybaków. Burmistrz chce, abym dowiedzia³a siê, co to jest, oraz ¿ebym odnalaz³a zwiadowcê badaj¹cego tê sprawê.~
+// Shall remain identical to @19 in BHARRNES.tra, otherwise there will be a journal issue
+@890 = ~Burmistrz miasta niemal wtr¹ci³a mnie do lochu, kiedy zacz¹³em wypytywaæ o gildiê zabójców. Temat ten wydaje siê dla niej bardzo dra¿liwy.~ ~Burmistrz miasta niemal wtr¹ci³a mnie do lochu, kiedy zaczê³am wypytywaæ o gildiê zabójców. Temat ten wydaje siê dla niej bardzo dra¿liwy.~
+// Shall remain identical to @14 in BHARRNES.tra, otherwise there will be a journal issue
+@891 = ~Pani burmistrz zamierza wszcz¹æ œledztwo w sprawie morderstwa, przez co moje zosta³o wstrzymane. Zastanawiam siê, czy zabójca zostanie schwytany.~
+// Shall remain identical to @58 in BHABRAHA.tra, otherwise there will be a journal issue
+@892 = ~Abraham, w³aœciciel gospody twierdzi, i¿ gildia zabójców jest wspierana przez kogoœ z zamku. Stra¿ albo doradcy pani burmistrz musz¹ byæ w to zamieszani. A mo¿e oni siê ich po prostu obawiaj¹?~
+// Shall remain identical to @26 in BHQUENEX.tra, otherwise there will be a journal issue
+@893 = ~Zagadka wodnego potwora
+
+Kapitan Quenex poinformowa³ mnie, ¿e szwadron rybaków by³ ostatnio atakowany przez dziwne wodne stwory. Nie wie, czym s¹, ale straci³ kilku ludzi, wiêc rybacy wol¹ siê nie zapuszczaæ daleko od brzegu.~
+// Shall remain identical to @37 in BHQUENEX.tra, otherwise there will be a journal issue
+@894 = ~Kapitan Quenex poinformowa³ mnie, ¿e „Kapitan” Basmar nie ma ³odzi i nigdy nie ³owi³ tu ryb.~
+// Shall remain identical to @44 in BHQUENEX.tra, otherwise there will be a journal issue
+@895 = ~Kapitan Quenex ca³kowicie popiera najwy¿szego kap³ana Harpera i nie uwa¿a, aby by³ zamieszany w dzia³alnoœæ gildii zabójców. Wspomnia³ za to, ¿e jeœli Harper by³by m³odszy, nie dopuœci³by do czegoœ takiego w Garrotten.~
+// Shall remain identical to @49 in BHQUENEX.tra, otherwise there will be a journal issue
+@896 = ~Zagadka wodnego potwora
+
+Powiedzia³em kapitanowi Quenexowi o pokonaniu jaszczuroludzi. Jego rybacy s¹ znowu bezpieczni na wodzie.~ ~Zagadka wodnego potwora
+
+Powiedzia³am kapitanowi Quenexowi o pokonaniu jaszczuroludzi. Jego rybacy s¹ znowu bezpieczni na wodzie.~
+//BHSHOUT2.BAF
+@1102 = ~Litoœci!~
+@1103 = ~ZnajdŸ sobie kogoœ innego do tej brudnej roboty, tchórzu.~
+
+//BHSIRIUS.baf and part of BHSHOUT2, BHTHIEF, BHARNSPL, and BHBRAWL.BAF
+@900 = ~Cholera, muszê siê wyrwaæ z tej paskudnej chmury!~
+@901 = ~Tchórzu chêdo¿ony, u¿ywasz trucizny na mnie?!~
+@902 = ~£otrze! Stañ do walki jak wojownik...~
+@903 = ~No dalej, podejdŸ bli¿ej i walcz uczciwie!~
+@904 = ~Paskudny tchórzu! Ciekawe czy bêdziesz taki cwany, jak ciê dorwê!~
+@905 = ~Gnido! Za³o¿ê siê, ¿e w walce wrêcz jesteœ ³amag¹...~
+@906 = ~Masz! £ap!~
+@907 = ~Mam!~
+@908 = ~Nie martw siê... Bêdê tu, by ciê chroniæ.~
+@909 = ~U¿ywa zwoju~
+@910 = ~U¿ywa ró¿d¿ki~
+@911 = ~Ju¿ doœæ.~
+@912 = ~Wyr¿n¹æ ich w pieñ!~
+@913 = ~Nie zniosê tego.~
+@914 = ~Tak ciê walnê, ¿e siê butami nakryjesz!~
+
+//BHSNOW.baf
+@950 = ~Harper znów sprowadzi³ œnieg!~
+@951 = ~Zbudujê sobie fort!~
+@952 = ~Zabawmy siê we wojnê na œnie¿ki.~
+@953 = ~Ciekawe jak d³ugo bêdzie padaæ tym razem?~
+
+// BHTHIEF.BAF
+@1200 = ~Hmmm... Coœ tu jest nie tak...~
+@1201 = ~Nie uda³o siê wykryæ iluzji.~
+@1202 = ~U¿ywa pierœcienia niewidzialnoœci.~
+
+//BHTHIEF1.baf
+@1000 = ~Tutaj s¹! Zabiæ ich! Za gildiê, ludzie!~
+
+//AR6526.baf
+@6526 = ~Epilog
+
+¯ycie staje siê coraz to wiêkszym wyzwaniem. Zosta³eœ oskar¿ony o zabójstwo przywódców ¯elaznego Tronu, a P³omienna Piêœæ bez w¹tpienia œciga ciê z tego powodu. Mimo wszystko musisz udaæ siê do Wrót Baldura, do siedziby swych oskar¿ycieli. Musisz znaleŸæ i ujawniæ osobê odpowiedzialn¹ za ca³e to zamieszanie; musisz odnaleŸæ Sarevoka.~ ~Epilog
+
+¯ycie staje siê coraz to wiêkszym wyzwaniem. Zosta³aœ oskar¿ona o zabójstwo przywódców ¯elaznego Tronu, a P³omienna Piêœæ bez w¹tpienia œciga ciê z tego powodu. Mimo wszystko musisz udaæ siê do Wrót Baldura, do siedziby swych oskar¿ycieli. Musisz znaleŸæ i ujawniæ osobê odpowiedzialn¹ za ca³e to zamieszanie; musisz odnaleŸæ Sarevoka.~
+
+//BG:EE journal grouping
+@90000 = ~Zagadka wodnego potwora~

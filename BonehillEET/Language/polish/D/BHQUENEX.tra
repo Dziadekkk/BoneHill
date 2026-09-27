@@ -1,0 +1,59 @@
+@1 = ~Niech ciê Xerbo b³ogos³awi.~
+@2 = ~Xerbo? Ty równie¿ go czcisz?~
+@3 = ~Xerbo? Kim on jest?~
+@4 = ~Witaj ponownie, kapitanie Quenex. Czy mogê ci zadaæ pytanie?~
+@5 = ~Spotka³eœ Bess? Oboje jesteœmy kap³anami boga morza. Co mogê dla ciebie zrobiæ?~ ~Spotka³aœ Bess? Oboje jesteœmy kap³anami boga morza. Co mogê dla ciebie zrobiæ?~
+@6 = ~Na pocz¹tek, kim jesteœ?~
+@7 = ~Jestem kapitan Quenex, przywódca szwadronu rybackiego. Wybacz, ale ostatnio mia³em parê powa¿nych problemów.~
+@8 = ~Masz na myœli te dziwne ataki na wodzie?~
+@9 = ~Bess ci wspomina³a? Tak, rzeczywiœcie to dziwne. Mo¿na siê ich spodziewaæ w ka¿dej chwili. Xerbo chroni wszystkie morskie stworzenia, zarówno te pod wod¹, jak i nad ni¹. Czasami jedna strona przewa¿a nad drug¹. Ostatnio wygl¹da na to, ¿e podwodne stworzenia wygrywaj¹. Zwykle jest tak, ¿e jeden albo dwóch ludzi ginie, ale teraz znikaj¹ ca³e ³odzie. Ludzie boj¹ siê zapuszczaæ daleko od brzegu.~
+@10 = ~Wiêc czemu nie ³owi¹ bli¿ej doków?~
+@11 = ~Jeœli ryba jest przy dokach, to nie ma problemu. Ale niestety ostatnio nic nie z³apano blisko doków ani w zasiêgu wzroku z miasta. Musimy wyp³ywaæ dalej, a to ju¿ jest niebezpieczne. Wygl¹da, jakby coœ odgania³o st¹d ryby, abyœmy musieli siê oddalaæ od brzegu. A jak tylko ³odzie odp³ywaj¹ dalej od doków, s¹ atakowane.~
+@12 = ~Czy ktoœ przyuwa¿y³, co was atakuje? Czy to ogromna ryba?~
+@13 = ~Jedyny, który widzia³ i prze¿y³, twierdzi³, ¿e by³ to stwór o ludzkich kszta³tach pokryty ³usk¹. Niestety straciliœmy tego œwiadka w ostatnim tygodniu. A wiêc nikt ¿ywy nie widzia³ tej kreatury. Nie wiem nawet, czy jest ich wiêcej ni¿ jedna.~
+@14 = ~To dosyæ dziwne. Co prawda jesteœmy tu w innym celu, ale postaramy siê pomóc znaleŸæ tego stwora albo stwory.~
+@15 = ~Xerbo jest bogiem morza i wszystkich morskich stworzeñ.~
+@16 = ~Myœla³em, ¿e to Osprem.~
+@17 = ~Osprem chroni morskich podró¿ników takich jak rybacy. Xerbo chroni to, co ci rybacy ³api¹. Wybacz mi, jestem kapitan Quenex, przywódca szwadronu rybackiego. Jestem tak¿e kap³anem boga Xerbo.~
+@18 = ~Jeœli przewodzisz rybakom, nie powinieneœ byæ kap³anem Osprem?~
+@19 = ~Harper jest najwy¿szym kap³anem Osprem. Ja nie jestem tak wysoki rang¹. Oba bóstwa s¹ wyznawane przez rybaków. Ostatnio czujê, ¿e modlimy siê do Xerba za ma³o.~
+@20 = ~Hmm, mam kilka pytañ na temat Harpera, ale jestem ciekaw twojego zdania. Co mia³eœ na myœli z tymi modlitwami do Xerba?~
+@21 = ~S³ysza³eœ o atakach na rybaków?~ ~S³ysza³aœ o atakach na rybaków?~
+@22 = ~Tak, wygl¹da na to, ¿e zginê³o kilku ludzi.~
+@23 = ~Nie, opowiedz mi o tym.~
+@24 = ~Coœ w wodzie atakuje kutry rybackie. Mo¿na siê tego spodziewaæ w ka¿dej chwili. Xerbo chroni wszystkie morskie stworzenia, zarówno te pod wod¹, jak i nad ni¹. Czasami jedna strona przewa¿a nad drug¹. Ostatnio wygl¹da na to, ¿e podwodne stworzenia wygrywaj¹. Zwykle jest tak, ¿e jeden albo dwóch ludzi ginie, ale teraz znikaj¹ ca³e ³odzie. Ludzie boj¹ siê zapuszczaæ daleko od brzegu.~
+@25 = ~Dziêkujê.~
+// Shall remain identical to @893 in baf.tra, otherwise there will be a journal issue
+@26 = ~Zagadka wodnego potwora
+
+Kapitan Quenex poinformowa³ mnie, ¿e szwadron rybaków by³ ostatnio atakowany przez dziwne wodne stwory. Nie wie, czym s¹, ale straci³ kilku ludzi, wiêc rybacy wol¹ siê nie zapuszczaæ daleko od brzegu.~
+@27 = ~Oczywiœcie.~
+@28 = ~Co wiesz o kapitanie Basmarze?~
+@29 = ~Co mi mo¿esz powiedzieæ o Harperze?~
+@30 = ~Zbadaliœmy sprawê rybaków.~
+@31 = ~Hmm, w tej chwili nic.~
+@32 = ~*krzywi siê* No, wiem, ¿e u¿ywa tego tytu³u, ale nie wiem czemu.~
+@33 = ~Jak to?~
+@34 = ~Ja jestem kapitanem ³odzi rybackich. „Kapitan” Basmar nie tylko nie ma ³odzi, ale tak¿e nigdy nie widzia³em go, aby ³owi³.~
+@35 = ~Mo¿e by³ kapitanem rybaków w innym mieœcie?~
+@36 = ~To mo¿liwe. Jednak nie wiem, czym siê tu zajmuje. Ju¿ od ponad roku mieszka w Garrotten i nigdy ze mn¹ nie rozmawia³ o do³¹czeniu do rybaków.~
+// Shall remain identical to @894 in baf.tra, otherwise there will be a journal issue
+@37 = ~Kapitan Quenex poinformowa³ mnie, ¿e „Kapitan” Basmar nie ma ³odzi i nigdy nie ³owi³ tu ryb.~
+@38 = ~Ciekawe. Dziêki.~
+@39 = ~Jest m¹drym i dobrym cz³owiekiem. Odk¹d pozwolono nam wyznawaæ Xerbo w ich œwi¹tyni, zacz¹³em mu ufaæ. Niewiele œwi¹tyñ pozwala, by wyznawano w nich ró¿ne bóstwa pod jednym dachem. Xerbo i Osprem wspó³graj¹ ze sob¹, wiêc i my staramy siê sobie pomagaæ.~
+@40 = ~Ale nie zauwa¿y³eœ, ¿e Harper siê zachowuje ostatnio jakoœ dziwnie?~
+@41 = ~Zale¿y, o co ci chodzi. Harper siê starzeje. Jego umys³ odp³yn¹³ ju¿ i staruszek miesza s³owa, zapomina, co robi³ przed chwil¹. Czasem nawet nie pamiêta, ¿e w³aœnie z tob¹ rozmawia³.~
+@42 = ~Nie, chodzi mi o to, czy opuszcza³ niespodziewanie miasto albo spotyka³ siê z podejrzanymi typami tego miasta?~
+@43 = ~Hmm, nie. W¹tpiê, czy potrafi³by znaleŸæ drogê do bram miasta. Podejrzane osoby? Tak, jest ich tu sporo. W tym mieœcie dzieje siê coœ strasznego. Wszyscy o tym wiedz¹, ale jakoœ nikt siê nie kwapi, aby coœ z tym zrobiæ. Powiem jedno: Harper nie jest w nic zamieszany. Jeœli ju¿ coœ, to on jest osob¹, której „oni” chc¹ siê pozbyæ. Gdyby by³ m³odszy, podejrzewam, ¿e to miasto nie mia³oby takiej reputacji. On by tego dopilnowa³.~
+// Shall remain identical to @895 in baf.tra, otherwise there will be a journal issue
+@44 = ~Kapitan Quenex ca³kowicie popiera najwy¿szego kap³ana Harpera i nie uwa¿a, aby by³ zamieszany w dzia³alnoœæ gildii zabójców. Wspomnia³ za to, ¿e jeœli Harper by³by m³odszy, nie dopuœci³by do czegoœ takiego w Garrotten.~
+@45 = ~Dobrze, wiêc co to by³y za potwory?~
+@46 = ~Jaszczuroludzie. Karmili siê rybakami.~
+@47 = ~Hmm, to dziwne, ¿e podeszli tak blisko miasta. Musieli siê nas w ogóle nie baæ. S¹ znani z napadania na miasta i porywania ludzi w celach ¿ywnoœciowych. Jeœli ³apali tylko rybaków, to musia³a byæ ma³a grupka. Co oznacza, ¿e to jest tylko namiastka przysz³ych ataków.~
+@48 = ~Wierzê, ¿e ocali³eœ miasto przez niechybn¹ zgub¹. Muszê poinformowaæ o twym wyczynie rybaków, aby mogli ponownie wyp³ywaæ. Dobra robota.~ ~Wierzê, ¿e ocaliaœ miasto przez niechybn¹ zgub¹. Muszê poinformowaæ o twym wyczynie rybaków, aby mogli ponownie wyp³ywaæ. Dobra robota.~
+// Shall remain identical to @896 in baf.tra, otherwise there will be a journal issue
+@49 = ~Zagadka wodnego potwora
+
+Powiedzia³em kapitanowi Quenexowi o pokonaniu jaszczuroludzi. Jego rybacy s¹ znowu bezpieczni na wodzie.~ ~Zagadka wodnego potwora
+
+Powiedzia³am kapitanowi Quenexowi o pokonaniu jaszczuroludzi. Jego rybacy s¹ znowu bezpieczni na wodzie.~

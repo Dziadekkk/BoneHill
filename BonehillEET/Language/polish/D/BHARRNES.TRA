@@ -1,0 +1,63 @@
+@1 = ~Wiêc <LADYLORD> <CHARNAME> wpad³, by nas odwiedziæ. Có¿ za mi³a niespodzianka.~ ~Wiêc <LADYLORD> <CHARNAME> wpad³a, by nas odwiedziæ. Có¿ za mi³a niespodzianka.~
+@2 = ~Odwiedziæ? Nie wydaje mi siê, abym mia³ jakikolwiek wybór, gdy pojawi³y siê twoje zbiry.~ ~Odwiedziæ? Nie wydaje mi siê, abym mia³a jakikolwiek wybór, gdy pojawi³y siê twoje zbiry.~
+@3 = ~Wielmo¿na Arrness, dziêkujê za poœwiêcenie mi chwili uwagi.~
+@4 = ~W czym mogê pomóc?~
+@5 = ~Prowadzimy œledztwo w sprawie œmierci barona Grellusa. Wierzymy, ¿e przynajmniej jeden z mieszkañców waszego miasta jest w to zamieszany.~
+@6 = ~Jesteœmy zwyk³ymi poszukiwaczami przygód. Mamy nadziejê pomóc ci w ka¿dy mo¿liwy sposób.~
+@7 = ~Grellus? To straszna wiadomoœæ. Taki wspania³y cz³owiek. Zapewne Pani Fairwind jest pogr¹¿ona w rozpaczy.~
+@8 = ~Zbiry? To niezbyt mi³e, mówiæ w ten sposób o moim kapitanie i jego ludziach. Zapewniam ciê, i¿ chcieli ciê chroniæ.~
+@9 = ~Chroniæ mnie? Przed czym?~
+@10 = ~Ale¿ przed niebezpieczn¹ osob¹, jak¹ próbujesz odnaleŸæ. Jesteœ tu w sprawie zabójstwa barona Grellusa, nieprawda¿?~
+@11 = ~Owszem. Sk¹d o tym wiesz?~
+@12 = ~£askawy panie, ca³e ulice pogr¹¿one s¹ w plotkach. Jeœli próbowa³eœ prowadziæ swoje œledztwo w tajemnicy, twoje starania spe³z³y na niczym.~ ~£askawa pani, ca³e ulice pogr¹¿one s¹ w plotkach. Jeœli próbowa³aœ prowadziæ swoje œledztwo w tajemnicy, twoje starania spe³z³y na niczym.~
+@13 = ~A skoro ju¿ jesteœmy przy tym, nie pochwalam wêszenia po mym mieœcie bez wczeœniejszej konsultacji ze mn¹. Jako w³adczyni tego miasta moim obowi¹zkiem jest zwalczanie przestêpczoœci i zachowanie porz¹dku. Twoje bezprawne œledztwo zakoñczy siê natychmiast. Moje stra¿e zajm¹ siê t¹ spraw¹. Gdy tylko prawda wyjdzie na jaw, wezwê ciê do siebie. Czy wyra¿am siê jasno?~
+// Shall remain identical to @891 in baf.tra, otherwise there will be a journal issue
+@14 = ~Pani burmistrz zamierza wszcz¹æ œledztwo w sprawie morderstwa, przez co moje zosta³o wstrzymane. Zastanawiam siê, czy zabójca zostanie schwytany.~
+@15 = ~Tak pani, zrozumia³em.~ ~Tak pani, zrozumia³am.~
+@16 = ~A co z gildi¹ zabójców?~
+@17 = ~Dobrze. Mo¿esz wróciæ do gospody. Poœlê po ciebie stra¿. Mo¿esz odejœæ.~
+@18 = ~Ba! Plotki! K³amstwa na temat miasta i mojej osoby. Równie¿ nie pochwalam tego typu uwag na temat mego miasta. A teraz, zechcesz udaæ siê do gospody, czy mam rozkazaæ kapitanowi przygotowaæ dla ciebie celê?~
+// Shall remain identical to @890 in baf.tra, otherwise there will be a journal issue
+@19 = ~Burmistrz miasta niemal wtr¹ci³a mnie do lochu, kiedy zacz¹³em wypytywaæ o gildiê zabójców. Temat ten wydaje siê dla niej bardzo dra¿liwy.~ ~Burmistrz miasta niemal wtr¹ci³a mnie do lochu, kiedy zaczê³am wypytywaæ o gildiê zabójców. Temat ten wydaje siê dla niej bardzo dra¿liwy.~
+@20 = ~Cela nie bêdzie konieczna, madame.~
+@21 = ~Wiêc jesteœ tu w sprawie tego tragicznego zdarzenia? Zapewne przybywasz z polecenia pani Fairwind lub jej doradcy Pelltara?~
+@22 = ~Tak, pani.~
+@23 = ~Œwietnie. Chocia¿ to i tak nie ma wiêkszego znaczenia.~
+@24 = ~Co masz na myœli?~
+@25 = ~Nie pochwalam twojego wêszenia po mym mieœcie bez wczeœniejszej konsultacji ze mn¹. Jako w³adczyni tego miasta moim obowi¹zkiem jest zwalczanie przestêpczoœci i zachowanie porz¹dku. Twoje bezprawne œledztwo zakoñczy siê natychmiast. Moje stra¿e zajm¹ siê t¹ spraw¹. Gdy tylko prawda wyjdzie na jaw, wezwê ciê do siebie. Czy wyra¿am siê jasno?~
+@26 = ~Naprawdê?! W takim razie mam dla ciebie propozycjê. Kr¹¿¹ pog³oski o czymœ grasuj¹cym w jeziorze, szerz¹cym strach w szeregach rybaków. S³ysza³eœ o tym?~ ~Naprawdê?! W takim razie mam dla ciebie propozycjê. Kr¹¿¹ pog³oski o czymœ grasuj¹cym w jeziorze, szerz¹cym strach w szeregach rybaków. S³ysza³aœ o tym?~
+@27 = ~Tak, pani. Jeden z kap³anów coœ o tym wspomnia³.~
+@28 = ~Nie, pierwsze s³yszê.~
+@29 = ~Cudownie, w takim razie nie muszê mówiæ ci o szczegó³ach. Dodam tylko, i¿ wys³a³am zwiadowcê na pó³nocn¹ czêœæ jeziora, by dowiedzia³ siê, czym jest ta istota. Jak dot¹d nie powróci³ z wieœciami. Podejrzewam., ¿e przydarzy³o mu siê nieszczêœcie. OdnajdŸ go albo dowiedz siê, co siê z nim sta³o.~
+// Shall remain identical to @889 in baf.tra, otherwise there will be a journal issue
+@30 = ~Wodne stwory?
+
+Coœ na jeziorze atakuje rybaków. Burmistrz chce, abym dowiedzia³ siê, co to jest, oraz ¿ebym odnalaz³ zwiadowcê badaj¹cego tê sprawê.~ ~Wodne stwory?
+
+Coœ na jeziorze atakuje rybaków. Burmistrz chce, abym dowiedzia³a siê, co to jest, oraz ¿ebym odnalaz³a zwiadowcê badaj¹cego tê sprawê.~
+@31 = ~Tak, pani.~
+@32 = ~Porozmawiaj z mieszkañcami, by zdobyæ wiêcej szczegó³ów. Dodam tylko, i¿ wys³a³am zwiadowcê na pó³nocn¹ czêœæ jeziora, by dowiedzia³ siê, czym jest ta istota. Jak dot¹d nie powróci³ z wieœciami. Podejrzewam, ¿e przydarzy³o mu siê nieszczêœcie. OdnajdŸ go albo dowiedz siê, co siê z nim sta³o.~
+@33 = ~W porz¹dku. A teraz powiedz mi o prawdziwym celu twojego pobytu tutaj.~
+@34 = ~S³ucham?~
+@35 = ~Och, nie baw siê ze mn¹. Pelltar przys³a³ ciê tu z zadaniem odkrycia zabójcy barona. Z jakiej innej przyczyny poszukiwacze przygód mieliby przybywaæ do naszego miasta nied³ugo po jego œmierci? Tak, mówi siê, ¿e ktoœ go zabi³. Oczywiœcie Bród Resten twierdzi, i¿ morderca jest w³aœnie st¹d. Jakie to typowe. Nikt nie jest na tyle przyzwoity, ¿eby mnie wpierw spytaæ o zdanie.~
+@36 = ~<CHARNAME>, wróci³eœ. Dowiedzia³eœ siê czegoœ o tym potworze?~ ~<CHARNAME>, wróci³aœ. Dowiedzia³aœ siê czegoœ o tym potworze?~
+@37 = ~Nic wartego uwagi, droga pani.~
+@38 = ~Tak czy inaczej musimy porozmawiaæ o innej sprawie. Powiedzia³a mi pani, ¿e aresztowa³a trzech podejrzanych w sprawie œmierci barona. Natomiast w³aœnie dotar³a do mnie wieœæ, ¿e Lady Fairwind zosta³a zamordowana.~
+@39 = ~Oœmielasz siê kraœæ moje dokumenty?!~
+@40 = ~Owszem, to daje mi wszystkie dowody, jakich potrzebujê, by armia ksiêcia dobra³a siê do waszej gildii. Zak³adaj¹c, ¿e Pelltar nie zrobi tego pierwszy. Jesteœ skoñczona Arrness.~
+@41 = ~A wiêc umrzesz!~
+@42 = ~Zamieniam siê w s³uch.~
+@43 = ~Twoi rybacy byli atakowani przez jaszczuroludzi.~
+@44 = ~Jaszczuroludzie? Tutaj? Tak blisko miasta?~
+@45 = ~Wykorzystali jaskinie po³o¿one na pó³noc od jeziora. Wygl¹da na to, ¿e ludzie s³u¿yli im za jedzenie.~
+@46 = ~Pozby³eœ siê ich wszystkich, jak mniemam?~
+@47 = ~Tak, pani. Ich królem by³ wielki jaszczur, ale on równie¿ wyzion¹³ ducha.~
+@48 = ~Dziêkujê. Miasto ma wobec ciebie d³ug wdziêcznoœci. Chcia³abym poinformowaæ ciê, czego dowiedzieliœmy siê, przes³uchuj¹c podejrzanych. Abraham, w³aœciciel gospody, przyzna³ siê do zabójstwa. Wszystko wskazuje na jego wysoka pozycjê w gildii. Balmorrow i Harper równie¿ zostan¹ straceni za wspó³udzia³ w zbrodni. Mo¿esz teraz wróciæ do Resten i powiedzieæ Pelltarowi lub Pani Fairwind o naszych odkryciach. To wszystko.~
+@49 = ~Naprawdê? Tragedia. Jestem przekonana, i¿ Pelltar przepe³niony jest smutkiem. Ach tak, dziecko. Andrella zapewne jest teraz na skraju za³amania.~
+@50 = ~Muszê odnaleŸæ kolejnych zabójców.~
+@51 = ~Co! Oœmielasz siê oskar¿aæ mnie o ukrywanie morderców? Wykona³am ju¿ za ciebie wiêksz¹ czêœæ zadania. Jeœli nie potrafisz ich znaleŸæ, dlaczego zak³adasz, ¿e s¹ w tym mieœcie?~ ~Co! Oœmielasz siê oskar¿aæ mnie o ukrywanie morderców? Wykona³am ju¿ za ciebie wiêksz¹ czêœæ zadania. Jeœli nie potrafisz ich znaleŸæ, dlaczego zak³adasz, ¿e s¹ w tym mieœcie?~
+@52 = ~Dosyæ. Jestem wœciek³a. OdejdŸ! I spodziewam siê, ¿e niezw³ocznie opuœcisz Garrotten. W przeciwnym wypadku bêdê zmuszona ci w tym pomóc.~
+@53 = ~Zaczekaj chwilê, <CHARNAME>!~
+@54 = ~Co znowu?!~
+@55 = ~Mo¿e, zamiast traciæ czas, obijaj¹c siê, móg³byœ zaj¹æ siê dla mnie pewn¹ spraw¹? Oczywiœcie zak³adaj¹c, i¿ jesteœ zainteresowany...~ ~Mo¿e, zamiast traciæ czas, obijaj¹c siê, mog³abyœ zaj¹æ siê dla mnie pewn¹ spraw¹? Oczywiœcie zak³adaj¹c, i¿ jesteœ zainteresowana...~
+@56 = ~Naturalnie. Wszystko jest lepsze od grzania ty³ka w gospodzie i liczenia much w piwie.~

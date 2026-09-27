@@ -2,7 +2,7 @@ BACKUP ~BonehillEET/backup~
 //AUTHOR ~SirBillyBob@gmail.com and erebusant@verizon.net~
 SUPPORT ~https://github.com/RoxanneSHS/BoneHill/issues~
 
-VERSION ~v34~
+VERSION ~v3.5~
 
 AUTO_TRA ~BonehillEET/Language/%s/D~
 
@@ -54,6 +54,11 @@ LANGUAGE
          ~Schinese (Archenemy and youye)~
          ~schinese~
          ~BonehillEET/Language/schinese/install.tra~
+		 
+LANGUAGE 
+         ~Polski (Tlumaczenie CoB)~
+         ~polish~
+         ~BonehillEET/Language/polish/setup.tra~
 
 BEGIN @0
 REQUIRE_PREDICATE GAME_IS ~eet~ ~This version is for EET games only~
@@ -1330,28 +1335,23 @@ COMPILE ~BonehillEET/d~
 
 PRINT @363
 
-COPY ~BonehillEET/areas~ ~override~ 
+COPY ~BonehillEET/areas~ ~override~
+ 
+COPY ~BonehillEET/BGT/ARE~ ~override~
 
-PRINT @435
-COPY ~BonehillEET/BGT/ARE~ ~override~ 
-   
-COMPILE ~BonehillEET/BGT/d~
-COMPILE ~BonehillEET/BGT/BCS/BHFABIO.BAF~
-COMPILE ~BonehillEET/BGT/BCS/BHCUTBA2.BAF~
-COMPILE ~BonehillEET/BGT/BCS/BHPELL.BAF~
-  USING   ~BonehillEET/Language/%s/baf.tra~
- 
-EXTEND_BOTTOM ~BG3402.bcs~ ~BonehillEET/BGT/BCS/BG3402.baf~
+COPY_EXISTING	~BH1301.ARE~	~Override~
+  READ_LONG  0x54 "actor_off"
+  READ_SHORT 0x58 "actor_num"
+  WHILE ("%actor_num%" > 0) BEGIN
+    SET "actor_num" = ("%actor_num%" - 1)
+    READ_ASCII ("%actor_off%" + 0x80 + ("%actor_num%" * 0x110)) "cre_file"
+    PATCH_IF ("%cre_file%" STRING_COMPARE_CASE "BHOGRE" = 0) BEGIN
+      WRITE_ASCII ("%actor_off%" +        ("%actor_num%" * 0x110)) ~Ogre Mage~ #32
+      WRITE_ASCII ("%actor_off%" + 0x80 + ("%actor_num%" * 0x110)) ~BHOGREMA~ #8
+    END
+  END
+BUT_ONLY_IF_IT_CHANGES
 
-COPY_EXISTING ~BG3400.are~ ~override/BG3400.are~
-    WRITE_ASCII 0x94 ~BG3400~
- 
-EXTEND_BOTTOM ~BG3400.bcs~ ~BonehillEET/BGT/BCS/BG3400.baf~
-EXTEND_BOTTOM ~BG0123.bcs~ ~BonehillEET/BGT/BCS/BG0123.baf~
-EXTEND_BOTTOM ~BG0800.bcs~ ~BonehillEET/BGT/BCS/BG0800.baf~
-EXTEND_BOTTOM ~BG2626.BCS~ ~BonehillEET/BGT/BCS/BG2626.baf~
-   USING   ~BonehillEET/Language/%s/baf.tra~
- 
 APPEND ~PDIALOG.2DA~
    ~FABIO        BHFABIOP           BHFABIOJ       ***      ***     ***      ***       ***~
   UNLESS ~FABIO~
@@ -1517,21 +1517,7 @@ COPY ~BonehillEET/BGT/BH2301.are~ ~override/BH2301.are~
 COPY	~BonehillEET/creatures/spawns~	~Override~
 COMPILE	~BonehillEET/BGT/spawns~
 
-
-COPY_EXISTING	~BH1301.ARE~	~Override~
-  READ_LONG  0x54 "actor_off"
-  READ_SHORT 0x58 "actor_num"
-  WHILE ("%actor_num%" > 0) BEGIN
-    SET "actor_num" = ("%actor_num%" - 1)
-    READ_ASCII ("%actor_off%" + 0x80 + ("%actor_num%" * 0x110)) "cre_file"
-    PATCH_IF ("%cre_file%" STRING_COMPARE_CASE "BHOGRE" = 0) BEGIN
-      WRITE_ASCII ("%actor_off%" +        ("%actor_num%" * 0x110)) ~Ogre Mage~ #32
-      WRITE_ASCII ("%actor_off%" + 0x80 + ("%actor_num%" * 0x110)) ~BHOGREMA~ #8
-    END
-  END
-BUT_ONLY_IF_IT_CHANGES
-
-COPY_EXISTING	~BH2000.BCS~	~Override~
+/*COPY_EXISTING	~BH2000.BCS~	~Override~
   REPLACE_BCS_BLOCK	~BonehillEET/bcs/oBH2000.BCS~	~BonehillEET/bcs/nBH2000.BCS~
 BUT_ONLY_IF_IT_CHANGES
 COPY_EXISTING	~BH2018.BCS~	~Override~
@@ -1556,7 +1542,27 @@ BUT_ONLY
 
 COPY_EXISTING	~BHASCUE.BCS~	~Override~
   REPLACE_BCS_BLOCK	~BonehillEET/bcs/oBHASCUE.BCS~	~BonehillEET/bcs/nBHASCUE.BCS~
+BUT_ONLY */
+
+//  NOWY, CZYSTY KOD KOMPILACJI POD EET:
+//  NOWY, CZYSTY KOD KOMPILACJI POD EET (BEZ ROZSZERZEÑ):
+COMPILE ~BonehillEET/bcs/nBH2000~
+COMPILE ~BonehillEET/bcs/nBH2018~
+COMPILE ~BonehillEET/bcs/nBH2100~
+COMPILE ~BonehillEET/bcs/nBH2101~
+
+COPY	~BonehillEET/bcs/BH0200.BCS~	~Override~
+EXTEND_TOP	~BH0100.BCS~	~BonehillEET/bcs/BH0200.BCS~
+
+COPY_EXISTING	~BH2100.BCS~	~Override~
+			~BH2101.BCS~	~Override~
+  DECOMPILE_AND_PATCH BEGIN
+    REPLACE_TEXTUALLY ~OnCreation()~ ~~
+  END
 BUT_ONLY
+
+COMPILE ~BonehillEET/bcs/nBHASCUE~
+
 
 COPY_EXISTING	~BHOGUARD.CRE~	~Override~
   PATCH_IF (SOURCE_SIZE > 0x2d3) THEN BEGIN // protects against invalid files
@@ -1640,7 +1646,6 @@ BH1400  value
 BH2000  value
 BH2001  value
 BH2002  value
-BH2003  value
 BH2003  value
 BH2004  value
 BH2005  value

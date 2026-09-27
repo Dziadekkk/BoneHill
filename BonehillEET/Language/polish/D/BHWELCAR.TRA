@@ -1,0 +1,69 @@
+@1 = ~W tych magazynach nie ma miejsca na kradzie¿! Przestêpcy zostan¹ ukarani bez litoœci!~
+
+@2 = ~Czego chcesz?~
+
+@3 = ~Gelpas nakaza³ nam rozmowê z tob¹. Chodzi o kradzie¿e z magazynu.~
+
+@4 = ~OdnaleŸliœmy skradzione przedmioty. Oto one.~
+
+@5 = ~ZnaleŸliœmy z³odzieja oraz czarn¹ per³ê. Proszê, weŸ j¹.~
+
+@6 = ~ZnaleŸliœmy ten zapisek. Nie mamy pewnoœci, co to wszystko ma oznaczaæ. Móg³byœ zerkn¹æ?~
+
+@7 = ~ZnaleŸliœmy ten zapisek. S¹dzimy, ¿e to jest jakaœ mapa. Czy te dwa kwadraty to magazyny, z których z³odziej ukrad³ rzeczy?~
+
+@8 = ~Nic.~
+
+@9 = ~Tak. To mia³o miejsce ostatniej nocy. Nie mam pojêcia, jakim cudem przeœlizgn¹³ siê obok mnie i moich psów. W ka¿dym magazynie zazwyczaj jest stra¿nik. Z tego, co wiem, z magazynu zabrano trochê jedzenia, kilka mieczy oraz jedwab. I jakby tego by³o ma³o, w kolejnym budynku ktoœ ukrad³ czarn¹ per³ê, któr¹ baron tu przywióz³. Bêdzie gor¹co, gdy siê dowie.~
+
+@10 = ~Wiêc obrobili dwa budynki w jedn¹ noc, tak? I nic nie s³ysza³eœ?~
+
+@11 = ~Nawet najmniejszego szmeru. To musia³a zrobiæ jedna osoba.~
+
+@12 = ~Hê? Dlaczego tylko jedna?~
+
+@13 = ~Bo z³odziej zabra³ tyle, ile uniesie jeden cz³ek. Nie uwa¿asz, ¿e zginê³oby wiêcej rzeczy, gdyby by³o ich wiêcej?~
+
+// Shall remain identical to @856 in baf.tra, otherwise there will be a journal issue
+
+@14 = ~Kradzie¿e w magazynach 
+
+
+
+Wed³ug Welcara tylko jedna osoba jest zamieszana w te kradzie¿e. Czyli jedna osoba jest odpowiedzialna za to ca³e z³odziejstwo? I zabójstwa? Ale jak?~
+
+@15 = ~S³uszna uwaga. Bêdziemy musieli siê nad tym zastanowiæ. Dziêki.~
+
+@16 = ~Naprawdê? Wspaniale! Ale gdzie jest czarna per³a?~
+
+@17 = ~O, tutaj. WeŸ j¹.~
+
+@18 = ~Nie znaleŸliœmy jej.~
+
+@19 = ~Ba³em siê ju¿, ¿e baron utnie mi ³eb za tê stratê. Dziêkujê ci.~
+
+// Shall remain identical to @857 in baf.tra, otherwise there will be a journal issue
+
+@20 = ~Kradzie¿e w magazynach
+
+
+
+Wszystkie skradzione rzeczy zosta³y zwrócone Welcarowi. Mo¿e teraz Gelpas pozwoli Pelltarowi nas odes³aæ.~
+
+@21 = ~Uu, to niedobrze. Baron ur¿nie mi ³eb i mo¿e twój te¿. Musisz szukaæ dalej. Z³odziej musi gdzieœ tu byæ.~
+
+@22 = ~To jest mapa Resten! Spójrz, tutaj masz zaznaczone trzy magazyny zaraz obok tej linii, która reprezentuje rzekê. Hej, te dwa, do których siê w³amano, s¹ zaznaczone zaraz obok. A to, to pewnie jest Zachodni Wiatr. Zelmar mówi³ mi wczoraj, ¿e w zesz³ym tygodniu ktoœ buchn¹³ ich wszystkie pieni¹dze. Powinieneœ pogadaæ z nim o tym.~ ~To jest mapa Resten! Spójrz, tutaj masz zaznaczone trzy magazyny zaraz obok tej linii, która reprezentuje rzekê. Hej, te dwa, do których siê w³amano, s¹ zaznaczone zaraz obok. A to, to pewnie jest Zachodni Wiatr. Zelmar mówi³ mi wczoraj, ¿e w zesz³ym tygodniu ktoœ buchn¹³ ich wszystkie pieni¹dze. Powinnaœ pogadaæ z nim o tym.~
+
+@23 = ~Tak, to zdecydowanie jest mapa Brodu Resten. Te kwadraty pasuj¹ do magazynów. Zobacz tutaj, to pewnie jest Zachodni Wiatr. Zelmar mówi³ mi wczoraj, ¿e w zesz³ym tygodniu ktoœ buchn¹³ ich wszystkie pieni¹dze. A tu masz haczyki przy tym budynku. Powinieneœ pogadaæ o tym z Zelmarem.~ ~Tak, to zdecydowanie jest mapa Brodu Resten. Te kwadraty pasuj¹ do magazynów. Zobacz tutaj, to pewnie jest Zachodni Wiatr. Zelmar mówi³ mi wczoraj, ¿e w zesz³ym tygodniu ktoœ buchn¹³ ich wszystkie pieni¹dze. A tu masz haczyki przy tym budynku. Powinieneœ pogadaæ o tym z Zelmarem.~
+
+@24 = ~Wiesz, kilka lat temu mieliœmy tu pe³no z³odziei. Wypêdzeni z Garrotten wprowadzili siê do nas i za³o¿yli sklepy w kana³ach. Baron musia³ wynaj¹æ najemników, ¿eby siê z nimi uporaæ. Gelpas sta³ na czele grupy, która zwalczy³a z³odziei. Wiêkszoœæ jego dru¿yny poleg³a. Pewnie to by³o powodem jego odejœcia od ¿ycia awanturniczego. W koñcu uda³o mu siê pojmaæ tych ³ajdaków i powiesiæ ich na drzewie. Ca³kiem niez³y widok, jeœli zechcesz zobaczyæ. Roœnie za œwi¹tyni¹, zaraz obok zachodniej bramy prowadz¹cej do Garrotten. Za³o¿ê siê, ¿e stra¿e maj¹ do opowiedzenia sporo historii, od których w³os siê je¿y... Brrr!~
+
+@25 = ~Kana³y? Nie znaleŸliœmy ¿adnych kana³ów.~
+
+@26 = ~Ale¿ s¹ tutaj. Wprawdzie nie s¹ to pe³noprawne kana³y, ich rola bowiem polega³a jedynie na odprowadzaniu wody, gdy rzeka wylewa³a. Starsze natomiast s¹ w zachodniej czêœci miasta, zaraz pod spalon¹ stra¿nic¹. Tak jak ju¿ wspomnia³em wczeœniej, to jest miejsce, gdzie Gelpas ze swoj¹ dru¿yn¹ walczy³ ze z³odziejami. Tak siê sk³ada, ¿e na cmentarzu na pó³noc od œwi¹tyni by³o drugie wejœcie.~
+
+// Shall remain identical to @858 in baf.tra, otherwise there will be a journal issue
+
+@27 = ~Welcar powiedzia³, ¿e Bród Resten ma sieæ starych kana³ów. Niegdyœ z³odzieje u¿ywali ich jako kryjówki. Ciekawe czy nadal tak jest.~
+
+@28 = ~Dziêkujê ci za odzyskanie wszystkiego.~

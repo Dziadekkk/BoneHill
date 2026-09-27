@@ -1,0 +1,37 @@
+@0 = ~Hej nieznajomy, potrzebujesz osiod³aæ konie?~ ~Hej nieznajoma, potrzebujesz osiod³aæ konie?~
+@1 = ~Nie, nie mam ¿adnych koni.~
+@2 = ~Czego wiêc tu szukasz?~
+@3 = ~Tylko sprawdzam, co to za miejsce.~
+@4 = ~Witaj znów. Potrzebujesz czegoœ?~
+@5 = ~Rozumiem, ¿e Oskar pakuje ciê w k³opoty.~
+@6 = ~Lubiê Oskara i on wcale tak nie robi. Jesteœ pod³y!~ ~Lubiê Oskara i on wcale tak nie robi. Jesteœ pod³a!~
+@7 = ~Falpir, Abraham ma k³opoty i uwa¿am, ¿e Oskar macza³ w tym palce.~
+@8 = ~Abraham? On nie mo¿e mieæ k³opotów. Jest naprawdê mi³y.~
+@9 = ~Wydaje mi siê, ¿e Oskar lub Philmar ukradli guzik z jego kurtki. Guzik ten zosta³ odnaleziony w miejscu potwornej zbrodni. Abraham jest w powa¿nych tarapatach i mo¿e pójœæ do wiêzienia.~
+@10 = ~Nie! Nie mo¿e! Jest mi³y dla mnie. Oskar... No... On...~
+@11 = ~Co takiego zrobi³ Oskar?~
+@12 = ~Poprosi³ mnie, ¿ebym zabra³ ten guzik. Wkrad³em siê do pokoju Abrahama i zabra³em. Da³em go Oskarowi.~
+@13 = ~Falpir, to, co zrobi³eœ, mo¿e nie jest z³ym uczynkiem, ale Oskar pos³u¿y³ siê tym guzikiem. Da³ go komuœ odpowiedzialnemu za œmieræ pewnej osoby. I ten ktoœ zostawi³ ten w³aœnie guzik na miejscu zdarzenia. Tak wiêc teraz ludzie myœl¹, ¿e to Abraham zabi³ tê osobê.~
+@14 = ~Co? *zaczyna p³akaæ* Nie, to wszystko moja wina! Stra¿e! Oni zabior¹ Abrahama. Mo¿e nawet zabij¹. Muszê ich powstrzymaæ!~
+@15 = ~Ciiiiii. Ju¿ dobrze. Jesteœmy tu, ¿eby mu pomóc. Musia³em tylko siê dowiedzieæ, co tak naprawdê siê sta³o.~ ~Ciiiiii. Ju¿ dobrze. Jesteœmy tu, ¿eby mu pomóc. Musia³am tylko siê dowiedzieæ, co tak naprawdê siê sta³o.~
+@16 = ~G³upi dzieciaku! Stra¿e zabij¹ go. Pomog³eœ zabiæ Abrahama!.~
+@17 = ~*wci¹¿ p³acze* Pomo¿esz mu? Mo¿esz go ochroniæ?~
+@18 = ~Tak, dziecko. Ochroniê go. A teraz powiedz mi, czy to jest prawda?~
+@19 = ~Tak, dziecko. Jako paladyn przyrzekam na wszystkie œwiêtoœci, ¿e bêdê go chroni³. Czy to, co mi powiedzia³eœ, jest prawd¹?~ ~Tak dziecko. Jako paladynka przyrzekam na wszystkie œwiêtoœci, ¿e bêdê go chroni³a. Czy to, co mi powiedzia³eœ, jest prawd¹?~
+@20 = ~Nieee!!!~
+// Shall remain identical to @879 in baf.tra, otherwise there will be a journal issue
+@21 = ~Abraham jest niewinny! Falpir, ch³opiec stajenny, przyzna³ siê do kradzie¿y guzika. Oskar poprosi³ go, ¿eby to uczyni³. Podejrzewa³em, ¿e Oskar jest jednym z cz³onków gildii zabójców i teraz mam na to wiêcej dowodów. Musia³em powiedzieæ dziecku, co stanie siê z Abrahamem. Nie przyj¹³ tego dobrze.~ ~Abraham jest niewinny! Falpir, ch³opiec stajenny, przyzna³ siê do kradzie¿y guzika. Oskar poprosi³ go, ¿eby to uczyni³. Podejrzewa³am, ¿e Oskar jest jednym z cz³onków gildii zabójców i teraz mam na to wiêcej dowodów. Musia³am powiedzieæ dziecku, co stanie siê z Abrahamem. Nie przyj¹³ tego dobrze.~
+@22 = ~*poci¹ga nosem* Tak. Oskar powiedzia³, ¿e to bêdzie fajny dowcip. Wiêc zabra³em ten guzik i da³em mu go.~
+@23 = ~Teraz nie jest to ju¿ takie zabawne? Nie martw siê, pomo¿emy mu. Mogê ciê o coœ poprosiæ?~
+@24 = ~*przera¿onym g³osem* Tak?~
+@25 = ~Chyba najwy¿szy czas, ¿ebyœ zacz¹³ trzymaæ siê z dala od takich ludzi jak Oskar i Philmar. Jesteœ ju¿ prawie doros³y. Powinieneœ pomagaæ innym. Mo¿esz chroniæ innych przed ludŸmi pokroju Oskara. Pomyœl o dzieciach, które zaczepia. Mo¿esz temu zapobiec.~
+@26 = ~Trzymaj siê z dala od Oskara. Sprowadzi na ciebie k³opoty, których nie potrzebujesz.~
+@27 = ~Dobrze. Spróbujê.~
+// Shall remain identical to @878 in baf.tra, otherwise there will be a journal issue
+@28 = ~Abraham jest niewinny! Falpir, ch³opiec stajenny, przyzna³ siê do kradzie¿y guzika. Oskar poprosi³ go, ¿eby go ukrad³. Podejrzewa³em, ¿e Oskar jest jednym z cz³onków gildii zabójców i teraz mam na to wiêcej dowodów. Po doœæ ostrej reprymendzie, jakiej udzieli³em Falpirowi, ch³opak ma szanse wyrosn¹æ na dobrego i przyzwoitego cz³owieka.~ ~Abraham jest niewinny! Falpir, ch³opiec stajenny, przyzna³ siê do kradzie¿y guzika. Oskar poprosi³ go, ¿eby go ukrad³. Podejrzewa³am, ¿e Oskar jest jednym z cz³onków gildii zabójców i teraz mam na to wiêcej dowodów. Po doœæ ostrej reprymendzie, jakiej udzieli³am Falpirowi, ch³opak ma szanse wyrosn¹æ na dobrego i przyzwoitego cz³owieka.~
+@29 = ~Hej, nieznajomy, powiedzia³eœ, ¿e aresztowali Abrahama?~ ~Hej, nieznajoma, powiedzia³aœ, ¿e aresztowali Abrahama?~
+@30 = ~Tak, synu. By³ zamieszany w powa¿ne przestêpstwo. Dobrze, ¿e znaleŸli jego guzik na miejscu zdarzenia.~
+@31 = ~Guzik? Masz na myœli czerwony, skórzany guzik?~
+@32 = ~Có¿, tak. W³aœnie taki guzik trzyma³a w rêku ofiara. Musia³a mu go wyrwaæ w trakcie szamotaniny.~
+@33 = ~Nie, to jest niemo¿liwe!~
+@34 = ~Co przez to rozumiesz? Wygl¹dasz, jakbyœ wiedzia³, o co w tym wszystkim chodzi. Powiedz mi. Abraham jest w du¿ych k³opotach, zosta³ wtr¹cony do wiêzienia.~

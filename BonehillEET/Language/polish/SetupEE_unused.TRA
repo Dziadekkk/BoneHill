@@ -1,0 +1,658 @@
+@0 = ~Secret of Bone Hill~
+@1 = ~Kopiowanie plikow graficznych~
+@2 = ~Kopiowanie plikow muzycznych~
+@3 = ~Instalowanie nowych przedmiotow~
+@4 = ~Wyrzutnia glazow jest juz zainstalowana~
+@5 = ~Wyrzutnia glazow nie zostala zainstalowana~
+@6 = ~Głaz~
+@7 = ~Jest to ten rodzaj kamienia, którym w nieszczęśników ciskają olbrzymy. Zadaje wielkie obrażenia oraz wywołuje u ofiary stan nieprzytomności. Postać o sile olbrzyma również potrafi korzystać z tego głazu...
+
+Zasięg: 24 metry
+Obrażenia: 3K6
+Specjalne:
+ Ofiara musi wykonać rzut obronny przeciwko zionięciom z modyfikatorem -4, w przeciwnym razie zostanie pozbawiona przytomności na 1 rundę i ogłuszona na następną
+Wymagana siła: 19~
+@8 = ~Amulet ognistych kul~
+@9 = ~Amulety ognistych kul to amulety z małą kulką, która po wyrzuceniu zmienia się w płonący pocisk rozpryskujący się płomienistym, ostrym ogniem w postaci kuli o promieniu do 9 metrów, dokładnie tak jak zaklęcie ognistej kuli. Ognista Kula zadaje 6k6 obrażeń, ale wszystkie wyrzucone 1-ki liczą się jako 2-ki. Ofiara może wykonać rzut obronny przeciwko różdżkom, aby otrzymać tylko połowę obrażeń. Gdy wszystkie ładunki zostaną zużyte, amulet ulega zniszczeniu.
+
+PARAMETRY:
+
+Specjalne: 
+ Wyrzuca Ognistą kulę
+Obrażenia: 6k6 (połowa po rzucie przeciwko różdżkom)
+Zasięg: 30 metrów
+Odszar działania: 9 metrów
+~
+@10 = ~Pierścień barda~
+@11 = ~Mimo iż niewiele wiadomo o historii tego pierścienia, niektórzy wierzą, że powstał około 200 lat temu.
+
+Pierścień posiada pojedynczy, lekko żarzący się kamień. Mimo że pierścień jest zimny w dotyku, ten chłód jest bardzo przyjemny.
+
+PARAMETRY:
+
+Specjalne:
+ Pozwala zapamiętać 1 dodatkowy czar 1 poziomu
+ Pozwala zapamiętać 1 dodatkowy czar 2 poziomu
+ Pozwala zapamiętać 1 dodatkowy czar 3 poziomu
+Waga: 0
+~
+@12 = ~Róg~
+@13 = ~Brązowy róg Valhalli~
+@14 = ~To jest mały róg. Tego typu rogi wykonane z kości bądź metalu, mogą wydawać wszelkiego rodzaju dźwięki.~
+@15 = ~Brązowy róg Valhalli
+
+Na dworach Valhalli spoczywają najdzielniejsi wojownicy. Ich oddanie idei wojny zostało nagrodzone honorowymi miejscami w Valhalli. Jako część służby wojownicy muszą zaoferować swoje usługi każdemu, kto zadmie w róg. Róg ten przywoła 4 do 7 poziomowego barbarzyńcę, który będzie walczył po stronie posiadacza rogu przez jedną minutę. Róg może być używany raz na dzień.
+
+Ten osobliwy róg jest powyginany i pozakrzywiany wskutek nieodpowiedniego bądź częstego używania.~
+@16 = ~Czarna perła~
+@17 = ~To jest brakująca perła, o której kradzież oskarżył cię Gelpas. Powinna zostać zwrócona Welcarowi, strażnikowi znajdującemu się przy magazynach.~
+@18 = ~Kij~
+@19 = ~Kostur Niebieskiego Smoka~
+@20 = ~Jest to najprostsza i najmniej efektywna z broni drzewcowych. Kostur może mieć długość od 1,8 do grubo ponad 2 metrów. Wykonuje się go z dębowego drewna i często obija metalem na obu końcach. Do władania nim trzeba używać obu rąk.
+
+PARAMETRY:
+
+Obrażenia: 1k6
+Rodzaj obrażeń: obuchowe
+Waga: 4
+Opóźnienie : 4
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymagana siła: 5~
+@21 = ~Ta długa czarnodębowa laska posiada na końcu ogromny, niebieski kryształ w kształcie głowy niebieskiego smoka, który emanuje elektrycznością. Tego typu laski są robione dla członków Kultu smoka. Tylko jeźdźcy smoków są upoważnieni do władania nimi. Dlatego kult może być nieco zainteresowany twoim posiadaniem tej laski.
+
+Smocze laski posiadają specjalne właściwości podobne do mocy smoków lub drakoliszy, z którymi był związany jeździec.
+
+PARAMETRY:
+
+Obrażenia: 1K6 + 3
+TraK0: +3
+Specjalne:
+ Zapewnia 50% ochronny przed elektrycznością
+ W przypadku trafienia istnieje 50% szans na zadania dodatkowych 1k8 obrażeń od elektryczności
+ Dwa razy dziennie pozwala rzucać Błyskawicę zadającą 6k6 obrażeń (połowę po rzucie obronnym przeciwko różdżkom)
+ Raz dziennie pozwala rzucać Wyładowanie łańcuchowe
+Typ obrażeń: obuchowe
+Waga: 7
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+Wymaga siła: 5
+~
+@22 = ~Płaszcz zabójcy~
+@23 = ~Zdolności nadane temu potężnemu, magicznemu płaszczowi potwierdzają przekonanie, że obrona może przybierać różne formy – zarówno możliwość ukrycia się, jak i pomoc w skutecznym ataku z zaskoczenia.
+
+PARAMETRY:
+
+Specjalne:
+ +2 do Klasy Pancerza
+ +2 do rzutów obronnych
+ Raz dziennie pozwala rzucić Ulepszone przyśpieszenie ruchów
+ Trzy razy dziennie pozwala rzucać Ulepszoną niewidzialność
+Waga: 3~
+@24 = ~Maczuga~
+@25 = ~Maczuga +2, Pomocnik zabójcy~
+@26 = ~Maczuga +2, Pomocnik zabójcy
+Należała niegdyś do Tellisha, złego złodzieja/kapłana, przywódcy jednej z najpotężniejszych gildii dzisiejszych czasów. Posiada możliwość obezwładnienia każdego człowieka, krasnoluda, gnoma i niziołka poprzez gwałtowne uśpienie. Jedynie elfy są odporne na jej działanie. Wykonywana specjalnie dla zabójców broń ta zapewnia o 50% większą szansę zadania ciosu w plecy. Mimo iż technicznie jest morgenszternem, nadaje się do użytku przez złodziei jak każda inna maczuga.
+
+PARAMETRY:
+
+Obrażenia: 2K4 +2
+TraK0: +2
+Rodzaj obrażeń: obuchowe
+Specjalne:
+ Każdy trafiony człowiek lub półczłowiek, wyjąwszy półelfa, musi wykonać rzut obronny przeciwko truciźnie albo zaśnie na 3 rundy
+ +50% do umiejętności zadawania ciosu w plecy
+Waga: 4
+Opóźnienie: 3
+Rodzaj biegłości: maczuga
+Typ broni: 1-ręczna
+Wymagana siła: 5
+~
+@27 = ~Lutnia~
+@28 = ~Lutnia Fabia~
+@29 = ~Muzyczna lutnia.~
+@30 = ~Fabio twierdzi, że ta słynna lutnia używana była przez Pellona Kaya, który podczas licznych podróży po świecie modyfikował jej specjalne zdolności.
+
+Skąd Fabio posiada tę lutnię, pozostaje tajemnicą, ponieważ on sam niechętnie wypowiada się na ten temat.
+
+Specjalne:
+ Raz dziennie pozwala rzucić Okropne zauroczenie
+ Trzy razy dziennie pozwala bardowi rzucić Zamęt na wszystkie istoty w zasięgu (rzut obronny przeciwko czarom, aby uniknąć efektu). Pieśń ta nie działa na barda ani na jego towarzyszy
+~
+@31 = ~Długi miecz~
+@32 = ~Płomienny miecz +2~
+@33 = ~Do tej kategorii zaliczają się obusieczne miecze, miecze wojenne i wojskowe. Bardzo często miecze długie są jednosieczne. Nie ma jednego standardu tej broni; sposób wykonania i długość zależy od kultury, a nawet miejsca na terytorium jednego kraju, w którym wykuto ostrze. Ich najczęstszą wspólną cechą jest długość, wahająca się od 90 do 110 cm. Większość mieczy długich jest obusiecznych i ma zaostrzony koniec. Mimo ostrego końca miecze te służą do zadawania ran siecznych, a nie kłutych.
+
+PARAMETRY:
+
+Obrażenia: 1K8
+Rodzaj obrażeń: sieczne
+Waga: 4
+Opóźnienie: 5
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymaga siła: 6
+~
+@34 = ~Ostrze to pali się magicznym płomieniem. Za każdym razem, gdy dochodzi do trafienia, wypuszczona zostaje ognista smuga. Na rękojeści został wyryty napis „Meta Infernum”, chociaż sprawia wrażenie nieco wyblakłego i mogło go pierwotnie nie być na mieczu.
+
+Wydaje się, że został w nim uwięziony żywiołak ognia lub podobna istota. Jego zła natura może z łatwością zawładnąć słabą osobowością. Jednakże uwięziony stwór wydaje się ściągać ogień blisko ostrza, co może zapewnić ochronę posiadaczowi.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +2, +3 od ognia
+TraK0: +2
+Typ obrażeń: sieczne
+Specjalne:
+ +50% do odporności na ogień
+Waga: 4
+Opóźnienie: 5
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+Wymagana siła: 6
+~
+@35 = ~Dłoń chwały~
+@36 = ~To jest ususzona ręka. Posiada po jednej czerwonej świecy przyczepionej do każdego palca...~
+@37 = ~Ten przerażający przedmiot jest odciętą dłonią mężczyzny z czerwonymi świecami doczepionymi do każdego palca. Była to niegdyś dłoń rabusia, lecz teraz jest potężnym magicznym przedmiotem.
+
+Specjalne:
+ Pozwala rzucić Otwarcie
+ Pozwala rzucić Unieruchomienie osoby
+~
+@38 = ~Kawałek papieru~
+@39 = ~Ten kawałek papieru zawiera mały, czytelny napis po lewej stronie. Jest pokryty popiołem, brudem i wygląda na to, że także krwią. Fragment jaki udaje ci się przeczytać:
+
+...cierpliwie czekaj na przybycie Chwalebnej dłoni...b... nie osiągniemy ... pod naszym władaniem...~
+@40 = ~Kawałek notatki~
+@41 = ~Ten zabrudzony i zaplamiony skrawek papieru pokryty jest dziwnymi znaczkami. Baczniej się przyglądając, możesz dostrzec, że wyglądają jak figury różnych kształtów tworzące wzór.~
+@42 = ~Dziennik~
+@43 = ~Większość z tych rozlatujących się stronic jest nieczytelna.
+
+...przeklęta klątwa!...nieumarli...co czynić?...zwój przywrócenia...
+
+Tylko końcówka zawiera w miarę znaczące informacje:
+
+Nie mam na czym pisać, moje ciało już prawie zgniło. Dowiedziałem się od innych, że ten, kto mnie tu uwięził, już nie żyje. Jego zło pozwoliło mu zmienić się w upiora, a zatem będzie nawiedzał to miejsce i dopuszczał się strasznego świętokradztwa.
+
+Czy moje cierpienie się kiedyś skończy? Chcę, by moja dusza wyzwoliła się z ciała, by dołączyć do chwały Amaunatora.
+
+Znalazłem kilka zwojów przywrócenia, może jeden zadziała. Ale ktoś inny musi rzucić czar!~
+@44 = ~Klucz~
+@45 = ~Skomplikowanie wyglądający klucz wykonany z zimnego żelaza.~
+@46 = ~Wiadomość Martina~
+@47 = ~To jest wiadomość Martina do Almaxa. Przeglądając ją, znajdujesz listę wyposażenia potrzebnego Martinowi do ukończenia budowy gaju druidów.~
+@48 = ~Hełm~
+@49 = ~Hełm ochrony przed urokami~
+@50 = ~Ten rodzaj otwartego hełmu, wykonywany z metalu lub wzmocnionej skóry, stanowi ochronę dla głowy, chroni twarz oraz kark. Hełmy tego typu zazwyczaj zapewniają ochronę nosa.
+
+PARAMETRY:
+
+Klasa Pancerza: bez zmian
+Specjalne:
+ Chroni przed trafieniami krytycznymi.
+Waga: 4
+~
+@51 = ~Jak to sugeruje jego nazwa, hełm ochrony przed urokami chroni noszącą go osobę przed wszystkimi próbami manipulowania jej emocjami. W ramach zachowania ostrożności niektóre grupy najemników wyposażają swoich członków w hełmy tego typu, aby zapobiec przejęciu kontroli nad ich umysłami przez wrogich magów.
+
+PARAMETRY:
+
+Klasa Pancerza: bez zmian
+Specjalne:
+ Chroni przed trafieniami krytycznymi
+ Nosząca go osoba jest odporna na zauroczenia
+ Trzy razy dziennie pozwala rzucić Prawdziwe widzenie
+Waga: 4
+~
+@52 = ~Ciało Locindy~
+@53 = ~To jest ciało Locindy, które powinno zostać szybko zabrane do świątyni w Garrotten.~
+@54 = ~To jest brakujące wyposażenie z magazynu. Dwa miecze, tarcza, kilka worków mąki i cukru (zapaskudzonego przez szczury) i kawałek fiołkoworóżowego jedwabiu.~
+@55 = ~List od Qualtona~
+@56 = ~To jest list od opata Qualtona. Najwyraźniej chce on nająć Tellisha, aby zabił barona i jego żonę, Fairwind. Wspomina także, że chce, aby stało się to tak szybko, jak to tylko możliwe.~
+@57 = ~Święty symbol Osprem~
+@58 = ~To jest święty symbol bogini Osprem. Złoty amulet zawiera malunek z wielorybem. Wieloryb powinien mieć czerwone rubinowe oko. Ten jednak owego kamienia nie posiada.~
+@59 = ~Księga Czarów Pelltara~
+@60 = ~To jest księga czarów Pelltara. Zawarte są w niej wszystkie jego czary.
+
+W tym mocnym pojemniku można umieścić tuziny zwojów, zabezpieczając je w ten sposób przed ogniem, deszczem i piorunami – czyli najczęstszymi zagrożeniami, jakich może spodziewać się czarodziej szukający przygód.~
+@61 = ~Struna~
+@62 = ~Jest to struna z lutni znaleziona przy ciele Barona Grellusa. Jest złota i zdaje się lekko promieniować magią.~
+@63 = ~Rubin~
+@64 = ~Ten mały rubin został znaleziony przy ciele Barona Grellusa. Sądząc po wypowiedziach licznych świadków, Najwyższy Kapłan Harper ze świątyni Osprem zdaje się nosić amulet z takimi rubinami.~
+@65 = ~Guzik z czerwonej skóry~
+@66 = ~Ten guzik z czerwonej skóry został znaleziony w ręku martwego Barona Grellusa. Nawiązując do wypowiedzi świadków, Abraham, właściciel gospody w Gargotten, nosi podobne guziki.~
+@67 = ~Dokumenty Arrness~
+@68 = ~Pani Burmistrz Garotten, Arrness, zdaje się z przesadną precyzją opisywać każdy szczegół dotyczący gildii zabójców. Można tu znaleźć wszelkie zapiski dotyczące najmowanych przezeń szpiegów i zabójców. Nietrudno również dostrzec informacje o wszystkich zleceniach na terenie miasta. Wydaje się, że gildia odnosiła niemałe sukcesy w zbieraniu informacji, szpiegostwie i zabójstwach.
+
+Znajduje się tutaj także osobisty pamiętnik Arrness. Przeglądając go, dowiadujesz się, że zamierza objąć panowanie nad Brodem Resten jako nowa Baronowa, kiedy już usunie się obecnych władców. Tellish został przez kogoś wynajęty do pomocy w tych planach. Nic jednak nie wskazuje na tożsamość jej osoby.~
+@69 = ~Dziennik Syriusza~
+@70 = ~To jest dziennik Syriusza.
+
+Przeglądając dziennik, natknąłeś się na wzmiankę o tym, że on i jakiś nekromanta zostali najęci przez elfickich władców Wysp Lendore. Ich misja polegała na szerzeniu chaosu wśród ostatnich osad ludzkich, tak aby władcy łatwo mogli przejąć nad nimi kontrolę. Dłoń Chwały została stworzona, aby pomóc w złodziejstwie. Wygląda na to, że Syriusz odkrył, że nekromanta okrada ich ze skarbów, więc pozbył się go. Następnie przeprowadził się do latarni, aby być bliżej miasta. Pod koniec dziennika czytasz, że ty i twoja drużyna stanowicie dla niego zagrożenie. Dlatego opracowywał różnego rodzaju rozwiązania, by wszystko wskazywało na was.~ ~To jest dziennik Syriusza.
+
+Przeglądając dziennik, natknęłaś się na wzmiankę o tym, że on i jakiś nekromanta zostali najęci przez elfickich władców Wysp Lendore. Ich misja polegała na szerzeniu chaosu wśród ostatnich osad ludzkich, tak aby władcy łatwo mogli przejąć nad nimi kontrolę. Dłoń Chwały została stworzona, aby pomóc w złodziejstwie. Wygląda na to, że Syriusz odkrył, że nekromanta okrada ich ze skarbów, więc pozbył się go. Następnie przeprowadził się do latarni, aby być bliżej miasta. Pod koniec dziennika czytasz, że ty i twoja drużyna stanowicie dla niego zagrożenie. Dlatego opracowywał różnego rodzaju rozwiązania, by wszystko wskazywało na was.~
+
+@71 = ~Ninja-To +2, +6 przeciwko praworządnym dobrym~
+@72 = ~To złowrogie ostrze zostało stworzone przez Yakuzę tylko w jednym celu: aby eliminować paladynów, porządnych ludzi i innych, którzy ośmielą się wejść im w drogę.
+
+PARAMETRY:
+
+Obrażenia: 1K8 +2
+TraK0: +2, +6 przeciwko praworządnym dobrym
+Typ obrażeń: sieczne
+Specjalne:
+ Przy każdym trafieniu zabija postacie Praworządne dobre (bez rzutu obronnego)
+Waga: 1
+Opóźnienie: 0
+Rodzaj biegłości: sejmitar/wakisashi/ninja-to
+Typ broni: 1-ręczna
+Wymaga siła: 6
+~
+@73 = ~Dziennik Telvara~
+@74 = ~Ten dziennik zawiera masę zapisków Telvara na temat prowadzonych przez niego obserwacji. Jest też trochę informacji dotyczących mikstur, które tworzył. Pod sam koniec dziennika Telvar wspomina współpracę z kimś o tajemniczym imieniu „Upiór”. Nie wspomina nic więcej, poza tym że „Upiór” włada nieumarłymi w twierdzy. Wygląda na to, że on i „Upiór” planowali atak na Bród Resten.~
+@75 = ~Księga Czarów Telvara~
+@76 = ~To jest księga czarów Telvara. Zawarte są w niej wszystkie jego czary.
+
+W tym mocnym pojemniku można umieścić tuziny zwojów, zabezpieczając je w ten sposób przed ogniem, deszczem i piorunami – czyli najczęstszymi zagrożeniami, jakich może spodziewać się czarodziej szukający przygód.~
+@77 = ~Różdżka zadawania poważnych ran~
+@78 = ~Zazwyczaj mogą jej używać tylko kapłani, jednak akurat ta może zostać użyta przez każdego, kto nie chce za blisko podchodzić do swej ofiary.
+
+Pozwala rzucać Zadawanie poważnych ran~
+@79 = ~Księga Czarów X~
+@80 = ~Ta księga czarów zawiera tuziny zwojów, które bardzo trudno jest zdobyć.
+
+W tym mocnym pojemniku można umieścić tuziny zwojów, zabezpieczając je w ten sposób przed ogniem, deszczem i piorunami – czyli najczęstszymi zagrożeniami, jakich może spodziewać się czarodziej szukający przygód.~
+@81 = ~Księga Czarów Zahrdahla~
+@82 = ~To jest księga czarów Zahrdahla. Zawarte są w niej wszystkie jego czary.
+
+W tym mocnym pojemniku można umieścić tuziny zwojów, zabezpieczając je w ten sposób przed ogniem, deszczem i piorunami – czyli najczęstszymi zagrożeniami, jakich może spodziewać się czarodziej szukający przygód.~
+@83 = ~Notatnik Zahrdahla~
+@84 = ~Ten notatnik zawiera informacje Zahrdahla na temat mieszkańców Brodu Resten. Wygląda na to, że są tu zapiski o dosłownie każdym mieszkańcu. Zawiera też listę kilku problemów w mieście związanych z bandytami, gnollami i szczurami. Zahrdahl zaznacza także, że planuje odwiedzić Kościane wzgórze, aby zyskać więcej informacji.
+
+Ale najważniejsza rzecz, jaką wynosisz z tej lektury, to informacje o wysłaniu go tutaj przez Księcia Krotenu. Wygląda na to, że Zahrdahl nie jest wcale zwykłym handlarzem przynętą, ale szpiegiem samego księcia.
+
+Pelltar musi się o tym dowiedzieć.~
+@85 = ~Instalowanie nowych sklepow~
+@86 = ~Druid Almax~
+@87 = ~Zbroja Altona~
+@88 = ~Świątynia Osprem~
+@89 = ~Opactwo Phaulkona~
+@90 = ~Tawerna u Falco~
+@91 = ~Bronie Gilmiego~
+@92 = ~Dom Abrahama~
+@93 = ~Mikstury Hestala~
+@94 = ~Zbrojownia Kraka~
+@95 = ~Ohlatta, jubiler~
+@96 = ~Pelltar~
+@97 = ~Torba na zwoje Pelltara~
+@98 = ~Sklep Perka~
+@99 = ~Sklep Pheldmana~
+@100 = ~Magiczne Różności~
+@101 = ~Sklep Brodu Resten~
+@102 = ~Zwoje X ~
+@103 = ~Tawerna „Pod Zachodnim Wichrem”~
+@104 = ~Instalowanie nowych potworow.~
+@105 = ~Abracus~
+@106 = ~Tak, przyjacielu?~ [GENMG12]
+@107 = ~~ [VILLM05]
+@108 = ~~ [MTOWN06]
+@109 = ~Abraham~
+@110 = ~Almax~
+@111 = ~Almon~
+@112 = ~Witam.~ [GENMG08]
+@113 = ~Coś cię trapi?~ [GENMG11]
+@114 = ~Alton~
+@115 = ~Witam. Twa siła jest imponująca.~ [EPRIM01]
+@116 = ~Litości! Miej litość!~ [EPRIM08]
+@117 = ~Będziesz błagać mnie o śmierć, gdy z tobą skończę!~ [EPRIM05]
+@118 = ~Czego chcesz od wiernych?~ [EPRIM02]
+@119 = ~Pokłoń się przed bogami i błagaj o litość!~ [EPRIM03]
+@120 = ~Bogowie nie przebaczają, głupcze!~ [EPRIM04]
+@121 = ~Amos~
+@122 = ~Andrella~
+@123 = ~Armax~
+@124 = ~Pani Burmistrz Arrness~
+@125 = ~Arthur~
+@126 = ~Ascue~
+@127 = ~Hoo ha ha ha ha ha.~ [OGREM01]
+@128 = ~Umrzesz za to zuchwalstwo...~ [OGREM02]
+@129 = ~Zdychaj, bydlaku!~ [OGREM04]
+@130 = ~~ [OGREM08]
+@131 = ~~ [OGREM09]
+@132 = ~Balmar~
+@133 = ~Balmorrow~
+@134 = ~Ja żem kopał go w ten pusty łeb, że aż zdechł. Har har.~ [BANDT01]
+@135 = ~Eeee, a to było coś, har har.~ [BANDT03]
+@136 = ~Przestań to robić!~ [BANDT04]
+@137 = ~Basil~
+@138 = ~Basmar~
+@139 = ~Sir Billy Bob~
+@140 = ~Deszcz na straszydle, krew na pługu.~
+@141 = ~Beshkar~
+@142 = ~Witaj.~ [GENFG12]
+@143 = ~Twój krzyk jest muzyką dla mych uszu.~ [GENFT07]
+@144 = ~~ [FESTH05]
+@145 = ~~ [FESTH06]
+@146 = ~Bess~
+@147 = ~Bomarc~
+@148 = ~Akolita Bogini Osprem~
+@149 = ~Akolita~
+@150 = ~Akolita Phaulkona~
+@151 = ~Chłopak~
+@152 = ~Mama zabroniła mi rozmawiać z obcymi.~ [MCHIL01]
+@153 = ~~ [MCHIL05]
+@154 = ~~ [MCHIL06]
+@155 = ~Zejdź mi z drogi! Bo na ciebie napluję!~
+@156 = ~~ [AMB_M34B]
+@157 = ~Napotkana osoba~
+@158 = ~Siemanko.~ [GENMG13]
+@159 = ~Zejdź mi z oczu! Nic dla ciebie nie zamierzam robić!~
+@160 = ~~ [DRUNK04]
+@161 = ~~ [DRUNK01]
+@162 = ~Ano ni mom czasu, aby z tobom gadoć.~ [FARME01]
+@163 = ~Zejdź mi z oczu! Nic dla ciebie nie zamierzam robić!~
+@164 = ~~ [FARME05]
+@165 = ~~ [FARME06]
+@166 = ~Pracownik budowy~
+@167 = ~Służąca~
+@168 = ~Eless~
+@169 = ~Fabio~
+@170 = ~Wybacz, ale nie gram na życzenie.~ [FABIO20]
+@171 = ~Wybacz, muszę spadać. Panie mnie wzywają. Bywaj.~ [FABIO11]
+@172 = ~Wiesz co? Masz rację. Może napiszę o tobie pieśń.~ [FABIO15]
+@173 = ~Ta grupa ma jakieś poważne problemy.~ [FABIO12]
+@174 = ~Wiecie, mam kilka lepszych zajęć, niż siedzenie tu z wami.~ [FABIO16]
+@175 = ~To jest to. Skończyłem z tobą. Zapomnij o pieśni.~ [FABIO13]
+@176 = ~Gdybym mógł królem być choć przez jeden dzień.~ [FABIOB]
+@177 = ~Ziew. Panie, trzeba mi drzemki.~ [FABIOC]
+@178 = ~Wiesz, to koliduje z mym uganianiem się za spódnicami.~ [FABIOD]
+@179 = ~Zaśpiewam o twej śmierci!~ [FABIOA]
+@180 = ~Kolejny głupiec gotowy zginąć z mojej ręki.~ [FABIO9]
+@181 = ~Śmierć wam! Hmm, może powinienem to zapisać.~ [FABIO8]
+@182 = ~Twa śmierć niewarta jest nawet jednej zwrotki w piosence.~ [FABIO10]
+@183 = ~Za potrzebujących! Zaraz, zaraz, ja to już gdzieś słyszałem.~ [FABIO19]
+@184 = ~Ał! Psiakrew, to bolało!~ [FABIOL]
+@185 = ~Uch.~ [FABIOM]
+@186 = ~Hej! Potrzebna mikstura, no szybciej!~ [FABIOE]
+@187 = ~Ach, las, a wraz z nim wiele prywatności. Gdybym tylko miał panienkę do towarzystwa...~ [FABION]
+@188 = ~Drogie Panie, proszę, ustawiamy się w kolejce.~ [FABIOO]
+@189 = ~Ach, raczej nie ma sensu przemawiać tu z akcentem...~ [FABIOP]
+@190 = ~Tylko w słońca promieniach można zobaczyć prawdziwe piękno mej twarzy.~ [FABIOQ]
+@191 = ~*nuci sobie*~ [FABIOR]
+@192 = ~Przysięgam, nie wiedziałem, ile miała lat.~ [FABIOG]
+@193 = ~Tyle pięknych kobiet, a tak mało czasu.~ [FABIOF]
+@194 = ~Było sobie raz dziewczę z Nantucket...~ [FABIOH]
+@195 = ~Co się stało, chłopie?~ [FABIOX]
+@196 = ~Wspomniałem może kiedyś o złodziejce z ogonem, którą poznałem? To było coś!~ [FABIO0]
+@197 = ~Tak jest, dowódco!~ [FABIOT]
+@198 = ~Miłostki, dziecinko, miłostki. Taaak!~ [FABIOI]
+@199 = ~Nie nienawidź mnie tylko dlatego, że jestem piękny.~ [FABIOJ]
+@200 = ~Pewnie. Mogę to zrobić.~ [FABIOK]
+@201 = ~Hej! Ja tu pracuję.~ [FABIOY]
+@202 = ~Strasznie dobry, sir.~ [FABIOU]
+@203 = ~Och, jasne, dajcie mi to zrobić. Nie widzę, abyście się do tego rwali.~ [FABIO_]
+@204 = ~Kolejny poległy bohater. Hmm, może powinienem napisać o nim pieśń.~ [FABIOW]
+@205 = ~Wybornie!~ [FABIOV]
+@206 = ~Oooo, taaak!~ [FABIOZ]
+@207 = ~Co?! Ja nigdy nie chybiam.~ [FABIO1]
+@208 = ~Co, u licha? Nie działa.~ [FABIO2]
+@209 = ~Hej, ta paczka jest pełna, koleżko. Znajdź sobie innego muła.~ [FABIO3]
+@210 = ~Ha ha ah!~ [FABIO4]
+@211 = ~Fabio, słynny bard (za jakiego się uważa), wygląda, jakby zwiedził już cały świat. Podróżował przez liczne krainy z różnymi zespołami, ale... Niestety nic z tego, co plecie, nie jest pewne, i mogło się wcale nie zdarzyć. Jedynym pewnikiem jest to, że ma bzika na punkcie kobiet. Nie potrafi prowadzić rozmowy bez rozglądania się za niewiastami w pobliżu. Uważa się za kobieciarza, ale w rzeczywistości potrafi wyprowadzić z równowagi każdą z nich w ciągu kilku sekund. Uwielbia wymawiać słowa z różnymi akcentami, z nadzieją na poderwanie jakiejś przechodzącej dziewoi. Oby jego srebrny ale cięty jeżyk nigdy nie sprowadził na ciebie poważniejszych kłopotów.~
+@212 = ~Fairwind~
+@213 = ~Falco~
+@214 = ~Falpir~
+@215 = ~Felwin~
+@216 = ~Bez wątpienia wolę tereny leśne, ale w tych czasach trzeba się umieć dostosować.~ [FELFF02]
+@217 = ~~ [FELFF05]
+@218 = ~~ [FELFF06]
+@219 = ~Dzień dobry i witaj.~ [FELFF01]
+@220 = ~Ognisty olbrzym~
+@221 = ~Fliban~
+@222 = ~Gap~
+@223 = ~Gellius~
+@224 = ~Gelmark~
+@225 = ~Witam w moich skromnych progach.~ [STORE01]
+@226 = ~~ [STORE05]
+@227 = ~~ [STORE06]
+@228 = ~Klient ma zawsze rację.~ [STORE03]
+@229 = ~Gelpas~
+@230 = ~Gilmi~
+@231 = ~Glami~
+@232 = ~Przykro mi, przyjacielu, ale jesteś umówiony z kimś z dołu.~ [GENMT05]
+@233 = ~Mów, mów!~ [GENMG09]
+@234 = ~Golem~
+@235 = ~Gorharg~
+@236 = ~Grecko~
+@237 = ~Baron Grellus~
+@238 = ~Gristla~
+@239 = ~Szkielet~
+@240 = ~~ [GUARR05]
+@241 = ~~ [GUARR06]
+@242 = ~Witaj.~ [GENMG14]
+@243 = ~Masz tu już wystarczająco złą reputację! Wynoś się!~
+@244 = ~~ [GUARR01]
+@245 = ~Strażnik~
+@246 = ~Zabójca-uczeń~
+@247 = ~Haki~
+@248 = ~Harmin~
+@249 = ~Harper~
+@250 = ~Hestal~
+@251 = ~Ej, przyjacielu! Dobrze spotkać takiego zacnego chłopa jak ty.~ [MANLC01]
+@252 = ~~ [MANLC03]
+@253 = ~~ [MANLC04]
+@254 = ~Hoirag~
+@255 = ~Holga~
+@256 = ~Krak~
+@257 = ~~ [ORCAXE01]
+@258 = ~~ [ORCAXE03]
+@259 = ~~ [ORCAXE04]
+@260 = ~~ [ORCAXE08]
+@261 = ~~ [ORCAXE10]
+@262 = ~~ [ORCAXE02]
+@263 = ~Krellus~
+@264 = ~Jaszczuroczłek~
+@265 = ~Jaszczuroczłek-król~
+@266 = ~Jaszczuroczłek-szaman~
+@267 = ~Locinda~
+@268 = ~Lothar~
+@269 = ~Lydia~
+@270 = ~Martin~
+@271 = ~Nie zadzieraj z naturą, bo się tobą zajmę.~ [DRUID02]
+@272 = ~~ [DRUID05]
+@273 = ~~ [DRUID06]
+@274 = ~Zwracanie uwagi na swe czyny w tej kniei dobrym dla was będzie.~ [DRUID01]
+@275 = ~Cywilizacja jest daleko stąd, mieszczuchu.~ [DRUID03]
+@276 = ~Marvin~
+@277 = ~Ogr~
+@278 = ~Ja zgnieść, zgnieść na miazga!~ [OGREE03]
+@279 = ~Ja zmiażdżyć twoja pysk.~ [OGREE04]
+@280 = ~~ [OGREE08]
+@281 = ~~ [OGREE09]
+@282 = ~Ja zgnieść.~ [OGREE01]
+@283 = ~~ [OGREE02]
+@284 = ~~ [OGREE10]
+@285 = ~Ork-strażnik~
+@286 = ~Ohlatta~
+@287 = ~Ork-porucznik~
+@288 = ~Ork~
+@289 = ~Ork-dowódca~
+@290 = ~Oskar~
+@291 = ~Perk~
+@292 = ~Czego ci trzeba?~ [GENMG10]
+@293 = ~Philmar~
+@294 = ~Phyllis~
+@295 = ~Priska~
+@296 = ~Qualton~
+@297 = ~~ [KELDT03]
+@298 = ~~ [KELDT04]
+@299 = ~Nie dotykaj mnie. Jeszcze się czymś zarażę.~ [KELDT02]
+@300 = ~Quenex~
+@301 = ~Wielki szczur~
+@302 = ~Ravella~
+@303 = ~Po tym, co zrobiliście, nie odezwę się do was ani słowem!~
+@304 = ~~ [FTOWN05]
+@305 = ~~ [FTOWN06]
+@306 = ~~ [GENFG12]
+@307 = ~Relba~
+@308 = ~Rogan~
+@309 = ~Witaj, przyjacielu.~ [GENMG06]
+@310 = ~Sangster~
+@311 = ~Czy możemy ci zabrać chwilkę?~ [MAREK01]
+@312 = ~Moje ostrze nosi twe imię.~ [GENMT03]
+@313 = ~~ [MAREK03]
+@314 = ~~ [MAREK04]
+@315 = ~Głupcy. Nigdy nie dowiedzą się, czym oberwali.~ [MAREK02]
+@316 = ~Selmo~
+@317 = ~Najemnik~
+@318 = ~Shargrailar~
+@319 = ~Drżyj przed mą potęgą!~ [DAVEO06]
+@320 = ~Twoje wysiłki na nic się nie zdadzą!~ [DAVEO05]
+@321 = ~Zdychajcie, bezczelne szczeniaki!~ [DAVEO03]
+@322 = ~Ah ha ha ha ha ha!~ [DAVEO04]
+@323 = ~Syriusz~
+@324 = ~Smyth~
+@325 = ~Kopeć~
+@326 = ~~ [AMB_E44A]
+@327 = ~~ [AMB_E44D]
+@328 = ~Miau~ [AMB_E44A]
+@329 = ~Miau~ [AMB_E44D]
+@330 = ~Pheldman~
+@331 = ~Nieznany Wróg~
+@332 = ~Tellish~
+@333 = ~Telvar~
+@334 = ~Daruj sobie te daremne sztuczki. Są niczym wobec mojej magii!~ [DAVEO07]
+@335 = ~~ [DAVEO08]
+@336 = ~~ [DAVEO09]
+@337 = ~Więc wielcy poszukiwacze przygód znaleźli swoją drogę do mego legowiska.~ [DAVEO01]
+@338 = ~Łotrzyk~
+@339 = ~Tolvar~
+@340 = ~Dziewka z gospody~
+@341 = ~Statua~
+@342 = ~Volcifar~
+@343 = ~Pies strażniczy~
+@344 = ~~ [WADOG03]
+@345 = ~~ [WADOG04]
+@346 = ~~ [WADOG05]
+@347 = ~~ [WADOG06]
+@348 = ~~ [WADOG08]
+@349 = ~~ [WADOG09]
+@350 = ~~ [WADOG01]
+@351 = ~~ [WADOG02]
+@352 = ~Obserwator~
+@353 = ~Welcar~
+@354 = ~Wilbur~
+@355 = ~Wilfong~
+@356 = ~Willis~
+@357 = ~Upiór~
+@358 = ~Yalta~
+@359 = ~Zahrdahl~
+@360 = ~Zelmar~
+@361 = ~Kompilowanie nowych plikow~
+@362 = ~Kompilowanie dialogow~
+@363 = ~Instalowanie nowych lokacji~
+@364 = ~Tutu zainstalowane, instalowanie plikow Tutu ~
+@365 = ~Zamek w Brodzie Resten~
+@366 = ~Koszary~
+@367 = ~Magiczne Różności~
+@368 = ~Zbroje, Bronie, Tarcze~
+@369 = ~Donośne kroki strażników Brodu Resten budzą cię z drzemki.~
+@370 = ~Łyse wzgórze~
+@371 = ~Bród Resten~
+@372 = ~Plebania~
+@373 = ~Na południe do Garrotten~
+@374 = ~Widzisz mały tunel. Był doskonale ukryty i nie wygląda, jakby był używany. Coś blokuję ci drogę do wejścia.~
+@375 = ~Ktoś wykopał tunel pod ogrodzeniem.~
+@376 = ~To musi być drzewo, na którym wieszano ludzi. Z ogromnych gałęzi zwisa kilka starych lin.~
+@377 = ~Trójszczyt~
+@378 = ~Tędy dojdziesz z powrotem do ołtarza. Możesz zakryć schody, aby nikt nie wiedział, że ktoś schodził na dół.~
+@379 = ~W tych koszarach na pewno wybuchł kiedyś pożar. Większość dachu jest doszczętnie spalona.~
+@380 = ~Dom wygląda na opuszczony. Drzwi są zarośnięte pnączami i krzakami.~
+@381 = ~Łóżko, stół i reszta mebli jest zbutwiała i wygląda, jakby miała się zaraz rozlecieć.~
+@382 = ~Zardzewiały sztylet wbity w tarczę do ćwiczeń.~
+@383 = ~Ten tunel jest tak mały, że zmieszczą się tu jedynie szczury. To tędy wydostawały się z jaskiń.~
+@384 = ~Sądząc po szczątkach, mógł to być złodziej. Poza kośćmi, ciemnym ubraniem i złamanym wytrychem nie ma tu nic ciekawego.~
+@385 = ~Baron Brodu Resten~
+@386 = ~Wieża Pelltara~
+@387 = ~Wyjście~
+@388 = ~Tu leży Joe, który zwykł mawiać: „Ten mod mnie wykończy!”~
+@389 = ~Wygląda to na świeży grób.~
+@390 = ~Jest tutaj mały tunel prowadzący w dół.~
+@391 = ~Ten szkielet jest jeszcze świeży. Pozostałości ciemnych szat sugerują, że to zwłoki czarodzieja.~
+@392 = ~Chyba ktoś przebudowywał tę katapultę. Kilka belek zostało wymienionych.~
+@393 = ~Zauważasz, że okolica jest całkowicie pozbawiona roślinności.~
+@394 = ~Wygląda to na mały, niedawno opuszczony fort. Lada moment się zawali.~
+@395 = ~Spokojny las~
+@396 = ~Wyjście z piwnicy~
+@397 = ~Wyjście na powierzchnię~
+@398 = ~Wzgórza głazów~
+@399 = ~Na wschód – Bród Resten~
+@400 = ~Kościane wzgórze~
+@401 = ~Odetchnij na chwilę i oddaj się modlitwie w mej świątyni! Bóstwa mórz na pewno ci to wynagrodzą.~
+@402 = ~Statua Osprem, bogini rybaków i żeglarzy.~
+@403 = ~Naprzód pójdź ku morzu, wejdź na statek, by otrzymać dary. Potwory ich nakarm lub wyrwij je wodzie. To jest skarb mórz!~
+@404 = ~Statua Xerbo, Boga morza~
+@405 = ~Teatr Mistycznych Obchodów ~
+@406 = ~Donośne kroki strażników Brodu Resten budzą cię z drzemki.~
+@407 = ~Do Brodu Resten~
+@408 = ~Do zamku~
+@409 = ~Północna część miasta~
+@410 = ~Południowa część miasta ~
+@411 = ~Te dwie małe dziury w ścianie służyły zapewne jako punkt obserwacyjny dla kogoś ciekawskiego. Bez problemu można oglądać następny pokój.~
+@412 = ~Na ścianie znajdują się przyrządy ogrodnicze i zabrudzone ubrania.~
+@413 = ~Jest to statua bogini Osprem.~
+@414 = ~Na półkach widać książki o tematyce religijnej i teologicznej.~
+@415 = ~W tych beczkach znajdujesz mnóstwo broni i narzędzi. Niestety większość z nich jest zardzewiała i nie nadaje się do użytku.~
+@416 = ~Te grube, puszyste dywany zostały zwinięte dla łatwego przechowywania.~
+@417 = ~Zwisa tu rząd latarni. Sądząc po tonach kurzu, są tu od bardzo dawna.~
+@418 = ~Na tym drewnianym stojaku zawieszono egzotycznie wyglądające ubranie. Wygląda to na strój złożony z jedwabnego kubraka z kwiecistymi ozdobami i pasującego turbanu.~
+@419 = ~Niewątpliwie są to kiepskiej jakości, marnie wykonane skórzane sakwy. Szew jest luźny i chaotyczny i bez wątpienia nie nadają się one do przechowywania więcej niż kilku monet.~
+@420 = ~Na całej długości lady stoi zbiór wyczyszczonych do połysku waz i lamp naftowych.~
+@421 = ~Na tych półkach znajdują się przeróżne przedmioty, poczynając od książek i pergaminów, przez ubrania, po jedzenie i przybory kuchenne. Są one jednak niewiele warte.~
+@422 = ~Nie wkraczaj z mocą broni w drzwi fortecy albo cię unicestwię.~
+@423 = ~To jest statua Korda, Boga wojny.~
+@424 = ~Te schody zawaliły się dawno temu, uniemożliwiając przedostanie się do dalszej części wieży. Ich naprawa nie została jeszcze ukończona.~
+@425 = ~To zardzewiałe ustrojstwo wygląda na działające jeszcze organy.~
+@426 = ~Ta część wieży zapadła się, pozostawiając spory otwór w podłodze.~
+@427 = ~Na tym stole znajduje się mnóstwo narzędzi do otwierania zamków.~
+@428 = ~Na tym stole znajduje się całe mnóstwo narzędzi tortur. Większość wygląda na często używane.~
+@429 = ~Ten korytarz się zawalił.~
+@430 = ~Widzisz wielkie wejście do jaskini, ale nie sposób jest zejść tędy. Może jest inne wejście?~
+@431 = ~Wejście do jaskini~
+@432 = ~Ta droga prowadzi do jeziora.~
+@433 = ~Na północ – Garrotten~
+@434 = ~Jakieś orcze bazgroły sprawiają, że ten znak jest całkowicie nieczytelny.~
+@435 = ~BGT-Weidu zainstalowane, instalowanie plików BGT~
+@436 = ~Aktualizacja plikow gry~
+@437 = ~Zainstalowac nowe lokacje? Trzeba to wreszcie zrobic!~
+
+@501 = ~Ta postać jest aktualnie na poziomie zerowym. Awansuj ją, by wybrać jej początkowe biegłości i umiejętności. (Do tego czasu ilość ich punktów życia, jak i ekwipunek mogą być nieco dziwne; nie przejmuj się tym. Gdy tylko podniesiesz ją na wyższy poziom, będzie mogła zdobyć więcej umiejętności (w zależności od twojego doświadczenia)).~
+
+@750 = ~Doświadczony przywódca zbójców~
+
+@1000 = ~Czy instalator powinien zbiffowac czesc zasobow SoBH?
+[Y] tak, [N] nie~
+@1001 = ~Komponent nie jest kompatybilny z ta wersja gry.~
+
+//BG2 @5689
+@2000 = ~Rozmowa~
+
+//BG2 @71000
+@2001 = ~Księgarz Łazarz~
+//BG2 @10834
+@2002 = ~Widz~
+//BG2 @34932
+@2003 = ~Poszukiwacz przygód~
+//BG2 @2258
+@2004 = ~Kapitan hobgoblinów~
+//BG2 @34784
+@2005 = ~Ork~
+//BG2 @2197
+@2006 = ~Ork łucznik~
+//BG2 @2331
+@2007 = ~Ork kapłan~
+//BG2 @2329
+@2008 = ~Ork mag~
+//BG2 @2327
+@2009 = ~Orog~
+//BG2 @2887
+@2010 = ~Otiag~

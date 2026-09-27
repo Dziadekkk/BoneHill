@@ -1,0 +1,64 @@
+@1 = ~Pozdrawiam ciê. Jestem Sir Billy Bob, awanturnik, ¿o³nierz oraz obroñca œwiatów. Tyœ zapewne jest <CHARNAME>.~
+@2 = ~Zgadza siê... Sk¹d znasz moje imiê?~
+@3 = ~Có¿, poza faktem, ¿e jesteœcie now¹ grup¹ w mieœcie i wszyscy o tobie mówi¹, by³em z Pelltarem, kiedy zaproponowa³ wynajêcie twej osoby.~
+@4 = ~Gdy spotka³em go w œwi¹tyni, odnios³em wra¿enie, ¿e poszukiwa³ jakichkolwiek awanturników do pomocy. Od pocz¹tku chodzi³o mu o mnie?~ ~Gdy spotka³am go w œwi¹tyni, odnios³am wra¿enie, ¿e poszukiwa³ jakichkolwiek awanturników do pomocy. Od pocz¹tku chodzi³o mu o mnie?~
+@5 = ~Prawdê powiedziawszy Pelltar rzeczywiœcie chcia³ wynaj¹æ inn¹ grupê – Kafarów, jeœli mnie pamiêæ nie myli. W ka¿dym razie zaproponowa³em ciebie, kiedy to Elminster stwierdzi³, ¿e podo³asz temu zadaniu.~
+@6 = ~Elminster tak powiedzia³?~
+@7 = ~Tak, wydaje siê byæ wielce zainteresowany twoj¹ osob¹. I mo¿esz mi wierzyæ, ¿e nie on jeden. Ale to ju¿ inna kwestia, na któr¹ przyjdzie czas póŸniej.~
+@8 = ~W czym mogê ci pomóc?~
+@9 = ~Na pocz¹tek móg³byœ wyjaœniæ walaj¹ce siê cia³a orków na twojej farmie.~
+@10 = ~Ach, oczywiœcie, kolejny dzieñ, kolejna grupa orczych bandytów nêkaj¹cych moj¹ farmê. Nawet wilki siê tu nie zapuszczaj¹, czemu wiêc orki nie potrafi¹ zrozumieæ, jak¿e bezcelowe s¹ te napaœci?~
+@11 = ~Skoro ju¿ o tym mowa, byæ mo¿e s³ysza³eœ ju¿ o bandytach krêc¹cych siê w okolicy?~ ~Skoro ju¿ o tym mowa, byæ mo¿e s³ysza³aœ ju¿ o bandytach krêc¹cych siê w okolicy?~
+@12 = ~Tak, wspomniano mi o tym w mieœcie.~
+@13 = ~Nie, pierwsze s³yszê o bandytach.~
+@14 = ~Có¿, nic takiego nie s³ysza³em. Ale w trakcie zwiadu zosta³em zaatakowany przez grupkê orków na £ysym Wzgórzu. Zabi³em ich przywódcê. By³ kap³anem i wygl¹da³ jak pó³ork.~ ~Có¿, nic takiego nie s³ysza³am. Ale w trakcie zwiadu zosta³am zaatakowana przez grupkê orków na £ysym Wzgórzu. Zabi³am ich przywódcê. By³ kap³anem i wygl¹da³ jak pó³ork.~
+@15 = ~Dobrze, cieszy mnie wiadomoœæ, ¿e zajmujesz siê t¹ spraw¹.~
+@16 = ~Jest kilka dróg wyjœciowych po tej stronie miasta. Ta, któr¹ widzisz zaraz na po³udnie od nas, na pó³noc od mojej farmy oraz przy jab³kowym sadzie. Pó³nocna droga biegnie pomiêdzy wschodni¹ Restin a £ysym Wzgórzem. Dla bandytów to doskona³e miejsce na zasadzki.~
+@17 = ~Zazwyczaj patrolujemy tamte drogi wraz ze stra¿¹ miejsk¹, zamiataj¹c brudy i zapewniaj¹c bezpieczne przejœcie dla kupców. Niestety wraz ze zbli¿aj¹cymi siê ¿niwami wielu ludzi jest teraz potrzebnych na polach. Jak widzisz, moje ¿niwa jeszcze siê nie zaczê³y, ale jestem poch³oniêty dogl¹daniem roœlin i zwyczajnie nie mam czasu, aby oczyœciæ £yse wzgórze.~
+@18 = ~Tu jest zadanie dla ciebie. Chcê, abyœ uda³ siê na pó³noc st¹d i wytropi³ ka¿dego orka, bandytê lub cokolwiek innego, co mog³oby atakowaæ kupców. Coœ z pewnoœci¹ tam jest. Straciliœmy trochê wozów i ju¿ od d³u¿szego czasu nie widzia³em ¿adnego kupca, który zawin¹³by w te strony o tej porze roku.~ ~Tu jest zadanie dla ciebie. Chcê, abyœ uda³a siê na pó³noc st¹d i wytropi³a ka¿dego orka, bandytê lub cokolwiek innego, co mog³oby atakowaæ kupców. Coœ z pewnoœci¹ tam jest. Straciliœmy trochê wozów i ju¿ od d³u¿szego czasu nie widzia³em ¿adnego kupca, który zawin¹³by w te strony o tej porze roku.~
+@19 = ~Bandyci na £ysym wzgórzu
+
+Sir Billy Bob poprosi³ mnie o powstrzymanie bandytów, którzy ukrywaj¹ siê gdzieœ w pobli¿u £ysego Wzgórza. Zatrzymuj¹ karawany przyje¿d¿aj¹ce od pó³nocnej oraz wschodniej strony miasta.~
+@20 = ~Pewnie, mo¿emy to zrobiæ.~
+@21 = ~Nie, musimy siê wpierw zaj¹æ zadaniem od Pelltara.~
+@22 = ~W takim razie zaczekam do czasu, kiedy bêdziesz w stanie zaj¹æ siê innymi naszymi problemami. Proszê, zwróæ siê do mnie, kiedy ju¿ rozwi¹¿esz problem Pelltara.~
+@23 = ~Wschodnia Restin sp³ywa w dó³ w okolicach Gór Xerbal oraz blisko £ysego wzgórza, gdzie ³¹czy siê z zachodni¹ Restin, zanim dotrze do morza w Brodzie Resten.~
+@24 = ~<CHARNAME>, dobrze ciê znowu widzieæ. W czym mogê ci pomóc?~
+@25 = ~OdnaleŸliœmy zaginione wozy.~
+@26 = ~Poszliœmy w kierunku £ysego wzgórza, a tam zostaliœmy zaatakowani przez orków. Zapewnili nam dobra walkê, ale wydaje mi siê, ¿e pozbyliœmy siê ich wszystkich. Za³atwiliœmy równie¿ ich przywódcê.~
+@27 = ~Nie znaleŸliœmy nikogo ani nie widzieliœmy niczego podejrzanego w pobli¿u £ysego wzgórza.~
+@28 = ~ZnaleŸliœmy zaginione wozy i stoczyliœmy walkê z bandytami. Wydajê mi siê, ¿e dopadliœmy wszystkich.~
+@29 = ~Jeszcze nie wyruszyliœmy do £ysego wzgórza.~
+@30 = ~W niczym. Ruszamy dalej.~
+@31 = ~Co mo¿esz powiedzieæ mi o œmierci barona?~
+@32 = ~Móg³byœ powtórzyæ, czym mieliœmy siê zaj¹æ?~ ~Mog³abyœ powtórzyæ, czym mieliœmy siê zaj¹æ?~
+@33 = ~Mogê ciê o coœ zapytaæ?~
+@34 = ~Doskona³a robota.~
+@35 = ~Bandyci na £ysym wzgórzu
+
+Powiadomi³em Sir Billego Boba o moim odkryciu na £ysym wzgórzu. Uzna³ chyba, ¿e problem miasta z bandytami zosta³ rozwi¹zany. Mam tak¹ nadziejê.~ ~Bandyci na £ysym wzgórzu
+
+Powiadomi³am Sir Billego Boba o moim odkryciu na £ysym wzgórzu. Uzna³ chyba, ¿e problem miasta z bandytami zosta³ rozwi¹zany. Mam tak¹ nadziejê.~
+@36 = ~Mam do ciebie kilka pytañ.~
+@37 = ~Dziêkujê.~
+@38 = ~Naprawdê? To doœæ dziwne. Có¿, byæ mo¿e ukryli siê przed tob¹. To bez znaczenia, jeœli zosta³y jakieœ orki, dobiorê siê do nich póŸniej.~
+@39 = ~Có¿ wiêc, nie krêpuj siê, pytaj.~
+@40 = ~Ile tak naprawdê masz lat? W mieœcie wszyscy wydaj¹ siê myœleæ, ¿e jesteœ sêdziwy, jednak bêd¹c pó³elfem, mniemam, ¿e jesteœ starszy, ni¿ na to wygl¹dasz.~
+@41 = ~Dlaczego nie jesteœ przywódc¹ Brodu Resten?~
+@42 = ~*œmiech* Nie jestem tak stary jak Elminster, ale ¿yjê ju¿ od jakiegoœ czasu. D³u¿ej ni¿ wiêkszoœæ elfów czystej krwi mog³oby pragn¹æ. Nie jestem Wybrañcem ¿adnego z bóstw, jednak obra³em sobie za cel pomoc w przekazywaniu i sprawowaniu w³adzy w ró¿nych miejscach. Przy okazji, kto teraz sprawuje rz¹dy w Candlekeep? Nie by³em tam od wielu lat.~
+@43 = ~Tethtoril.~
+@44 = ~Co takiego?! Hmm, chyba przypominam sobie ch³opca stajennego o tym imieniu. Zaznaczam, ¿e minê³o sporo czasu, od kiedy by³em tam po raz ostatni. W ka¿dym razie muszê wróciæ do moich plonów. ¯yczê ci szczêœcia, <CHARNAME>.~
+@45 = ~Jestem przekonany, ¿e by³o ich wiêcej. Jak mniemam, nie odnalaz³eœ zaginionej karawany? To teraz prawdopodobnie nie ma znaczenia. Podejrzewam, ¿e znalaz³eœ winowajcê.~ ~Jestem przekonany, ¿e by³o ich wiêcej. Jak mniemam, nie odnalaz³aœ zaginionej karawany? To teraz prawdopodobnie nie ma znaczenia. Podejrzewam, ¿e znalaz³aœ winowajcê.~
+@46 = ~Nie wydaje mi siê, ¿eby sprawiali ludziom problemy.~
+@47 = ~Tym razem wizyta towarzyska? Có¿, sprawdŸ, proszê, £yse wzgórze, kiedy bêdziesz mia³ czas.~ ~Tym razem wizyta towarzyska? Có¿, sprawdŸ, proszê, £yse wzgórze, kiedy bêdziesz mia³a czas.~
+@48 = ~Ach, to z pewnoœci¹ Krellus. Od pewnego czasu jest cierniem w mym boku. Doskona³a robota, m³ody <LADYLORD>. Jeœli bêdziesz mia³ okazjê, sprawdzaj, proszê, tamte okolice, mo¿e jeszcze jakieœ orki tam s¹. Ponadto interesuje mnie, co sta³o siê z zaginion¹ karawan¹. Podejrzewam, i¿ Krellus ma coœ z tym wspólnego.~ ~Ach, to z pewnoœci¹ Krellus. Od pewnego czasu jest cierniem w mym boku. Doskona³a robota, m³oda <LADYLORD>. Jeœli bêdziesz mia³a okazjê, sprawdzaj, proszê, tamte okolice, mo¿e jeszcze jakieœ orki tam s¹. Ponadto interesuje mnie, co sta³o siê z zaginion¹ karawan¹. Podejrzewam, i¿ Krellus ma coœ z tym wspólnego.~
+@49 = ~Prawdopodobnie nic wiêcej poza tym, co Pelltar ju¿ ci powiedzia³. Tamta osoba musia³a pozostawiæ po sobie jakiœ œlad.~
+@50 = ~Albo ca³a trójka jest niewinna, a zabójcy pod³o¿yli dowody wskazuj¹ce na nich. Sugerujê, abyœ uda³ siê do ka¿dego z nich i dowiedzia³ siê, co sta³o siê z rzeczami znalezionymi na miejscu przestêpstwa. Ka¿da rzecz ma swoj¹ genezê. Byæ mo¿e któraœ zaprowadzi ciê do prawdziwego zabójcy.~ ~Albo ca³a trójka jest niewinna, a zabójcy pod³o¿yli dowody wskazuj¹ce na nich. Sugerujê, abyœ uda³a siê do ka¿dego z nich i dowiedzia³a siê, co sta³o siê z rzeczami znalezionymi na miejscu przestêpstwa. Ka¿da rzecz ma swoj¹ genezê. Byæ mo¿e któraœ zaprowadzi ciê do prawdziwego zabójcy.~
+@51 = ~Mogê ci równie¿ powiedzieæ, aczkolwiek nie jestem kap³anem, ¿e coœ dziwnego spowodowa³o, i¿ Qualton nie by³ w stanie wskrzesiæ barona. OdpowiedŸ z pewnoœci¹ spoczywa w Garrotten.~
+@52 = ~Wiêc wszystkie drogi prowadza do Garroten?~
+@53 = ~Dok³adnie. Tak poza tym, poza granicami miasta mieœci siê stary zamek, który by³ w moim w³adaniu. Sprzeda³em go wiele lat temu poszukiwaczowi przygód, który zmar³ wkrótce po jego nabyciu. Wydaje siê, i¿ jego stary wróg w koñcu siê do niego dobra³. Lata zamieni³y zamek w ruinê. W ka¿dym razie domyœlam siê, ¿e aktualny w³adca jest w trakcie odrestaurowywania go. Jestem pewny, ¿e budowa zak³óca spoczynek umar³ym, którzy mogli siê tam wprowadziæ przez te wszystkie lata.~
+@54 = ~Dlaczego wiêc mi to mówisz?~
+@55 = ~Poniewa¿ podejrzewam, ¿e jej stra¿nicy bêd¹ skrajnie ostro¿ni. Mog¹ zaatakowaæ kogokolwiek lub cokolwiek dziwnego. Po prostu b¹dŸ ostro¿ny w okolicach zamku.~ ~Poniewa¿ podejrzewam, ¿e jej stra¿nicy bêd¹ skrajnie ostro¿ni. Mog¹ zaatakowaæ kogokolwiek lub cokolwiek dziwnego. Po prostu b¹dŸ ostro¿na w okolicach zamku.~
+@56 = ~W porz¹dku, dziêkujê za ostrze¿enie.~
+@57 = ~Super, wspania³a wymówka, by zaszlachtowaæ jej stra¿, dziêki.~
+@58 = ~Dlaczego mia³bym tego chcieæ? Czasami dzier¿ysz wiêcej w³adzy, stoj¹c obok tronu, ni¿ zasiadaj¹c na nim. Ale nawet tamte dni siê dla mnie skoñczy³y. Udzielam rad baronowi tylko wtedy, kiedy mnie o nie poprosi. Jestem szczêœliwszy tutaj, na mojej farmie, ni¿ by³bym, tkwi¹c na jego dworku.~

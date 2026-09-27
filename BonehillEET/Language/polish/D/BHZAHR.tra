@@ -1,0 +1,65 @@
+@1 = ~Nie wygl¹dasz na kogoœ, kto planuje wêdkowanie.~
+@2 = ~Nie, nie planujê tego. Kim jesteœ?~
+@3 = ~Mam na imiê Zahrdahl. Musicie byæ t¹ grup¹ poszukiwaczy przygód, któr¹ naj¹³ Pelltar.~
+@4 = ~Owszem, to my. Mam na imiê <GABBER>. Eee, w³aœciwie sk¹d o nas wiesz?~
+@5 = ~Tak. Jesteœmy tu od niedawna. Sk¹d o nas wiesz?~
+@6 = ~Eee, no, tego, wiecie, plotki i takie tam... W czym mogê pomóc?~
+@7 = ~Chodz¹ s³uchy, ¿e masz wiele wspólnego ze szczurami w tej okolicy.~
+@8 = ~Co mo¿esz mi powiedzieæ o szczurach wokó³ domu?~
+@9 = ~Nie wiñ mnie! Te cholerne gryzonie z¿eraj¹ mi ca³¹ przynêtê. Chcê siê ich pozbyæ.~
+@10 = ~Wiêc mo¿e tu posprz¹tasz!~
+@11 = ~U¿yj pu³apek.~
+@12 = ~S³uchaj, handlujê przynêt¹: robaki, kawa³ki martwych zwierz¹t i tym podobne rzeczy. Nie handlujê jakimiœ szk³ami czy ceramik¹. Szczury nadchodz¹ w nocy od po³udnia.~
+@13 = ~Zastawi³em pu³apki. Nawet u¿ywam tych z³apanych jako przynêty. Widzia³em takie du¿e okazy, za którymi pod¹¿aj¹ inne.~
+@14 = ~Jeœli nie masz nic do roboty, zejdŸ na dó³ do starych koszarów i zobacz, sk¹d one wychodz¹.~
+@15 = ~Stare koszary? Gdzie to jest?~
+@16 = ~Pójdziesz t¹ drog¹ na po³udnie. Na koñcu zobaczysz opuszczone koszary spalone przed wieloma laty. Na dole nie powinno byæ niczego, wiêc nie wiem, sk¹d te szczury wychodz¹.~
+// Shall remain identical to @862 in baf.tra, otherwise there will be a journal issue
+@17 = ~Oczyœciæ opuszczon¹ stra¿nicê
+
+Zahrdahl, miejscowy handlarz wêdkarskimi przynêtami, poprosi³ nas o wybicie kilku szczurów. Wygl¹da na to, ¿e maj¹ gniazdo w opuszczonej stra¿nicy na po³udnie od jego domu.~
+@18 = ~W porz¹dku, zbadamy tê sprawê.~
+@19 = ~Zajmiemy siê tym za odpowiedni¹ cenê.~
+@20 = ~Hmm, wydajê mi siê, ¿e ju¿ tam by³em. Mo¿e powinienem by³ pomówiæ z tob¹ przed wejœciem do stra¿nicy.~ ~Hmm, wydajê mi siê, ¿e ju¿ tam by³am. Mo¿e powinnam by³a pomówiæ z tob¹ przed wejœciem do stra¿nicy.~
+@21 = ~W porz¹dku, zbadamy to.~
+@22 = ~Cenê!? Co powiesz na garœæ robaków?! Pozb¹dŸ siê tych przeklêtych szczurów!~
+@23 = ~Co chcecie?~
+@24 = ~Zabiliœmy ka¿dego szczura, który stan¹³ na naszej drodze.~
+@25 = ~S³ysza³eœ mo¿e o jakichœ innych problemach w okolicy?~
+@26 = ~Jeszcze nie wybiliœmy szczurów.~
+@27 = ~W tej chwili nic.~
+@28 = ~Zapyta³eœ nas o plotki.~
+@29 = ~Obawiam siê, ¿e mamy DU¯Y problem, Zahrdahl!~
+@30 = ~Wreszcie ktoœ zrobi tutaj coœ po¿ytecznego.~
+// Shall remain identical to @863 in baf.tra, otherwise there will be a journal issue
+@31 = ~Oczyœciæ opuszczon¹ stra¿nicê
+
+Powiedzia³em Zahrdahlowi, ¿e szczury nie powinny ju¿ go niepokoiæ. Oczywiœcie z t¹ ca³¹ przynêt¹ w jego domu gryzonie niebawem znów siê pojawi¹.~ ~Oczyœciæ opuszczon¹ stra¿nicê
+
+Powiedzia³am Zahrdahlowi, ¿e szczury nie powinny ju¿ go niepokoiæ. Oczywiœcie, z t¹ ca³¹ przynêt¹ w jego domu gryzonie niebawem znów siê pojawi¹.~
+@32 = ~Zahrdahl bardzo interesuje siê nasz¹ spraw¹. Nawet za bardzo. Ciekawe dlaczego.~
+@33 = ~K³opoty? Oprócz szczurów nie mamy k³opotów.~
+@34 = ~Nic kompletnie? Pelltar wydawa³ siê s¹dziæ, ¿e Resten ma mnóstwo k³opotów.~
+@35 = ~A co z gnollami, które bez przerwy atakuj¹?~
+@36 = ~A co z bandytami napadaj¹cymi na podró¿nych?~
+@37 = ~Po prostu chcemy byæ pewni…~
+@38 = ~Po prostu chcemy byæ pewni...~
+@39 = ~Proszê, daj mi znaæ, gdy tylko dowiesz siê czegoœ nowego. By³aby to, ee, dobra plotka, a nie zawsze mogê dokulaæ siê do Tawerny Falco, zw³aszcza gdy boli mnie noga.~
+@40 = ~Dobra, damy ci znaæ.~
+@41 = ~W ¿yciu o tym nie s³ysza³em. Gnolle nie atakuj¹ kutrów rybackich, wiêc czemu mia³bym o tym s³yszeæ. Wiêc o co chodzi?~
+@42 = ~Sam nie wiem. Mo¿e to nic. Musimy dowiedzieæ siê czegoœ wiêcej.~ ~Sama nie wiem. Mo¿e to nic. Musimy dowiedzieæ siê czegoœ wiêcej.~
+@43 = ~Wygl¹da na to, ¿e banda gnolli chce przedrzeæ siê do miasta, atakuj¹c podró¿nych i zachodnie mury.~
+@44 = ~Serio? A stra¿nicy nie mogli ich powstrzymaæ i ciê najêli? Ciekawe... Niez³a, eee, plota, wiesz.~
+@45 = ~Bandyci? Tu? Przypominam sobie kilku dziwaków przyby³ych w zesz³ym tygodniu, którzy wspominali coœ na ten temat.~
+@46 = ~Orki napadaj¹ na kupców podró¿uj¹cych poza miastem po jego wschodniej stronie.~
+@47 = ~Wiêc po co mnie niepokoisz? Dopadnij je!~
+@48 = ~O tak? Wiêc co tam masz?~
+@49 = ~W trakcie wybijania szczurów natknêliœmy siê na sieæ jaskiñ pod koszarami. Wygl¹da, jakby by³y u¿ywane przez z³odzieja... Wydajê nam siê, ¿e znaleŸliœmy jego cia³o na dole. Razem z nim masê pu³apek, sztylety oraz jego meble.~
+@50 = ~Szukaj¹c gnolli, dowiedzieliœmy siê, ¿e by³y pod kontrol¹ ogra maga. To wyjaœnia, dlaczego tak sprawnie przeprowadzali swoje ataki.~
+@51 = ~Gdy dotarliœmy na Koœciane wzgórze, spotkaliœmy czarodzieja przewodz¹cego grupie hobgoblinów. Po³¹czy³ swoje si³y z upiorem i planowali wspólnymi si³ami przypuœciæ atak na Bród Resten.~
+@52 = ~Szukaj¹c bandytów, natknêliœmy siê na grupê orków na £ysym wzgórzu. W swojej grocie chowali ³up zrabowany karawanom kupieckim.~
+@53 = ~To by by³o na tyle.~
+@54 = ~ZnaleŸliœmy dziennik zawieraj¹cy informacje na temat Brodu Resten. Zawiera³ dok³adny opis wszystkich naszych dzia³añ w tym mieœcie. Dziennik nale¿y do szpiega na us³ugach Ksiêcia Krotenu.~
+@55 = ~O, ch³opie. To niez³a rzecz. Dziêki.~
+@56 = ~Domyœlam siê, ¿e spodoba ci siê ta wiadomoœæ. Powrócê, gdy zdobêdê wiêcej plotek.~
+@57 = ~Niech ciê! Nie weŸmiesz mnie ¿ywcem.~

@@ -1,0 +1,658 @@
+@0 = ~Secret of Bone Hill~
+@1 = ~Kopiowanie plikow graficznych~
+@2 = ~Kopiowanie plikow muzycznych~
+@3 = ~Instalowanie nowych przedmiotow~
+@4 = ~Wyrzutnia glazow jest juz zainstalowana~
+@5 = ~Wyrzutnia glazow nie zostala zainstalowana~
+@6 = ~G³az~
+@7 = ~Jest to ten rodzaj kamienia, którym w nieszczêœników ciskaj¹ olbrzymy. Zadaje wielkie obra¿enia oraz wywo³uje u ofiary stan nieprzytomnoœci. Postaæ o sile olbrzyma równie¿ potrafi korzystaæ z tego g³azu...
+
+Zasiêg: 24 metry
+Obra¿enia: 3K6
+Specjalne:
+ Ofiara musi wykonaæ rzut obronny przeciwko zioniêciom z modyfikatorem -4, w przeciwnym razie zostanie pozbawiona przytomnoœci na 1 rundê i og³uszona na nastêpn¹
+Wymagana si³a: 19~
+@8 = ~Amulet ognistych kul~
+@9 = ~Amulety ognistych kul to amulety z ma³¹ kulk¹, która po wyrzuceniu zmienia siê w p³on¹cy pocisk rozpryskuj¹cy siê p³omienistym, ostrym ogniem w postaci kuli o promieniu do 9 metrów, dok³adnie tak jak zaklêcie ognistej kuli. Ognista Kula zadaje 6k6 obra¿eñ, ale wszystkie wyrzucone 1-ki licz¹ siê jako 2-ki. Ofiara mo¿e wykonaæ rzut obronny przeciwko ró¿d¿kom, aby otrzymaæ tylko po³owê obra¿eñ. Gdy wszystkie ³adunki zostan¹ zu¿yte, amulet ulega zniszczeniu.
+
+PARAMETRY:
+
+Specjalne: 
+ Wyrzuca Ognist¹ kulê
+Obra¿enia: 6k6 (po³owa po rzucie przeciwko ró¿d¿kom)
+Zasiêg: 30 metrów
+Odszar dzia³ania: 9 metrów
+~
+@10 = ~Pierœcieñ barda~
+@11 = ~Mimo i¿ niewiele wiadomo o historii tego pierœcienia, niektórzy wierz¹, ¿e powsta³ oko³o 200 lat temu.
+
+Pierœcieñ posiada pojedynczy, lekko ¿arz¹cy siê kamieñ. Mimo ¿e pierœcieñ jest zimny w dotyku, ten ch³ód jest bardzo przyjemny.
+
+PARAMETRY:
+
+Specjalne:
+ Pozwala zapamiêtaæ 1 dodatkowy czar 1 poziomu
+ Pozwala zapamiêtaæ 1 dodatkowy czar 2 poziomu
+ Pozwala zapamiêtaæ 1 dodatkowy czar 3 poziomu
+Waga: 0
+~
+@12 = ~Róg~
+@13 = ~Br¹zowy róg Valhalli~
+@14 = ~To jest ma³y róg. Tego typu rogi wykonane z koœci b¹dŸ metalu, mog¹ wydawaæ wszelkiego rodzaju dŸwiêki.~
+@15 = ~Br¹zowy róg Valhalli
+
+Na dworach Valhalli spoczywaj¹ najdzielniejsi wojownicy. Ich oddanie idei wojny zosta³o nagrodzone honorowymi miejscami w Valhalli. Jako czêœæ s³u¿by wojownicy musz¹ zaoferowaæ swoje us³ugi ka¿demu, kto zadmie w róg. Róg ten przywo³a 4 do 7 poziomowego barbarzyñcê, który bêdzie walczy³ po stronie posiadacza rogu przez jedn¹ minutê. Róg mo¿e byæ u¿ywany raz na dzieñ.
+
+Ten osobliwy róg jest powyginany i pozakrzywiany wskutek nieodpowiedniego b¹dŸ czêstego u¿ywania.~
+@16 = ~Czarna per³a~
+@17 = ~To jest brakuj¹ca per³a, o której kradzie¿ oskar¿y³ ciê Gelpas. Powinna zostaæ zwrócona Welcarowi, stra¿nikowi znajduj¹cemu siê przy magazynach.~
+@18 = ~Kij~
+@19 = ~Kostur Niebieskiego Smoka~
+@20 = ~Jest to najprostsza i najmniej efektywna z broni drzewcowych. Kostur mo¿e mieæ d³ugoœæ od 1,8 do grubo ponad 2 metrów. Wykonuje siê go z dêbowego drewna i czêsto obija metalem na obu koñcach. Do w³adania nim trzeba u¿ywaæ obu r¹k.
+
+PARAMETRY:
+
+Obra¿enia: 1k6
+Rodzaj obra¿eñ: obuchowe
+Waga: 4
+OpóŸnienie : 4
+Rodzaj bieg³oœci: kij
+Typ broni: 2-rêczna
+Wymagana si³a: 5~
+@21 = ~Ta d³uga czarnodêbowa laska posiada na koñcu ogromny, niebieski kryszta³ w kszta³cie g³owy niebieskiego smoka, który emanuje elektrycznoœci¹. Tego typu laski s¹ robione dla cz³onków Kultu smoka. Tylko jeŸdŸcy smoków s¹ upowa¿nieni do w³adania nimi. Dlatego kult mo¿e byæ nieco zainteresowany twoim posiadaniem tej laski.
+
+Smocze laski posiadaj¹ specjalne w³aœciwoœci podobne do mocy smoków lub drakoliszy, z którymi by³ zwi¹zany jeŸdziec.
+
+PARAMETRY:
+
+Obra¿enia: 1K6 + 3
+TraK0: +3
+Specjalne:
+ Zapewnia 50% ochronny przed elektrycznoœci¹
+ W przypadku trafienia istnieje 50% szans na zadania dodatkowych 1k8 obra¿eñ od elektrycznoœci
+ Dwa razy dziennie pozwala rzucaæ B³yskawicê zadaj¹c¹ 6k6 obra¿eñ (po³owê po rzucie obronnym przeciwko ró¿d¿kom)
+ Raz dziennie pozwala rzucaæ Wy³adowanie ³añcuchowe
+Typ obra¿eñ: obuchowe
+Waga: 7
+OpóŸnienie: 2
+Rodzaj bieg³oœci: kij
+Typ broni: 2-rêczna
+Wymaga si³a: 5
+~
+@22 = ~P³aszcz zabójcy~
+@23 = ~Zdolnoœci nadane temu potê¿nemu, magicznemu p³aszczowi potwierdzaj¹ przekonanie, ¿e obrona mo¿e przybieraæ ró¿ne formy – zarówno mo¿liwoœæ ukrycia siê, jak i pomoc w skutecznym ataku z zaskoczenia.
+
+PARAMETRY:
+
+Specjalne:
+ +2 do Klasy Pancerza
+ +2 do rzutów obronnych
+ Raz dziennie pozwala rzuciæ Ulepszone przyœpieszenie ruchów
+ Trzy razy dziennie pozwala rzucaæ Ulepszon¹ niewidzialnoœæ
+Waga: 3~
+@24 = ~Maczuga~
+@25 = ~Maczuga +2, Pomocnik zabójcy~
+@26 = ~Maczuga +2, Pomocnik zabójcy
+Nale¿a³a niegdyœ do Tellisha, z³ego z³odzieja/kap³ana, przywódcy jednej z najpotê¿niejszych gildii dzisiejszych czasów. Posiada mo¿liwoœæ obezw³adnienia ka¿dego cz³owieka, krasnoluda, gnoma i nizio³ka poprzez gwa³towne uœpienie. Jedynie elfy s¹ odporne na jej dzia³anie. Wykonywana specjalnie dla zabójców broñ ta zapewnia o 50% wiêksz¹ szansê zadania ciosu w plecy. Mimo i¿ technicznie jest morgenszternem, nadaje siê do u¿ytku przez z³odziei jak ka¿da inna maczuga.
+
+PARAMETRY:
+
+Obra¿enia: 2K4 +2
+TraK0: +2
+Rodzaj obra¿eñ: obuchowe
+Specjalne:
+ Ka¿dy trafiony cz³owiek lub pó³cz³owiek, wyj¹wszy pó³elfa, musi wykonaæ rzut obronny przeciwko truciŸnie albo zaœnie na 3 rundy
+ +50% do umiejêtnoœci zadawania ciosu w plecy
+Waga: 4
+OpóŸnienie: 3
+Rodzaj bieg³oœci: maczuga
+Typ broni: 1-rêczna
+Wymagana si³a: 5
+~
+@27 = ~Lutnia~
+@28 = ~Lutnia Fabia~
+@29 = ~Muzyczna lutnia.~
+@30 = ~Fabio twierdzi, ¿e ta s³ynna lutnia u¿ywana by³a przez Pellona Kaya, który podczas licznych podró¿y po œwiecie modyfikowa³ jej specjalne zdolnoœci.
+
+Sk¹d Fabio posiada tê lutniê, pozostaje tajemnic¹, poniewa¿ on sam niechêtnie wypowiada siê na ten temat.
+
+Specjalne:
+ Raz dziennie pozwala rzuciæ Okropne zauroczenie
+ Trzy razy dziennie pozwala bardowi rzuciæ Zamêt na wszystkie istoty w zasiêgu (rzut obronny przeciwko czarom, aby unikn¹æ efektu). Pieœñ ta nie dzia³a na barda ani na jego towarzyszy
+~
+@31 = ~D³ugi miecz~
+@32 = ~P³omienny miecz +2~
+@33 = ~Do tej kategorii zaliczaj¹ siê obusieczne miecze, miecze wojenne i wojskowe. Bardzo czêsto miecze d³ugie s¹ jednosieczne. Nie ma jednego standardu tej broni; sposób wykonania i d³ugoœæ zale¿y od kultury, a nawet miejsca na terytorium jednego kraju, w którym wykuto ostrze. Ich najczêstsz¹ wspóln¹ cech¹ jest d³ugoœæ, wahaj¹ca siê od 90 do 110 cm. Wiêkszoœæ mieczy d³ugich jest obusiecznych i ma zaostrzony koniec. Mimo ostrego koñca miecze te s³u¿¹ do zadawania ran siecznych, a nie k³utych.
+
+PARAMETRY:
+
+Obra¿enia: 1K8
+Rodzaj obra¿eñ: sieczne
+Waga: 4
+OpóŸnienie: 5
+Rodzaj bieg³oœci: d³ugi miecz
+Typ broni: 1-rêczna
+Wymaga si³a: 6
+~
+@34 = ~Ostrze to pali siê magicznym p³omieniem. Za ka¿dym razem, gdy dochodzi do trafienia, wypuszczona zostaje ognista smuga. Na rêkojeœci zosta³ wyryty napis „Meta Infernum”, chocia¿ sprawia wra¿enie nieco wyblak³ego i mog³o go pierwotnie nie byæ na mieczu.
+
+Wydaje siê, ¿e zosta³ w nim uwiêziony ¿ywio³ak ognia lub podobna istota. Jego z³a natura mo¿e z ³atwoœci¹ zaw³adn¹æ s³ab¹ osobowoœci¹. Jednak¿e uwiêziony stwór wydaje siê œci¹gaæ ogieñ blisko ostrza, co mo¿e zapewniæ ochronê posiadaczowi.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +2, +3 od ognia
+TraK0: +2
+Typ obra¿eñ: sieczne
+Specjalne:
+ +50% do odpornoœci na ogieñ
+Waga: 4
+OpóŸnienie: 5
+Rodzaj bieg³oœci: d³ugi miecz
+Typ broni: 1-rêczna
+Wymagana si³a: 6
+~
+@35 = ~D³oñ chwa³y~
+@36 = ~To jest ususzona rêka. Posiada po jednej czerwonej œwiecy przyczepionej do ka¿dego palca...~
+@37 = ~Ten przera¿aj¹cy przedmiot jest odciêt¹ d³oni¹ mê¿czyzny z czerwonymi œwiecami doczepionymi do ka¿dego palca. By³a to niegdyœ d³oñ rabusia, lecz teraz jest potê¿nym magicznym przedmiotem.
+
+Specjalne:
+ Pozwala rzuciæ Otwarcie
+ Pozwala rzuciæ Unieruchomienie osoby
+~
+@38 = ~Kawa³ek papieru~
+@39 = ~Ten kawa³ek papieru zawiera ma³y, czytelny napis po lewej stronie. Jest pokryty popio³em, brudem i wygl¹da na to, ¿e tak¿e krwi¹. Fragment jaki udaje ci siê przeczytaæ:
+
+...cierpliwie czekaj na przybycie Chwalebnej d³oni...b... nie osi¹gniemy ... pod naszym w³adaniem...~
+@40 = ~Kawa³ek notatki~
+@41 = ~Ten zabrudzony i zaplamiony skrawek papieru pokryty jest dziwnymi znaczkami. Baczniej siê przygl¹daj¹c, mo¿esz dostrzec, ¿e wygl¹daj¹ jak figury ró¿nych kszta³tów tworz¹ce wzór.~
+@42 = ~Dziennik~
+@43 = ~Wiêkszoœæ z tych rozlatuj¹cych siê stronic jest nieczytelna.
+
+...przeklêta kl¹twa!...nieumarli...co czyniæ?...zwój przywrócenia...
+
+Tylko koñcówka zawiera w miarê znacz¹ce informacje:
+
+Nie mam na czym pisaæ, moje cia³o ju¿ prawie zgni³o. Dowiedzia³em siê od innych, ¿e ten, kto mnie tu uwiêzi³, ju¿ nie ¿yje. Jego z³o pozwoli³o mu zmieniæ siê w upiora, a zatem bêdzie nawiedza³ to miejsce i dopuszcza³ siê strasznego œwiêtokradztwa.
+
+Czy moje cierpienie siê kiedyœ skoñczy? Chcê, by moja dusza wyzwoli³a siê z cia³a, by do³¹czyæ do chwa³y Amaunatora.
+
+Znalaz³em kilka zwojów przywrócenia, mo¿e jeden zadzia³a. Ale ktoœ inny musi rzuciæ czar!~
+@44 = ~Klucz~
+@45 = ~Skomplikowanie wygl¹daj¹cy klucz wykonany z zimnego ¿elaza.~
+@46 = ~Wiadomoœæ Martina~
+@47 = ~To jest wiadomoœæ Martina do Almaxa. Przegl¹daj¹c j¹, znajdujesz listê wyposa¿enia potrzebnego Martinowi do ukoñczenia budowy gaju druidów.~
+@48 = ~He³m~
+@49 = ~He³m ochrony przed urokami~
+@50 = ~Ten rodzaj otwartego he³mu, wykonywany z metalu lub wzmocnionej skóry, stanowi ochronê dla g³owy, chroni twarz oraz kark. He³my tego typu zazwyczaj zapewniaj¹ ochronê nosa.
+
+PARAMETRY:
+
+Klasa Pancerza: bez zmian
+Specjalne:
+ Chroni przed trafieniami krytycznymi.
+Waga: 4
+~
+@51 = ~Jak to sugeruje jego nazwa, he³m ochrony przed urokami chroni nosz¹c¹ go osobê przed wszystkimi próbami manipulowania jej emocjami. W ramach zachowania ostro¿noœci niektóre grupy najemników wyposa¿aj¹ swoich cz³onków w he³my tego typu, aby zapobiec przejêciu kontroli nad ich umys³ami przez wrogich magów.
+
+PARAMETRY:
+
+Klasa Pancerza: bez zmian
+Specjalne:
+ Chroni przed trafieniami krytycznymi
+ Nosz¹ca go osoba jest odporna na zauroczenia
+ Trzy razy dziennie pozwala rzuciæ Prawdziwe widzenie
+Waga: 4
+~
+@52 = ~Cia³o Locindy~
+@53 = ~To jest cia³o Locindy, które powinno zostaæ szybko zabrane do œwi¹tyni w Garrotten.~
+@54 = ~To jest brakuj¹ce wyposa¿enie z magazynu. Dwa miecze, tarcza, kilka worków m¹ki i cukru (zapaskudzonego przez szczury) i kawa³ek fio³koworó¿owego jedwabiu.~
+@55 = ~List od Qualtona~
+@56 = ~To jest list od opata Qualtona. NajwyraŸniej chce on naj¹æ Tellisha, aby zabi³ barona i jego ¿onê, Fairwind. Wspomina tak¿e, ¿e chce, aby sta³o siê to tak szybko, jak to tylko mo¿liwe.~
+@57 = ~Œwiêty symbol Osprem~
+@58 = ~To jest œwiêty symbol bogini Osprem. Z³oty amulet zawiera malunek z wielorybem. Wieloryb powinien mieæ czerwone rubinowe oko. Ten jednak owego kamienia nie posiada.~
+@59 = ~Ksiêga Czarów Pelltara~
+@60 = ~To jest ksiêga czarów Pelltara. Zawarte s¹ w niej wszystkie jego czary.
+
+W tym mocnym pojemniku mo¿na umieœciæ tuziny zwojów, zabezpieczaj¹c je w ten sposób przed ogniem, deszczem i piorunami – czyli najczêstszymi zagro¿eniami, jakich mo¿e spodziewaæ siê czarodziej szukaj¹cy przygód.~
+@61 = ~Struna~
+@62 = ~Jest to struna z lutni znaleziona przy ciele Barona Grellusa. Jest z³ota i zdaje siê lekko promieniowaæ magi¹.~
+@63 = ~Rubin~
+@64 = ~Ten ma³y rubin zosta³ znaleziony przy ciele Barona Grellusa. S¹dz¹c po wypowiedziach licznych œwiadków, Najwy¿szy Kap³an Harper ze œwi¹tyni Osprem zdaje siê nosiæ amulet z takimi rubinami.~
+@65 = ~Guzik z czerwonej skóry~
+@66 = ~Ten guzik z czerwonej skóry zosta³ znaleziony w rêku martwego Barona Grellusa. Nawi¹zuj¹c do wypowiedzi œwiadków, Abraham, w³aœciciel gospody w Gargotten, nosi podobne guziki.~
+@67 = ~Dokumenty Arrness~
+@68 = ~Pani Burmistrz Garotten, Arrness, zdaje siê z przesadn¹ precyzj¹ opisywaæ ka¿dy szczegó³ dotycz¹cy gildii zabójców. Mo¿na tu znaleŸæ wszelkie zapiski dotycz¹ce najmowanych przezeñ szpiegów i zabójców. Nietrudno równie¿ dostrzec informacje o wszystkich zleceniach na terenie miasta. Wydaje siê, ¿e gildia odnosi³a niema³e sukcesy w zbieraniu informacji, szpiegostwie i zabójstwach.
+
+Znajduje siê tutaj tak¿e osobisty pamiêtnik Arrness. Przegl¹daj¹c go, dowiadujesz siê, ¿e zamierza obj¹æ panowanie nad Brodem Resten jako nowa Baronowa, kiedy ju¿ usunie siê obecnych w³adców. Tellish zosta³ przez kogoœ wynajêty do pomocy w tych planach. Nic jednak nie wskazuje na to¿samoœæ jej osoby.~
+@69 = ~Dziennik Syriusza~
+@70 = ~To jest dziennik Syriusza.
+
+Przegl¹daj¹c dziennik, natkn¹³eœ siê na wzmiankê o tym, ¿e on i jakiœ nekromanta zostali najêci przez elfickich w³adców Wysp Lendore. Ich misja polega³a na szerzeniu chaosu wœród ostatnich osad ludzkich, tak aby w³adcy ³atwo mogli przej¹æ nad nimi kontrolê. D³oñ Chwa³y zosta³a stworzona, aby pomóc w z³odziejstwie. Wygl¹da na to, ¿e Syriusz odkry³, ¿e nekromanta okrada ich ze skarbów, wiêc pozby³ siê go. Nastêpnie przeprowadzi³ siê do latarni, aby byæ bli¿ej miasta. Pod koniec dziennika czytasz, ¿e ty i twoja dru¿yna stanowicie dla niego zagro¿enie. Dlatego opracowywa³ ró¿nego rodzaju rozwi¹zania, by wszystko wskazywa³o na was.~ ~To jest dziennik Syriusza.
+
+Przegl¹daj¹c dziennik, natknê³aœ siê na wzmiankê o tym, ¿e on i jakiœ nekromanta zostali najêci przez elfickich w³adców Wysp Lendore. Ich misja polega³a na szerzeniu chaosu wœród ostatnich osad ludzkich, tak aby w³adcy ³atwo mogli przej¹æ nad nimi kontrolê. D³oñ Chwa³y zosta³a stworzona, aby pomóc w z³odziejstwie. Wygl¹da na to, ¿e Syriusz odkry³, ¿e nekromanta okrada ich ze skarbów, wiêc pozby³ siê go. Nastêpnie przeprowadzi³ siê do latarni, aby byæ bli¿ej miasta. Pod koniec dziennika czytasz, ¿e ty i twoja dru¿yna stanowicie dla niego zagro¿enie. Dlatego opracowywa³ ró¿nego rodzaju rozwi¹zania, by wszystko wskazywa³o na was.~
+
+@71 = ~Ninja-To +2, +6 przeciwko praworz¹dnym dobrym~
+@72 = ~To z³owrogie ostrze zosta³o stworzone przez Yakuzê tylko w jednym celu: aby eliminowaæ paladynów, porz¹dnych ludzi i innych, którzy oœmiel¹ siê wejœæ im w drogê.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +2
+TraK0: +2, +6 przeciwko praworz¹dnym dobrym
+Typ obra¿eñ: sieczne
+Specjalne:
+ Przy ka¿dym trafieniu zabija postacie Praworz¹dne dobre (bez rzutu obronnego)
+Waga: 1
+OpóŸnienie: 0
+Rodzaj bieg³oœci: sejmitar/wakisashi/ninja-to
+Typ broni: 1-rêczna
+Wymaga si³a: 6
+~
+@73 = ~Dziennik Telvara~
+@74 = ~Ten dziennik zawiera masê zapisków Telvara na temat prowadzonych przez niego obserwacji. Jest te¿ trochê informacji dotycz¹cych mikstur, które tworzy³. Pod sam koniec dziennika Telvar wspomina wspó³pracê z kimœ o tajemniczym imieniu „Upiór”. Nie wspomina nic wiêcej, poza tym ¿e „Upiór” w³ada nieumar³ymi w twierdzy. Wygl¹da na to, ¿e on i „Upiór” planowali atak na Bród Resten.~
+@75 = ~Ksiêga Czarów Telvara~
+@76 = ~To jest ksiêga czarów Telvara. Zawarte s¹ w niej wszystkie jego czary.
+
+W tym mocnym pojemniku mo¿na umieœciæ tuziny zwojów, zabezpieczaj¹c je w ten sposób przed ogniem, deszczem i piorunami – czyli najczêstszymi zagro¿eniami, jakich mo¿e spodziewaæ siê czarodziej szukaj¹cy przygód.~
+@77 = ~Ró¿d¿ka zadawania powa¿nych ran~
+@78 = ~Zazwyczaj mog¹ jej u¿ywaæ tylko kap³ani, jednak akurat ta mo¿e zostaæ u¿yta przez ka¿dego, kto nie chce za blisko podchodziæ do swej ofiary.
+
+Pozwala rzucaæ Zadawanie powa¿nych ran~
+@79 = ~Ksiêga Czarów X~
+@80 = ~Ta ksiêga czarów zawiera tuziny zwojów, które bardzo trudno jest zdobyæ.
+
+W tym mocnym pojemniku mo¿na umieœciæ tuziny zwojów, zabezpieczaj¹c je w ten sposób przed ogniem, deszczem i piorunami – czyli najczêstszymi zagro¿eniami, jakich mo¿e spodziewaæ siê czarodziej szukaj¹cy przygód.~
+@81 = ~Ksiêga Czarów Zahrdahla~
+@82 = ~To jest ksiêga czarów Zahrdahla. Zawarte s¹ w niej wszystkie jego czary.
+
+W tym mocnym pojemniku mo¿na umieœciæ tuziny zwojów, zabezpieczaj¹c je w ten sposób przed ogniem, deszczem i piorunami – czyli najczêstszymi zagro¿eniami, jakich mo¿e spodziewaæ siê czarodziej szukaj¹cy przygód.~
+@83 = ~Notatnik Zahrdahla~
+@84 = ~Ten notatnik zawiera informacje Zahrdahla na temat mieszkañców Brodu Resten. Wygl¹da na to, ¿e s¹ tu zapiski o dos³ownie ka¿dym mieszkañcu. Zawiera te¿ listê kilku problemów w mieœcie zwi¹zanych z bandytami, gnollami i szczurami. Zahrdahl zaznacza tak¿e, ¿e planuje odwiedziæ Koœciane wzgórze, aby zyskaæ wiêcej informacji.
+
+Ale najwa¿niejsza rzecz, jak¹ wynosisz z tej lektury, to informacje o wys³aniu go tutaj przez Ksiêcia Krotenu. Wygl¹da na to, ¿e Zahrdahl nie jest wcale zwyk³ym handlarzem przynêt¹, ale szpiegiem samego ksiêcia.
+
+Pelltar musi siê o tym dowiedzieæ.~
+@85 = ~Instalowanie nowych sklepow~
+@86 = ~Druid Almax~
+@87 = ~Zbroja Altona~
+@88 = ~Œwi¹tynia Osprem~
+@89 = ~Opactwo Phaulkona~
+@90 = ~Tawerna u Falco~
+@91 = ~Bronie Gilmiego~
+@92 = ~Dom Abrahama~
+@93 = ~Mikstury Hestala~
+@94 = ~Zbrojownia Kraka~
+@95 = ~Ohlatta, jubiler~
+@96 = ~Pelltar~
+@97 = ~Torba na zwoje Pelltara~
+@98 = ~Sklep Perka~
+@99 = ~Sklep Pheldmana~
+@100 = ~Magiczne Ró¿noœci~
+@101 = ~Sklep Brodu Resten~
+@102 = ~Zwoje X ~
+@103 = ~Tawerna „Pod Zachodnim Wichrem”~
+@104 = ~Instalowanie nowych potworow.~
+@105 = ~Abracus~
+@106 = ~Tak, przyjacielu?~ [GENMG12]
+@107 = ~~ [VILLM05]
+@108 = ~~ [MTOWN06]
+@109 = ~Abraham~
+@110 = ~Almax~
+@111 = ~Almon~
+@112 = ~Witam.~ [GENMG08]
+@113 = ~Coœ ciê trapi?~ [GENMG11]
+@114 = ~Alton~
+@115 = ~Witam. Twa si³a jest imponuj¹ca.~ [EPRIM01]
+@116 = ~Litoœci! Miej litoœæ!~ [EPRIM08]
+@117 = ~Bêdziesz b³agaæ mnie o œmieræ, gdy z tob¹ skoñczê!~ [EPRIM05]
+@118 = ~Czego chcesz od wiernych?~ [EPRIM02]
+@119 = ~Pok³oñ siê przed bogami i b³agaj o litoœæ!~ [EPRIM03]
+@120 = ~Bogowie nie przebaczaj¹, g³upcze!~ [EPRIM04]
+@121 = ~Amos~
+@122 = ~Andrella~
+@123 = ~Armax~
+@124 = ~Pani Burmistrz Arrness~
+@125 = ~Arthur~
+@126 = ~Ascue~
+@127 = ~Hoo ha ha ha ha ha.~ [OGREM01]
+@128 = ~Umrzesz za to zuchwalstwo...~ [OGREM02]
+@129 = ~Zdychaj, bydlaku!~ [OGREM04]
+@130 = ~~ [OGREM08]
+@131 = ~~ [OGREM09]
+@132 = ~Balmar~
+@133 = ~Balmorrow~
+@134 = ~Ja ¿em kopa³ go w ten pusty ³eb, ¿e a¿ zdech³. Har har.~ [BANDT01]
+@135 = ~Eeee, a to by³o coœ, har har.~ [BANDT03]
+@136 = ~Przestañ to robiæ!~ [BANDT04]
+@137 = ~Basil~
+@138 = ~Basmar~
+@139 = ~Sir Billy Bob~
+@140 = ~Deszcz na straszydle, krew na p³ugu.~
+@141 = ~Beshkar~
+@142 = ~Witaj.~ [GENFG12]
+@143 = ~Twój krzyk jest muzyk¹ dla mych uszu.~ [GENFT07]
+@144 = ~~ [FESTH05]
+@145 = ~~ [FESTH06]
+@146 = ~Bess~
+@147 = ~Bomarc~
+@148 = ~Akolita Bogini Osprem~
+@149 = ~Akolita~
+@150 = ~Akolita Phaulkona~
+@151 = ~Ch³opak~
+@152 = ~Mama zabroni³a mi rozmawiaæ z obcymi.~ [MCHIL01]
+@153 = ~~ [MCHIL05]
+@154 = ~~ [MCHIL06]
+@155 = ~ZejdŸ mi z drogi! Bo na ciebie naplujê!~
+@156 = ~~ [AMB_M34B]
+@157 = ~Napotkana osoba~
+@158 = ~Siemanko.~ [GENMG13]
+@159 = ~ZejdŸ mi z oczu! Nic dla ciebie nie zamierzam robiæ!~
+@160 = ~~ [DRUNK04]
+@161 = ~~ [DRUNK01]
+@162 = ~Ano ni mom czasu, aby z tobom gadoæ.~ [FARME01]
+@163 = ~ZejdŸ mi z oczu! Nic dla ciebie nie zamierzam robiæ!~
+@164 = ~~ [FARME05]
+@165 = ~~ [FARME06]
+@166 = ~Pracownik budowy~
+@167 = ~S³u¿¹ca~
+@168 = ~Eless~
+@169 = ~Fabio~
+@170 = ~Wybacz, ale nie gram na ¿yczenie.~ [FABIO20]
+@171 = ~Wybacz, muszê spadaæ. Panie mnie wzywaj¹. Bywaj.~ [FABIO11]
+@172 = ~Wiesz co? Masz racjê. Mo¿e napiszê o tobie pieœñ.~ [FABIO15]
+@173 = ~Ta grupa ma jakieœ powa¿ne problemy.~ [FABIO12]
+@174 = ~Wiecie, mam kilka lepszych zajêæ, ni¿ siedzenie tu z wami.~ [FABIO16]
+@175 = ~To jest to. Skoñczy³em z tob¹. Zapomnij o pieœni.~ [FABIO13]
+@176 = ~Gdybym móg³ królem byæ choæ przez jeden dzieñ.~ [FABIOB]
+@177 = ~Ziew. Panie, trzeba mi drzemki.~ [FABIOC]
+@178 = ~Wiesz, to koliduje z mym uganianiem siê za spódnicami.~ [FABIOD]
+@179 = ~Zaœpiewam o twej œmierci!~ [FABIOA]
+@180 = ~Kolejny g³upiec gotowy zgin¹æ z mojej rêki.~ [FABIO9]
+@181 = ~Œmieræ wam! Hmm, mo¿e powinienem to zapisaæ.~ [FABIO8]
+@182 = ~Twa œmieræ niewarta jest nawet jednej zwrotki w piosence.~ [FABIO10]
+@183 = ~Za potrzebuj¹cych! Zaraz, zaraz, ja to ju¿ gdzieœ s³ysza³em.~ [FABIO19]
+@184 = ~A³! Psiakrew, to bola³o!~ [FABIOL]
+@185 = ~Uch.~ [FABIOM]
+@186 = ~Hej! Potrzebna mikstura, no szybciej!~ [FABIOE]
+@187 = ~Ach, las, a wraz z nim wiele prywatnoœci. Gdybym tylko mia³ panienkê do towarzystwa...~ [FABION]
+@188 = ~Drogie Panie, proszê, ustawiamy siê w kolejce.~ [FABIOO]
+@189 = ~Ach, raczej nie ma sensu przemawiaæ tu z akcentem...~ [FABIOP]
+@190 = ~Tylko w s³oñca promieniach mo¿na zobaczyæ prawdziwe piêkno mej twarzy.~ [FABIOQ]
+@191 = ~*nuci sobie*~ [FABIOR]
+@192 = ~Przysiêgam, nie wiedzia³em, ile mia³a lat.~ [FABIOG]
+@193 = ~Tyle piêknych kobiet, a tak ma³o czasu.~ [FABIOF]
+@194 = ~By³o sobie raz dziewczê z Nantucket...~ [FABIOH]
+@195 = ~Co siê sta³o, ch³opie?~ [FABIOX]
+@196 = ~Wspomnia³em mo¿e kiedyœ o z³odziejce z ogonem, któr¹ pozna³em? To by³o coœ!~ [FABIO0]
+@197 = ~Tak jest, dowódco!~ [FABIOT]
+@198 = ~Mi³ostki, dziecinko, mi³ostki. Taaak!~ [FABIOI]
+@199 = ~Nie nienawidŸ mnie tylko dlatego, ¿e jestem piêkny.~ [FABIOJ]
+@200 = ~Pewnie. Mogê to zrobiæ.~ [FABIOK]
+@201 = ~Hej! Ja tu pracujê.~ [FABIOY]
+@202 = ~Strasznie dobry, sir.~ [FABIOU]
+@203 = ~Och, jasne, dajcie mi to zrobiæ. Nie widzê, abyœcie siê do tego rwali.~ [FABIO_]
+@204 = ~Kolejny poleg³y bohater. Hmm, mo¿e powinienem napisaæ o nim pieœñ.~ [FABIOW]
+@205 = ~Wybornie!~ [FABIOV]
+@206 = ~Oooo, taaak!~ [FABIOZ]
+@207 = ~Co?! Ja nigdy nie chybiam.~ [FABIO1]
+@208 = ~Co, u licha? Nie dzia³a.~ [FABIO2]
+@209 = ~Hej, ta paczka jest pe³na, kole¿ko. ZnajdŸ sobie innego mu³a.~ [FABIO3]
+@210 = ~Ha ha ah!~ [FABIO4]
+@211 = ~Fabio, s³ynny bard (za jakiego siê uwa¿a), wygl¹da, jakby zwiedzi³ ju¿ ca³y œwiat. Podró¿owa³ przez liczne krainy z ró¿nymi zespo³ami, ale... Niestety nic z tego, co plecie, nie jest pewne, i mog³o siê wcale nie zdarzyæ. Jedynym pewnikiem jest to, ¿e ma bzika na punkcie kobiet. Nie potrafi prowadziæ rozmowy bez rozgl¹dania siê za niewiastami w pobli¿u. Uwa¿a siê za kobieciarza, ale w rzeczywistoœci potrafi wyprowadziæ z równowagi ka¿d¹ z nich w ci¹gu kilku sekund. Uwielbia wymawiaæ s³owa z ró¿nymi akcentami, z nadziej¹ na poderwanie jakiejœ przechodz¹cej dziewoi. Oby jego srebrny ale ciêty je¿yk nigdy nie sprowadzi³ na ciebie powa¿niejszych k³opotów.~
+@212 = ~Fairwind~
+@213 = ~Falco~
+@214 = ~Falpir~
+@215 = ~Felwin~
+@216 = ~Bez w¹tpienia wolê tereny leœne, ale w tych czasach trzeba siê umieæ dostosowaæ.~ [FELFF02]
+@217 = ~~ [FELFF05]
+@218 = ~~ [FELFF06]
+@219 = ~Dzieñ dobry i witaj.~ [FELFF01]
+@220 = ~Ognisty olbrzym~
+@221 = ~Fliban~
+@222 = ~Gap~
+@223 = ~Gellius~
+@224 = ~Gelmark~
+@225 = ~Witam w moich skromnych progach.~ [STORE01]
+@226 = ~~ [STORE05]
+@227 = ~~ [STORE06]
+@228 = ~Klient ma zawsze racjê.~ [STORE03]
+@229 = ~Gelpas~
+@230 = ~Gilmi~
+@231 = ~Glami~
+@232 = ~Przykro mi, przyjacielu, ale jesteœ umówiony z kimœ z do³u.~ [GENMT05]
+@233 = ~Mów, mów!~ [GENMG09]
+@234 = ~Golem~
+@235 = ~Gorharg~
+@236 = ~Grecko~
+@237 = ~Baron Grellus~
+@238 = ~Gristla~
+@239 = ~Szkielet~
+@240 = ~~ [GUARR05]
+@241 = ~~ [GUARR06]
+@242 = ~Witaj.~ [GENMG14]
+@243 = ~Masz tu ju¿ wystarczaj¹co z³¹ reputacjê! Wynoœ siê!~
+@244 = ~~ [GUARR01]
+@245 = ~Stra¿nik~
+@246 = ~Zabójca-uczeñ~
+@247 = ~Haki~
+@248 = ~Harmin~
+@249 = ~Harper~
+@250 = ~Hestal~
+@251 = ~Ej, przyjacielu! Dobrze spotkaæ takiego zacnego ch³opa jak ty.~ [MANLC01]
+@252 = ~~ [MANLC03]
+@253 = ~~ [MANLC04]
+@254 = ~Hoirag~
+@255 = ~Holga~
+@256 = ~Krak~
+@257 = ~~ [ORCAXE01]
+@258 = ~~ [ORCAXE03]
+@259 = ~~ [ORCAXE04]
+@260 = ~~ [ORCAXE08]
+@261 = ~~ [ORCAXE10]
+@262 = ~~ [ORCAXE02]
+@263 = ~Krellus~
+@264 = ~Jaszczurocz³ek~
+@265 = ~Jaszczurocz³ek-król~
+@266 = ~Jaszczurocz³ek-szaman~
+@267 = ~Locinda~
+@268 = ~Lothar~
+@269 = ~Lydia~
+@270 = ~Martin~
+@271 = ~Nie zadzieraj z natur¹, bo siê tob¹ zajmê.~ [DRUID02]
+@272 = ~~ [DRUID05]
+@273 = ~~ [DRUID06]
+@274 = ~Zwracanie uwagi na swe czyny w tej kniei dobrym dla was bêdzie.~ [DRUID01]
+@275 = ~Cywilizacja jest daleko st¹d, mieszczuchu.~ [DRUID03]
+@276 = ~Marvin~
+@277 = ~Ogr~
+@278 = ~Ja zgnieœæ, zgnieœæ na miazga!~ [OGREE03]
+@279 = ~Ja zmia¿d¿yæ twoja pysk.~ [OGREE04]
+@280 = ~~ [OGREE08]
+@281 = ~~ [OGREE09]
+@282 = ~Ja zgnieœæ.~ [OGREE01]
+@283 = ~~ [OGREE02]
+@284 = ~~ [OGREE10]
+@285 = ~Ork-stra¿nik~
+@286 = ~Ohlatta~
+@287 = ~Ork-porucznik~
+@288 = ~Ork~
+@289 = ~Ork-dowódca~
+@290 = ~Oskar~
+@291 = ~Perk~
+@292 = ~Czego ci trzeba?~ [GENMG10]
+@293 = ~Philmar~
+@294 = ~Phyllis~
+@295 = ~Priska~
+@296 = ~Qualton~
+@297 = ~~ [KELDT03]
+@298 = ~~ [KELDT04]
+@299 = ~Nie dotykaj mnie. Jeszcze siê czymœ zara¿ê.~ [KELDT02]
+@300 = ~Quenex~
+@301 = ~Wielki szczur~
+@302 = ~Ravella~
+@303 = ~Po tym, co zrobiliœcie, nie odezwê siê do was ani s³owem!~
+@304 = ~~ [FTOWN05]
+@305 = ~~ [FTOWN06]
+@306 = ~~ [GENFG12]
+@307 = ~Relba~
+@308 = ~Rogan~
+@309 = ~Witaj, przyjacielu.~ [GENMG06]
+@310 = ~Sangster~
+@311 = ~Czy mo¿emy ci zabraæ chwilkê?~ [MAREK01]
+@312 = ~Moje ostrze nosi twe imiê.~ [GENMT03]
+@313 = ~~ [MAREK03]
+@314 = ~~ [MAREK04]
+@315 = ~G³upcy. Nigdy nie dowiedz¹ siê, czym oberwali.~ [MAREK02]
+@316 = ~Selmo~
+@317 = ~Najemnik~
+@318 = ~Shargrailar~
+@319 = ~Dr¿yj przed m¹ potêg¹!~ [DAVEO06]
+@320 = ~Twoje wysi³ki na nic siê nie zdadz¹!~ [DAVEO05]
+@321 = ~Zdychajcie, bezczelne szczeniaki!~ [DAVEO03]
+@322 = ~Ah ha ha ha ha ha!~ [DAVEO04]
+@323 = ~Syriusz~
+@324 = ~Smyth~
+@325 = ~Kopeæ~
+@326 = ~~ [AMB_E44A]
+@327 = ~~ [AMB_E44D]
+@328 = ~Miau~ [AMB_E44A]
+@329 = ~Miau~ [AMB_E44D]
+@330 = ~Pheldman~
+@331 = ~Nieznany Wróg~
+@332 = ~Tellish~
+@333 = ~Telvar~
+@334 = ~Daruj sobie te daremne sztuczki. S¹ niczym wobec mojej magii!~ [DAVEO07]
+@335 = ~~ [DAVEO08]
+@336 = ~~ [DAVEO09]
+@337 = ~Wiêc wielcy poszukiwacze przygód znaleŸli swoj¹ drogê do mego legowiska.~ [DAVEO01]
+@338 = ~£otrzyk~
+@339 = ~Tolvar~
+@340 = ~Dziewka z gospody~
+@341 = ~Statua~
+@342 = ~Volcifar~
+@343 = ~Pies stra¿niczy~
+@344 = ~~ [WADOG03]
+@345 = ~~ [WADOG04]
+@346 = ~~ [WADOG05]
+@347 = ~~ [WADOG06]
+@348 = ~~ [WADOG08]
+@349 = ~~ [WADOG09]
+@350 = ~~ [WADOG01]
+@351 = ~~ [WADOG02]
+@352 = ~Obserwator~
+@353 = ~Welcar~
+@354 = ~Wilbur~
+@355 = ~Wilfong~
+@356 = ~Willis~
+@357 = ~Upiór~
+@358 = ~Yalta~
+@359 = ~Zahrdahl~
+@360 = ~Zelmar~
+@361 = ~Kompilowanie nowych plikow~
+@362 = ~Kompilowanie dialogow~
+@363 = ~Instalowanie nowych lokacji~
+@364 = ~Tutu zainstalowane, instalowanie plikow Tutu ~
+@365 = ~Zamek w Brodzie Resten~
+@366 = ~Koszary~
+@367 = ~Magiczne Ró¿noœci~
+@368 = ~Zbroje, Bronie, Tarcze~
+@369 = ~Donoœne kroki stra¿ników Brodu Resten budz¹ ciê z drzemki.~
+@370 = ~£yse wzgórze~
+@371 = ~Bród Resten~
+@372 = ~Plebania~
+@373 = ~Na po³udnie do Garrotten~
+@374 = ~Widzisz ma³y tunel. By³ doskonale ukryty i nie wygl¹da, jakby by³ u¿ywany. Coœ blokujê ci drogê do wejœcia.~
+@375 = ~Ktoœ wykopa³ tunel pod ogrodzeniem.~
+@376 = ~To musi byæ drzewo, na którym wieszano ludzi. Z ogromnych ga³êzi zwisa kilka starych lin.~
+@377 = ~Trójszczyt~
+@378 = ~Têdy dojdziesz z powrotem do o³tarza. Mo¿esz zakryæ schody, aby nikt nie wiedzia³, ¿e ktoœ schodzi³ na dó³.~
+@379 = ~W tych koszarach na pewno wybuch³ kiedyœ po¿ar. Wiêkszoœæ dachu jest doszczêtnie spalona.~
+@380 = ~Dom wygl¹da na opuszczony. Drzwi s¹ zaroœniête pn¹czami i krzakami.~
+@381 = ~£ó¿ko, stó³ i reszta mebli jest zbutwia³a i wygl¹da, jakby mia³a siê zaraz rozlecieæ.~
+@382 = ~Zardzewia³y sztylet wbity w tarczê do æwiczeñ.~
+@383 = ~Ten tunel jest tak ma³y, ¿e zmieszcz¹ siê tu jedynie szczury. To têdy wydostawa³y siê z jaskiñ.~
+@384 = ~S¹dz¹c po szcz¹tkach, móg³ to byæ z³odziej. Poza koœæmi, ciemnym ubraniem i z³amanym wytrychem nie ma tu nic ciekawego.~
+@385 = ~Baron Brodu Resten~
+@386 = ~Wie¿a Pelltara~
+@387 = ~Wyjœcie~
+@388 = ~Tu le¿y Joe, który zwyk³ mawiaæ: „Ten mod mnie wykoñczy!”~
+@389 = ~Wygl¹da to na œwie¿y grób.~
+@390 = ~Jest tutaj ma³y tunel prowadz¹cy w dó³.~
+@391 = ~Ten szkielet jest jeszcze œwie¿y. Pozosta³oœci ciemnych szat sugeruj¹, ¿e to zw³oki czarodzieja.~
+@392 = ~Chyba ktoœ przebudowywa³ tê katapultê. Kilka belek zosta³o wymienionych.~
+@393 = ~Zauwa¿asz, ¿e okolica jest ca³kowicie pozbawiona roœlinnoœci.~
+@394 = ~Wygl¹da to na ma³y, niedawno opuszczony fort. Lada moment siê zawali.~
+@395 = ~Spokojny las~
+@396 = ~Wyjœcie z piwnicy~
+@397 = ~Wyjœcie na powierzchniê~
+@398 = ~Wzgórza g³azów~
+@399 = ~Na wschód – Bród Resten~
+@400 = ~Koœciane wzgórze~
+@401 = ~Odetchnij na chwilê i oddaj siê modlitwie w mej œwi¹tyni! Bóstwa mórz na pewno ci to wynagrodz¹.~
+@402 = ~Statua Osprem, bogini rybaków i ¿eglarzy.~
+@403 = ~Naprzód pójdŸ ku morzu, wejdŸ na statek, by otrzymaæ dary. Potwory ich nakarm lub wyrwij je wodzie. To jest skarb mórz!~
+@404 = ~Statua Xerbo, Boga morza~
+@405 = ~Teatr Mistycznych Obchodów ~
+@406 = ~Donoœne kroki stra¿ników Brodu Resten budz¹ ciê z drzemki.~
+@407 = ~Do Brodu Resten~
+@408 = ~Do zamku~
+@409 = ~Pó³nocna czêœæ miasta~
+@410 = ~Po³udniowa czêœæ miasta ~
+@411 = ~Te dwie ma³e dziury w œcianie s³u¿y³y zapewne jako punkt obserwacyjny dla kogoœ ciekawskiego. Bez problemu mo¿na ogl¹daæ nastêpny pokój.~
+@412 = ~Na œcianie znajduj¹ siê przyrz¹dy ogrodnicze i zabrudzone ubrania.~
+@413 = ~Jest to statua bogini Osprem.~
+@414 = ~Na pó³kach widaæ ksi¹¿ki o tematyce religijnej i teologicznej.~
+@415 = ~W tych beczkach znajdujesz mnóstwo broni i narzêdzi. Niestety wiêkszoœæ z nich jest zardzewia³a i nie nadaje siê do u¿ytku.~
+@416 = ~Te grube, puszyste dywany zosta³y zwiniête dla ³atwego przechowywania.~
+@417 = ~Zwisa tu rz¹d latarni. S¹dz¹c po tonach kurzu, s¹ tu od bardzo dawna.~
+@418 = ~Na tym drewnianym stojaku zawieszono egzotycznie wygl¹daj¹ce ubranie. Wygl¹da to na strój z³o¿ony z jedwabnego kubraka z kwiecistymi ozdobami i pasuj¹cego turbanu.~
+@419 = ~Niew¹tpliwie s¹ to kiepskiej jakoœci, marnie wykonane skórzane sakwy. Szew jest luŸny i chaotyczny i bez w¹tpienia nie nadaj¹ siê one do przechowywania wiêcej ni¿ kilku monet.~
+@420 = ~Na ca³ej d³ugoœci lady stoi zbiór wyczyszczonych do po³ysku waz i lamp naftowych.~
+@421 = ~Na tych pó³kach znajduj¹ siê przeró¿ne przedmioty, poczynaj¹c od ksi¹¿ek i pergaminów, przez ubrania, po jedzenie i przybory kuchenne. S¹ one jednak niewiele warte.~
+@422 = ~Nie wkraczaj z moc¹ broni w drzwi fortecy albo ciê unicestwiê.~
+@423 = ~To jest statua Korda, Boga wojny.~
+@424 = ~Te schody zawali³y siê dawno temu, uniemo¿liwiaj¹c przedostanie siê do dalszej czêœci wie¿y. Ich naprawa nie zosta³a jeszcze ukoñczona.~
+@425 = ~To zardzewia³e ustrojstwo wygl¹da na dzia³aj¹ce jeszcze organy.~
+@426 = ~Ta czêœæ wie¿y zapad³a siê, pozostawiaj¹c spory otwór w pod³odze.~
+@427 = ~Na tym stole znajduje siê mnóstwo narzêdzi do otwierania zamków.~
+@428 = ~Na tym stole znajduje siê ca³e mnóstwo narzêdzi tortur. Wiêkszoœæ wygl¹da na czêsto u¿ywane.~
+@429 = ~Ten korytarz siê zawali³.~
+@430 = ~Widzisz wielkie wejœcie do jaskini, ale nie sposób jest zejœæ têdy. Mo¿e jest inne wejœcie?~
+@431 = ~Wejœcie do jaskini~
+@432 = ~Ta droga prowadzi do jeziora.~
+@433 = ~Na pó³noc – Garrotten~
+@434 = ~Jakieœ orcze bazgro³y sprawiaj¹, ¿e ten znak jest ca³kowicie nieczytelny.~
+@435 = ~BGT-Weidu zainstalowane, instalowanie plików BGT~
+@436 = ~Aktualizacja plikow gry~
+@437 = ~Zainstalowac nowe lokacje? Trzeba to wreszcie zrobic!~
+
+@501 = ~Ta postaæ jest aktualnie na poziomie zerowym. Awansuj j¹, by wybraæ jej pocz¹tkowe bieg³oœci i umiejêtnoœci. (Do tego czasu iloœæ ich punktów ¿ycia, jak i ekwipunek mog¹ byæ nieco dziwne; nie przejmuj siê tym. Gdy tylko podniesiesz j¹ na wy¿szy poziom, bêdzie mog³a zdobyæ wiêcej umiejêtnoœci (w zale¿noœci od twojego doœwiadczenia)).~
+
+@750 = ~Doœwiadczony przywódca zbójców~
+
+@1000 = ~Czy instalator powinien zbiffowac czesc zasobow SoBH?
+[Y] tak, [N] nie~
+@1001 = ~Komponent nie jest kompatybilny z ta wersja gry.~
+
+//BG2 @5689
+@2000 = ~Rozmowa~
+
+//BG2 @71000
+@2001 = ~Ksiêgarz £azarz~
+//BG2 @10834
+@2002 = ~Widz~
+//BG2 @34932
+@2003 = ~Poszukiwacz przygód~
+//BG2 @2258
+@2004 = ~Kapitan hobgoblinów~
+//BG2 @34784
+@2005 = ~Ork~
+//BG2 @2197
+@2006 = ~Ork ³ucznik~
+//BG2 @2331
+@2007 = ~Ork kap³an~
+//BG2 @2329
+@2008 = ~Ork mag~
+//BG2 @2327
+@2009 = ~Orog~
+//BG2 @2887
+@2010 = ~Otiag~
